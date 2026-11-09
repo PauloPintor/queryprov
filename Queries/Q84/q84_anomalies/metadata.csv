@@ -1,0 +1,1051 @@
+file,label,scenario,city,income,income_window,n_rows
+s1_city_00000.sql,1,s1_city,Oneida,36553,50000,1
+s1_city_00001.sql,1,s1_city,Proctor,27519,50000,3
+s1_city_00002.sql,1,s1_city,Lawrenceville,34985,50000,1
+s1_city_00003.sql,1,s1_city,Perry,36077,50000,1
+s1_city_00004.sql,1,s1_city,Sumner,41001,50000,1
+s1_city_00005.sql,1,s1_city,Carpenter,37613,50000,5
+s1_city_00006.sql,1,s1_city,Leland,32452,50000,1
+s1_city_00007.sql,1,s1_city,Calhoun,39815,50000,1
+s1_city_00008.sql,1,s1_city,Ellisville,37943,50000,1
+s1_city_00009.sql,1,s1_city,Proctor,36574,50000,4
+s1_city_00010.sql,1,s1_city,Fayetteville,30945,50000,2
+s1_city_00011.sql,1,s1_city,Calhoun,33267,50000,1
+s1_city_00012.sql,1,s1_city,Harmon,38645,50000,4
+s1_city_00013.sql,1,s1_city,Bayview,45088,50000,2
+s1_city_00014.sql,1,s1_city,California,32858,50000,1
+s1_city_00015.sql,1,s1_city,Proctor,36082,50000,4
+s1_city_00016.sql,1,s1_city,California,39594,50000,1
+s1_city_00017.sql,1,s1_city,Red Oak,26825,50000,3
+s1_city_00018.sql,1,s1_city,Greendale,34663,50000,2
+s1_city_00019.sql,1,s1_city,Kent,35336,50000,1
+s1_city_00020.sql,1,s1_city,California,35738,50000,1
+s1_city_00021.sql,1,s1_city,Empire,36995,50000,1
+s1_city_00022.sql,1,s1_city,Cherry Valley,29335,50000,2
+s1_city_00023.sql,1,s1_city,Farmersville,32241,50000,1
+s1_city_00024.sql,1,s1_city,Ellsworth,38761,50000,1
+s1_city_00025.sql,1,s1_city,Carpenter,32946,50000,5
+s1_city_00026.sql,1,s1_city,Thompsonville,25988,50000,2
+s1_city_00027.sql,1,s1_city,Buckingham,35802,50000,1
+s1_city_00028.sql,1,s1_city,Smith,32870,50000,1
+s1_city_00029.sql,1,s1_city,Willow,39185,50000,1
+s1_city_00030.sql,1,s1_city,Proctor,31588,50000,4
+s1_city_00031.sql,1,s1_city,Price,42328,50000,2
+s1_city_00032.sql,1,s1_city,Leesville,36703,50000,1
+s1_city_00033.sql,1,s1_city,Carlisle,37229,50000,1
+s1_city_00034.sql,1,s1_city,Belfast,38524,50000,1
+s1_city_00035.sql,1,s1_city,Payne,41977,50000,2
+s1_city_00036.sql,1,s1_city,Cooper,42426,50000,1
+s1_city_00037.sql,1,s1_city,Sumner,30610,50000,1
+s1_city_00038.sql,1,s1_city,Ruth,29447,50000,3
+s1_city_00039.sql,1,s1_city,Somerville,40257,50000,1
+s1_city_00040.sql,1,s1_city,Amherst,30936,50000,3
+s1_city_00041.sql,1,s1_city,Hurricane,34885,50000,1
+s1_city_00042.sql,1,s1_city,Cherry Valley,35462,50000,2
+s1_city_00043.sql,1,s1_city,Fayetteville,42811,50000,1
+s1_city_00044.sql,1,s1_city,Willow,30971,50000,1
+s1_city_00045.sql,1,s1_city,Nichols,33469,50000,1
+s1_city_00046.sql,1,s1_city,Farmersville,40868,50000,1
+s1_city_00047.sql,1,s1_city,Harmon,24626,50000,5
+s1_city_00048.sql,1,s1_city,Star,41421,50000,3
+s1_city_00049.sql,1,s1_city,Argyle,34883,50000,1
+s1_city_00050.sql,1,s1_city,Sullivan,42400,50000,2
+s1_city_00051.sql,1,s1_city,Northwood,38299,50000,1
+s1_city_00052.sql,1,s1_city,Fayetteville,36378,50000,2
+s1_city_00053.sql,1,s1_city,Foster,44260,50000,1
+s1_city_00054.sql,1,s1_city,Leesville,38618,50000,1
+s1_city_00055.sql,1,s1_city,Northwood,43449,50000,1
+s1_city_00056.sql,1,s1_city,Redland,37146,50000,1
+s1_city_00057.sql,1,s1_city,Proctor,35368,50000,4
+s1_city_00058.sql,1,s1_city,Chestnut Hill,27782,50000,1
+s1_city_00059.sql,1,s1_city,Kelly,33948,50000,1
+s1_city_00060.sql,1,s1_city,Somerville,36902,50000,2
+s1_city_00061.sql,1,s1_city,Richfield,35096,50000,1
+s1_city_00062.sql,1,s1_city,Leland,38194,50000,1
+s1_city_00063.sql,1,s1_city,Wayland,33370,50000,1
+s1_city_00064.sql,1,s1_city,Farmersville,35146,50000,1
+s1_city_00065.sql,1,s1_city,Harmon,30951,50000,4
+s1_city_00066.sql,1,s1_city,Sullivan,32279,50000,3
+s1_city_00067.sql,1,s1_city,Little River,34215,50000,2
+s1_city_00068.sql,1,s1_city,Brookville,39263,50000,1
+s1_city_00069.sql,1,s1_city,Stafford,34071,50000,2
+s1_city_00070.sql,1,s1_city,Gravel Hill,29855,50000,1
+s1_city_00071.sql,1,s1_city,Carpenter,33028,50000,5
+s1_city_00072.sql,1,s1_city,Ruth,41959,50000,3
+s1_city_00073.sql,1,s1_city,Amherst,29008,50000,3
+s1_city_00074.sql,1,s1_city,Willow,31770,50000,1
+s1_city_00075.sql,1,s1_city,Greendale,43713,50000,1
+s1_city_00076.sql,1,s1_city,Fayetteville,40620,50000,1
+s1_city_00077.sql,1,s1_city,Roxbury,29654,50000,1
+s1_city_00078.sql,1,s1_city,Ruth,35837,50000,2
+s1_city_00079.sql,1,s1_city,Fayetteville,39217,50000,2
+s1_city_00080.sql,1,s1_city,Stratford,40044,50000,2
+s1_city_00081.sql,1,s1_city,Lawrenceville,34864,50000,1
+s1_city_00082.sql,1,s1_city,Gravel Hill,35485,50000,1
+s1_city_00083.sql,1,s1_city,Nottingham,40160,50000,2
+s1_city_00084.sql,1,s1_city,Fisher,36042,50000,3
+s1_city_00085.sql,1,s1_city,White Hall,37925,50000,1
+s1_city_00086.sql,1,s1_city,Redland,30658,50000,1
+s1_city_00087.sql,1,s1_city,Woodruff,27469,50000,1
+s1_city_00088.sql,1,s1_city,Rossville,31408,50000,1
+s1_city_00089.sql,1,s1_city,Williamsville,27718,50000,1
+s1_city_00090.sql,1,s1_city,Belleville,37370,50000,1
+s1_city_00091.sql,1,s1_city,Birmingham,27206,50000,1
+s1_city_00092.sql,1,s1_city,Argyle,38991,50000,1
+s1_city_00093.sql,1,s1_city,Amherst,33655,50000,3
+s1_city_00094.sql,1,s1_city,Ellisville,36346,50000,1
+s1_city_00095.sql,1,s1_city,Lawrenceville,38867,50000,1
+s1_city_00096.sql,1,s1_city,Mechanicsburg,44687,50000,5
+s1_city_00097.sql,1,s1_city,Hazelwood,30379,50000,2
+s1_city_00098.sql,1,s1_city,River Oaks,31109,50000,1
+s1_city_00099.sql,1,s1_city,Mechanicsburg,37824,50000,4
+s1_city_00100.sql,1,s1_city,Pomona,32889,50000,1
+s1_city_00101.sql,1,s1_city,White Hall,35726,50000,1
+s1_city_00102.sql,1,s1_city,Leesville,30658,50000,1
+s1_city_00103.sql,1,s1_city,Siloam,36935,50000,2
+s1_city_00104.sql,1,s1_city,California,39104,50000,1
+s1_city_00105.sql,1,s1_city,Stafford,32673,50000,2
+s1_city_00106.sql,1,s1_city,Texas,30323,50000,1
+s1_city_00107.sql,1,s1_city,Redland,34542,50000,1
+s1_city_00108.sql,1,s1_city,Saint James,40985,50000,1
+s1_city_00109.sql,1,s1_city,Ashley,36285,50000,3
+s1_city_00110.sql,1,s1_city,Richfield,34211,50000,1
+s1_city_00111.sql,1,s1_city,Richfield,34097,50000,1
+s1_city_00112.sql,1,s1_city,Brookville,37108,50000,1
+s1_city_00113.sql,1,s1_city,Saint James,34790,50000,1
+s1_city_00114.sql,1,s1_city,Willow,37459,50000,1
+s1_city_00115.sql,1,s1_city,Sumner,31506,50000,1
+s1_city_00116.sql,1,s1_city,Pinhook,35697,50000,1
+s1_city_00117.sql,1,s1_city,Elm Grove,29667,50000,1
+s1_city_00118.sql,1,s1_city,Carpenter,39764,50000,5
+s1_city_00119.sql,1,s1_city,Indian Village,29999,50000,2
+s1_city_00120.sql,1,s1_city,Wyoming,36602,50000,1
+s1_city_00121.sql,1,s1_city,Red Oak,39619,50000,1
+s1_city_00122.sql,1,s1_city,Proctor,40922,50000,5
+s1_city_00123.sql,1,s1_city,Farmersville,36358,50000,1
+s1_city_00124.sql,1,s1_city,Indian Village,36152,50000,2
+s1_city_00125.sql,1,s1_city,Perkins,39981,50000,1
+s1_city_00126.sql,1,s1_city,Redland,36522,50000,1
+s1_city_00127.sql,1,s1_city,Amherst,37216,50000,3
+s1_city_00128.sql,1,s1_city,Warwick,33364,50000,2
+s1_city_00129.sql,1,s1_city,Ellsworth,31753,50000,1
+s1_city_00130.sql,1,s1_city,Tyrone,38923,50000,2
+s1_city_00131.sql,1,s1_city,Lawrenceville,37637,50000,1
+s1_city_00132.sql,1,s1_city,Hardy,32374,50000,3
+s1_city_00133.sql,1,s1_city,Globe,38576,50000,1
+s1_city_00134.sql,1,s1_city,Sullivan,34998,50000,3
+s1_city_00135.sql,1,s1_city,Stafford,36874,50000,2
+s1_city_00136.sql,1,s1_city,Farmersville,38540,50000,1
+s1_city_00137.sql,1,s1_city,Wilton,38781,50000,2
+s1_city_00138.sql,1,s1_city,Fayetteville,34948,50000,2
+s1_city_00139.sql,1,s1_city,Perkins,27888,50000,1
+s1_city_00140.sql,1,s1_city,Whispering Pines,35433,50000,1
+s1_city_00141.sql,1,s1_city,Belleville,29357,50000,3
+s1_city_00142.sql,1,s1_city,Kelly,33437,50000,1
+s1_city_00143.sql,1,s1_city,Buckingham,38213,50000,1
+s1_city_00144.sql,1,s1_city,Amherst,38066,50000,3
+s1_city_00145.sql,1,s1_city,Harvey,33125,50000,2
+s1_city_00146.sql,1,s1_city,Hazelwood,35849,50000,2
+s1_city_00147.sql,1,s1_city,Empire,29090,50000,1
+s1_city_00148.sql,1,s1_city,Amherst,45335,50000,2
+s1_city_00149.sql,1,s1_city,Evans,38582,50000,1
+s1_city_00150.sql,1,s1_city,Farmersville,37319,50000,1
+s1_city_00151.sql,1,s1_city,Belfast,37442,50000,1
+s1_city_00152.sql,1,s1_city,Richfield,35194,50000,1
+s1_city_00153.sql,1,s1_city,Gravel Hill,34508,50000,1
+s1_city_00154.sql,1,s1_city,Empire,40040,50000,1
+s1_city_00155.sql,1,s1_city,Globe,29225,50000,1
+s1_city_00156.sql,1,s1_city,Sullivan,36461,50000,3
+s1_city_00157.sql,1,s1_city,Altamont,37312,50000,1
+s1_city_00158.sql,1,s1_city,Indian Village,27860,50000,2
+s1_city_00159.sql,1,s1_city,Marietta,30287,50000,2
+s1_city_00160.sql,1,s1_city,Pomona,27211,50000,1
+s1_city_00161.sql,1,s1_city,Riceville,32683,50000,2
+s1_city_00162.sql,1,s1_city,Lakeville,37428,50000,2
+s1_city_00163.sql,1,s1_city,Summerville,30502,50000,2
+s1_city_00164.sql,1,s1_city,Saint George,42750,50000,1
+s1_city_00165.sql,1,s1_city,Harmon,31121,50000,4
+s1_city_00166.sql,1,s1_city,Belleville,36677,50000,1
+s1_city_00167.sql,1,s1_city,Lakeville,36938,50000,2
+s1_city_00168.sql,1,s1_city,Saint Paul,32757,50000,1
+s1_city_00169.sql,1,s1_city,Tyrone,35866,50000,2
+s1_city_00170.sql,1,s1_city,Bayview,31445,50000,2
+s1_city_00171.sql,1,s1_city,Saint Paul,27223,50000,1
+s1_city_00172.sql,1,s1_city,Bayview,32868,50000,2
+s1_city_00173.sql,1,s1_city,Hartland,37174,50000,1
+s1_city_00174.sql,1,s1_city,Shore Acres,40625,50000,1
+s1_city_00175.sql,1,s1_city,California,28808,50000,1
+s1_city_00176.sql,1,s1_city,Redland,40064,50000,2
+s1_city_00177.sql,1,s1_city,Redland,36574,50000,1
+s1_city_00178.sql,1,s1_city,Bayview,36656,50000,2
+s1_city_00179.sql,1,s1_city,Redland,30776,50000,1
+s1_city_00180.sql,1,s1_city,Price,36252,50000,1
+s1_city_00181.sql,1,s1_city,Quincy,33849,50000,1
+s1_city_00182.sql,1,s1_city,Pomona,32886,50000,1
+s1_city_00183.sql,1,s1_city,Lakeville,35395,50000,2
+s1_city_00184.sql,1,s1_city,Farmersville,40084,50000,1
+s1_city_00185.sql,1,s1_city,Roy,32856,50000,2
+s1_city_00186.sql,1,s1_city,Calhoun,37534,50000,1
+s1_city_00187.sql,1,s1_city,Carpenter,33314,50000,5
+s1_city_00188.sql,1,s1_city,Ellsworth,35908,50000,1
+s1_city_00189.sql,1,s1_city,Ruth,36186,50000,2
+s1_city_00190.sql,1,s1_city,Louisville,32726,50000,1
+s1_city_00191.sql,1,s1_city,Globe,38460,50000,1
+s1_city_00192.sql,1,s1_city,Red Oak,38588,50000,1
+s1_city_00193.sql,1,s1_city,Tyrone,31612,50000,2
+s1_city_00194.sql,1,s1_city,Amherst,37032,50000,3
+s1_city_00195.sql,1,s1_city,Hardy,32765,50000,3
+s1_city_00196.sql,1,s1_city,Gravel Hill,35150,50000,1
+s1_city_00197.sql,1,s1_city,Ludlow,45439,50000,1
+s1_city_00198.sql,1,s1_city,Farmersville,30692,50000,1
+s1_city_00199.sql,1,s1_city,Oneida,32180,50000,1
+s1_city_00200.sql,1,s1_city,Lawrenceville,33224,50000,1
+s1_city_00201.sql,1,s1_city,Williamsville,32524,50000,1
+s1_city_00202.sql,1,s1_city,Kelly,29889,50000,1
+s1_city_00203.sql,1,s1_city,Willow,34842,50000,1
+s1_city_00204.sql,1,s1_city,Bayview,36441,50000,2
+s1_city_00205.sql,1,s1_city,Gravel Hill,32439,50000,1
+s1_city_00206.sql,1,s1_city,Riceville,38789,50000,2
+s1_city_00207.sql,1,s1_city,Little River,33490,50000,2
+s1_city_00208.sql,1,s1_city,Calhoun,30111,50000,1
+s1_city_00209.sql,1,s1_city,Hardy,29307,50000,2
+s1_city_00210.sql,1,s1_city,Red Oak,42955,50000,1
+s1_city_00211.sql,1,s1_city,Fayetteville,38511,50000,2
+s1_city_00212.sql,1,s1_city,Greendale,30209,50000,2
+s1_city_00213.sql,1,s1_city,Rossville,37468,50000,1
+s1_city_00214.sql,1,s1_city,Tyrone,37488,50000,2
+s1_city_00215.sql,1,s1_city,Brookwood,35546,50000,1
+s1_city_00216.sql,1,s1_city,Rossville,28830,50000,1
+s1_city_00217.sql,1,s1_city,Flint,36219,50000,2
+s1_city_00218.sql,1,s1_city,Elm Grove,39343,50000,1
+s1_city_00219.sql,1,s1_city,Carpenter,31909,50000,5
+s1_city_00220.sql,1,s1_city,Glencoe,34545,50000,1
+s1_city_00221.sql,1,s1_city,Siloam,38395,50000,2
+s1_city_00222.sql,1,s1_city,Chestnut Hill,37621,50000,1
+s1_city_00223.sql,1,s1_city,Fisher,40604,50000,1
+s1_city_00224.sql,1,s1_city,Leesville,35409,50000,1
+s1_city_00225.sql,1,s1_city,Farmersville,34813,50000,1
+s1_city_00226.sql,1,s1_city,Red Oak,30794,50000,1
+s1_city_00227.sql,1,s1_city,Roy,40915,50000,2
+s1_city_00228.sql,1,s1_city,Ashley,36513,50000,3
+s1_city_00229.sql,1,s1_city,Harmon,32976,50000,4
+s1_city_00230.sql,1,s1_city,Somerville,34079,50000,2
+s1_city_00231.sql,1,s1_city,Harmon,28725,50000,5
+s1_city_00232.sql,1,s1_city,Texas,36164,50000,1
+s1_city_00233.sql,1,s1_city,Little River,37096,50000,2
+s1_city_00234.sql,1,s1_city,Allentown,36173,50000,2
+s1_city_00235.sql,1,s1_city,Greendale,36149,50000,2
+s1_city_00236.sql,1,s1_city,Carpenter,33242,50000,5
+s1_city_00237.sql,1,s1_city,Brookville,42045,50000,1
+s1_city_00238.sql,1,s1_city,Farmersville,39897,50000,1
+s1_city_00239.sql,1,s1_city,Gravel Hill,34673,50000,1
+s1_city_00240.sql,1,s1_city,Kelly,37857,50000,1
+s1_city_00241.sql,1,s1_city,Allentown,35961,50000,2
+s1_city_00242.sql,1,s1_city,Altamont,38012,50000,1
+s1_city_00243.sql,1,s1_city,Fayetteville,38003,50000,2
+s1_city_00244.sql,1,s1_city,Woodruff,33056,50000,1
+s1_city_00245.sql,1,s1_city,Perkins,36603,50000,1
+s1_city_00246.sql,1,s1_city,Sullivan,35625,50000,3
+s1_city_00247.sql,1,s1_city,Belleville,32699,50000,1
+s1_city_00248.sql,1,s1_city,Rossville,30799,50000,1
+s1_city_00249.sql,1,s1_city,Stratford,32552,50000,2
+s1_city_00250.sql,1,s1_city,Oneida,26302,50000,2
+s1_city_00251.sql,1,s1_city,Pomona,40470,50000,1
+s1_city_00252.sql,1,s1_city,Glencoe,34341,50000,1
+s1_city_00253.sql,1,s1_city,Amherst,33573,50000,3
+s1_city_00254.sql,1,s1_city,Ruth,31697,50000,2
+s1_city_00255.sql,1,s1_city,Amherst,35356,50000,3
+s1_city_00256.sql,1,s1_city,Pomona,34592,50000,1
+s1_city_00257.sql,1,s1_city,Mechanicsburg,32186,50000,4
+s1_city_00258.sql,1,s1_city,Stratford,37185,50000,2
+s1_city_00259.sql,1,s1_city,Brookwood,41397,50000,1
+s1_city_00260.sql,1,s1_city,Pinhook,37274,50000,1
+s1_city_00261.sql,1,s1_city,Leesville,35602,50000,1
+s1_city_00262.sql,1,s1_city,Brookville,36116,50000,1
+s1_city_00263.sql,1,s1_city,California,31292,50000,1
+s1_city_00264.sql,1,s1_city,Hardy,35474,50000,3
+s1_city_00265.sql,1,s1_city,California,40238,50000,1
+s1_city_00266.sql,1,s1_city,Farmersville,41909,50000,1
+s1_city_00267.sql,1,s1_city,Roy,32728,50000,2
+s1_city_00268.sql,1,s1_city,California,33323,50000,1
+s1_city_00269.sql,1,s1_city,Farmersville,38420,50000,1
+s1_city_00270.sql,1,s1_city,Little River,34674,50000,2
+s1_city_00271.sql,1,s1_city,Pinhook,42289,50000,1
+s1_city_00272.sql,1,s1_city,Carpenter,33898,50000,5
+s1_city_00273.sql,1,s1_city,Altamont,42424,50000,1
+s1_city_00274.sql,1,s1_city,Pomona,37938,50000,1
+s1_city_00275.sql,1,s1_city,Chestnut Hill,32724,50000,1
+s1_city_00276.sql,1,s1_city,Harmon,31694,50000,4
+s1_city_00277.sql,1,s1_city,Sullivan,36327,50000,3
+s1_city_00278.sql,1,s1_city,Proctor,35068,50000,4
+s1_city_00279.sql,1,s1_city,Proctor,28578,50000,3
+s1_city_00280.sql,1,s1_city,Wayland,37163,50000,1
+s1_city_00281.sql,1,s1_city,Buckingham,33991,50000,1
+s1_city_00282.sql,1,s1_city,Riceville,29691,50000,3
+s1_city_00283.sql,1,s1_city,Carpenter,34886,50000,5
+s1_city_00284.sql,1,s1_city,Indian Village,35707,50000,2
+s1_city_00285.sql,1,s1_city,California,34118,50000,1
+s1_city_00286.sql,1,s1_city,Siloam,38362,50000,2
+s1_city_00287.sql,1,s1_city,Buckingham,37357,50000,1
+s1_city_00288.sql,1,s1_city,Nichols,34163,50000,1
+s1_city_00289.sql,1,s1_city,Harmon,34856,50000,4
+s1_city_00290.sql,1,s1_city,Pinhook,33749,50000,1
+s1_city_00291.sql,1,s1_city,Smith,32629,50000,1
+s1_city_00292.sql,1,s1_city,Lamont,44052,50000,1
+s1_city_00293.sql,1,s1_city,Woodruff,38052,50000,1
+s1_city_00294.sql,1,s1_city,Ruth,30544,50000,2
+s1_city_00295.sql,1,s1_city,Texas,35517,50000,1
+s1_city_00296.sql,1,s1_city,Bayview,36331,50000,2
+s1_city_00297.sql,1,s1_city,Leesville,27931,50000,1
+s1_city_00298.sql,1,s1_city,Brookville,39096,50000,1
+s1_city_00299.sql,1,s1_city,Leland,37763,50000,1
+s1_city_00300.sql,1,s1_city,Belleville,40304,50000,1
+s1_city_00301.sql,1,s1_city,Proctor,42122,50000,5
+s1_city_00302.sql,1,s1_city,Peoria,28182,50000,1
+s1_city_00303.sql,1,s1_city,Warwick,33202,50000,2
+s1_city_00304.sql,1,s1_city,Morris,31674,50000,1
+s1_city_00305.sql,1,s1_city,Proctor,35538,50000,4
+s1_city_00306.sql,1,s1_city,Ellisville,33785,50000,1
+s1_city_00307.sql,1,s1_city,Sycamore,41210,50000,1
+s1_city_00308.sql,1,s1_city,Star,32860,50000,2
+s1_city_00309.sql,1,s1_city,Red Oak,34005,50000,1
+s1_city_00310.sql,1,s1_city,Fayetteville,32278,50000,2
+s1_city_00311.sql,1,s1_city,Perry,38642,50000,1
+s1_city_00312.sql,1,s1_city,Ruth,37085,50000,2
+s1_city_00313.sql,1,s1_city,Redland,32278,50000,1
+s1_city_00314.sql,1,s1_city,Rossville,41808,50000,1
+s1_city_00315.sql,1,s1_city,Indian Village,38328,50000,2
+s1_city_00316.sql,1,s1_city,Lewis,27432,50000,1
+s1_city_00317.sql,1,s1_city,Willow,39326,50000,1
+s1_city_00318.sql,1,s1_city,Buckingham,32754,50000,1
+s1_city_00319.sql,1,s1_city,Harvey,37933,50000,2
+s1_city_00320.sql,1,s1_city,Perkins,33768,50000,1
+s1_city_00321.sql,1,s1_city,Stratford,39817,50000,2
+s1_city_00322.sql,1,s1_city,Harvey,35511,50000,2
+s1_city_00323.sql,1,s1_city,Farmersville,32767,50000,1
+s1_city_00324.sql,1,s1_city,Brookville,36248,50000,1
+s1_city_00325.sql,1,s1_city,Warwick,34131,50000,2
+s1_city_00326.sql,1,s1_city,Sullivan,33852,50000,3
+s1_city_00327.sql,1,s1_city,Birmingham,36021,50000,1
+s1_city_00328.sql,1,s1_city,Willow,34671,50000,1
+s1_city_00329.sql,1,s1_city,Leland,38696,50000,1
+s1_city_00330.sql,1,s1_city,Redland,38870,50000,1
+s1_city_00331.sql,1,s1_city,Perkins,35104,50000,1
+s1_city_00332.sql,1,s1_city,Fisher,34178,50000,3
+s1_city_00333.sql,1,s1_city,Stratford,37541,50000,2
+s1_city_00334.sql,1,s1_city,Northwood,27097,50000,1
+s1_city_00335.sql,1,s1_city,Hurricane,41166,50000,1
+s1_city_00336.sql,1,s1_city,Ellsworth,35803,50000,1
+s1_city_00337.sql,1,s1_city,Silver Creek,43301,50000,1
+s1_city_00338.sql,1,s1_city,Ludlow,37509,50000,1
+s1_city_00339.sql,1,s1_city,Fayetteville,34122,50000,2
+s1_city_00340.sql,1,s1_city,Mechanicsburg,39272,50000,4
+s1_city_00341.sql,1,s1_city,Carpenter,39231,50000,5
+s1_city_00342.sql,1,s1_city,Harmon,36669,50000,4
+s1_city_00343.sql,1,s1_city,Carpenter,35494,50000,5
+s1_city_00344.sql,1,s1_city,Williamsville,36506,50000,1
+s1_city_00345.sql,1,s1_city,Bayview,33061,50000,2
+s1_city_00346.sql,1,s1_city,Hartland,37885,50000,1
+s1_city_00347.sql,1,s1_city,Carpenter,38169,50000,5
+s1_city_00348.sql,1,s1_city,Indian Village,41111,50000,2
+s1_city_00349.sql,1,s1_city,Gravel Hill,36466,50000,1
+s1_income_00000.sql,1,s1_income,Fairview,52752,50000,28
+s1_income_00001.sql,1,s1_income,Waterloo,51021,50000,19
+s1_income_00002.sql,1,s1_income,Spring Valley,12448,50000,17
+s1_income_00003.sql,1,s1_income,Red Hill,61204,50000,17
+s1_income_00004.sql,1,s1_income,Lakeview,21646,50000,20
+s1_income_00005.sql,1,s1_income,Antioch,20178,50000,23
+s1_income_00006.sql,1,s1_income,Belmont,48007,50000,22
+s1_income_00007.sql,1,s1_income,Pine Grove,20320,50000,32
+s1_income_00008.sql,1,s1_income,Unionville,51374,50000,33
+s1_income_00009.sql,1,s1_income,Springdale,51225,50000,25
+s1_income_00010.sql,1,s1_income,Liberty,49279,50000,25
+s1_income_00011.sql,1,s1_income,Lakeview,20771,50000,20
+s1_income_00012.sql,1,s1_income,Brownsville,53999,50000,36
+s1_income_00013.sql,1,s1_income,Edgewood,48810,50000,20
+s1_income_00014.sql,1,s1_income,Sheffield,48465,50000,1
+s1_income_00015.sql,1,s1_income,Oakwood,15620,50000,26
+s1_income_00016.sql,1,s1_income,Spring Valley,21513,50000,15
+s1_income_00017.sql,1,s1_income,Kingston,22065,50000,22
+s1_income_00018.sql,1,s1_income,Enterprise,53611,50000,30
+s1_income_00019.sql,1,s1_income,Farmington,22481,50000,25
+s1_income_00020.sql,1,s1_income,Unionville,56297,50000,33
+s1_income_00021.sql,1,s1_income,Plainview,13573,50000,30
+s1_income_00022.sql,1,s1_income,Lincoln,62280,50000,23
+s1_income_00023.sql,1,s1_income,Springdale,19381,50000,20
+s1_income_00024.sql,1,s1_income,Kingston,54203,50000,18
+s1_income_00025.sql,1,s1_income,Tracy,51673,50000,1
+s1_income_00026.sql,1,s1_income,Buena Vista,1493,50000,11
+s1_income_00027.sql,1,s1_income,Friendship,56336,50000,21
+s1_income_00028.sql,1,s1_income,Fairfield,49082,50000,16
+s1_income_00029.sql,1,s1_income,Farmington,49926,50000,26
+s1_income_00030.sql,1,s1_income,Cedar Grove,16616,50000,34
+s1_income_00031.sql,1,s1_income,Oak Grove,46820,50000,29
+s1_income_00032.sql,1,s1_income,Owens,16700,50000,1
+s1_income_00033.sql,1,s1_income,Pleasant Valley,19978,50000,31
+s1_income_00034.sql,1,s1_income,Riverside,20194,50000,24
+s1_income_00035.sql,1,s1_income,Riverview,62858,50000,24
+s1_income_00036.sql,1,s1_income,Wilson,20656,50000,31
+s1_income_00037.sql,1,s1_income,Glenwood,52455,50000,15
+s1_income_00038.sql,1,s1_income,Macedonia,23004,50000,32
+s1_income_00039.sql,1,s1_income,Jamestown,18815,50000,22
+s1_income_00040.sql,1,s1_income,Red Hill,51033,50000,16
+s1_income_00041.sql,1,s1_income,Jackson,20457,50000,18
+s1_income_00042.sql,1,s1_income,Sunnyside,5573,50000,21
+s1_income_00043.sql,1,s1_income,Spring Hill,50856,50000,22
+s1_income_00044.sql,1,s1_income,Jamestown,17708,50000,22
+s1_income_00045.sql,1,s1_income,Newport,53024,50000,21
+s1_income_00046.sql,1,s1_income,Ashland,21452,50000,28
+s1_income_00047.sql,1,s1_income,Spring Valley,48080,50000,17
+s1_income_00048.sql,1,s1_income,Pleasant Grove,61809,50000,21
+s1_income_00049.sql,1,s1_income,Pleasant Valley,67114,50000,27
+s1_income_00050.sql,1,s1_income,Woodville,22600,50000,27
+s1_income_00051.sql,1,s1_income,Pleasant Valley,3576,50000,37
+s1_income_00052.sql,1,s1_income,Buena Vista,47064,50000,22
+s1_income_00053.sql,1,s1_income,Hubbard,13090,50000,1
+s1_income_00054.sql,1,s1_income,Hopewell,52692,50000,20
+s1_income_00055.sql,1,s1_income,Glenwood,48809,50000,19
+s1_income_00056.sql,1,s1_income,Pleasant Valley,48653,50000,28
+s1_income_00057.sql,1,s1_income,Union,53227,50000,24
+s1_income_00058.sql,1,s1_income,Jamestown,50441,50000,27
+s1_income_00059.sql,1,s1_income,Greenwood,57897,50000,18
+s1_income_00060.sql,1,s1_income,Clifton,53562,50000,23
+s1_income_00061.sql,1,s1_income,Hamilton,46960,50000,19
+s1_income_00062.sql,1,s1_income,Waterloo,13982,50000,22
+s1_income_00063.sql,1,s1_income,Liberty,19445,50000,22
+s1_income_00064.sql,1,s1_income,Woodrow,17598,50000,1
+s1_income_00065.sql,1,s1_income,Glenwood,58917,50000,15
+s1_income_00066.sql,1,s1_income,Greenville,47841,50000,21
+s1_income_00067.sql,1,s1_income,Cedar Grove,62794,50000,20
+s1_income_00068.sql,1,s1_income,Hopewell,48602,50000,25
+s1_income_00069.sql,1,s1_income,Arlington,49128,50000,20
+s1_income_00070.sql,1,s1_income,Liberty,12400,50000,22
+s1_income_00071.sql,1,s1_income,Sunnyside,55865,50000,23
+s1_income_00072.sql,1,s1_income,Friendship,50692,50000,21
+s1_income_00073.sql,1,s1_income,Waterloo,23271,50000,21
+s1_income_00074.sql,1,s1_income,Fairfield,49200,50000,16
+s1_income_00075.sql,1,s1_income,Highland Park,50379,50000,18
+s1_income_00076.sql,1,s1_income,Shady Grove,52974,50000,19
+s1_income_00077.sql,1,s1_income,Jenkins,56071,50000,2
+s1_income_00078.sql,1,s1_income,Bethel,51973,50000,27
+s1_income_00079.sql,1,s1_income,Shiloh,19891,50000,31
+s1_income_00080.sql,1,s1_income,Jackson,50147,50000,25
+s1_income_00081.sql,1,s1_income,Plainview,19852,50000,30
+s1_income_00082.sql,1,s1_income,Arthur,22731,50000,1
+s1_income_00083.sql,1,s1_income,Pleasant Valley,16894,50000,31
+s1_income_00084.sql,1,s1_income,New Hope,19909,50000,25
+s1_income_00085.sql,1,s1_income,Forest Hills,52990,50000,18
+s1_income_00086.sql,1,s1_income,Pine Grove,47013,50000,30
+s1_income_00087.sql,1,s1_income,Fairview,49339,50000,29
+s1_income_00088.sql,1,s1_income,Macedonia,16108,50000,26
+s1_income_00089.sql,1,s1_income,Lincoln,22157,50000,22
+s1_income_00090.sql,1,s1_income,Walnut Grove,54361,50000,22
+s1_income_00091.sql,1,s1_income,Crossroads,18341,50000,17
+s1_income_00092.sql,1,s1_income,Woodville,23124,50000,27
+s1_income_00093.sql,1,s1_income,Springfield,21441,50000,23
+s1_income_00094.sql,1,s1_income,Belmont,21202,50000,27
+s1_income_00095.sql,1,s1_income,Riverside,15317,50000,18
+s1_income_00096.sql,1,s1_income,Deerfield,20494,50000,30
+s1_income_00097.sql,1,s1_income,Cedar Grove,54941,50000,22
+s1_income_00098.sql,1,s1_income,Crossroads,22811,50000,20
+s1_income_00099.sql,1,s1_income,Lebanon,18931,50000,27
+s1_income_00100.sql,1,s1_income,Antioch,21464,50000,23
+s1_income_00101.sql,1,s1_income,Jamestown,50553,50000,27
+s1_income_00102.sql,1,s1_income,Woodville,52027,50000,30
+s1_income_00103.sql,1,s1_income,Jackson,52511,50000,25
+s1_income_00104.sql,1,s1_income,Bethel,54324,50000,27
+s1_income_00105.sql,1,s1_income,Woodville,58277,50000,30
+s1_income_00106.sql,1,s1_income,Friendship,18206,50000,24
+s1_income_00107.sql,1,s1_income,Kingston,5885,50000,25
+s1_income_00108.sql,1,s1_income,Jackson,17266,50000,18
+s1_income_00109.sql,1,s1_income,Newtown,22195,50000,30
+s1_income_00110.sql,1,s1_income,Belmont,22235,50000,27
+s1_income_00111.sql,1,s1_income,Green Acres,51992,50000,26
+s1_income_00112.sql,1,s1_income,Jackson,56249,50000,25
+s1_income_00113.sql,1,s1_income,Spring Hill,55190,50000,22
+s1_income_00114.sql,1,s1_income,Five Points,17192,50000,15
+s1_income_00115.sql,1,s1_income,Wilson,47298,50000,22
+s1_income_00116.sql,1,s1_income,Pleasant Hill,47456,50000,20
+s1_income_00117.sql,1,s1_income,Florence,53290,50000,23
+s1_income_00118.sql,1,s1_income,Harmony,54484,50000,30
+s1_income_00119.sql,1,s1_income,Jackson,20246,50000,18
+s1_income_00120.sql,1,s1_income,Stringtown,20923,50000,23
+s1_income_00121.sql,1,s1_income,Friendship,19686,50000,24
+s1_income_00122.sql,1,s1_income,Glenwood,47004,50000,19
+s1_income_00123.sql,1,s1_income,Greenwood,21365,50000,19
+s1_income_00124.sql,1,s1_income,Walnut Grove,20467,50000,23
+s1_income_00125.sql,1,s1_income,Farmington,65188,50000,25
+s1_income_00126.sql,1,s1_income,Mount Vernon,22396,50000,22
+s1_income_00127.sql,1,s1_income,Greenfield,21184,50000,30
+s1_income_00128.sql,1,s1_income,Spring Valley,19045,50000,17
+s1_income_00129.sql,1,s1_income,Harmony,59398,50000,30
+s1_income_00130.sql,1,s1_income,Belmont,5440,50000,30
+s1_income_00131.sql,1,s1_income,Shiloh,19737,50000,31
+s1_income_00132.sql,1,s1_income,Jackson,49375,50000,20
+s1_income_00133.sql,1,s1_income,Riverside,48025,50000,18
+s1_income_00134.sql,1,s1_income,Georgetown,21039,50000,19
+s1_income_00135.sql,1,s1_income,Newtown,64584,50000,22
+s1_income_00136.sql,1,s1_income,Woodville,56483,50000,30
+s1_income_00137.sql,1,s1_income,Riverview,18292,50000,24
+s1_income_00138.sql,1,s1_income,Enterprise,53088,50000,30
+s1_income_00139.sql,1,s1_income,Pleasant Grove,55932,50000,16
+s1_income_00140.sql,1,s1_income,Springdale,19533,50000,20
+s1_income_00141.sql,1,s1_income,Crystal,5881,50000,3
+s1_income_00142.sql,1,s1_income,Springdale,56624,50000,25
+s1_income_00143.sql,1,s1_income,Florence,52276,50000,23
+s1_income_00144.sql,1,s1_income,Jackson,10177,50000,18
+s1_income_00145.sql,1,s1_income,Ashland,16858,50000,30
+s1_income_00146.sql,1,s1_income,Forest Hills,18195,50000,26
+s1_income_00147.sql,1,s1_income,Union Hill,49950,50000,29
+s1_income_00148.sql,1,s1_income,Riverside,10411,50000,18
+s1_income_00149.sql,1,s1_income,Antioch,16941,50000,20
+s1_income_00150.sql,1,s1_income,Mount Vernon,21923,50000,22
+s1_income_00151.sql,1,s1_income,Union Hill,16669,50000,23
+s1_income_00152.sql,1,s1_income,Wildwood,18722,50000,19
+s1_income_00153.sql,1,s1_income,Farmington,47750,50000,26
+s1_income_00154.sql,1,s1_income,Oakland,49492,50000,24
+s1_income_00155.sql,1,s1_income,Plainview,22389,50000,30
+s1_income_00156.sql,1,s1_income,Arlington,54659,50000,22
+s1_income_00157.sql,1,s1_income,Oak Grove,60624,50000,35
+s1_income_00158.sql,1,s1_income,Franklin,64257,50000,23
+s1_income_00159.sql,1,s1_income,Bethel,54565,50000,27
+s1_income_00160.sql,1,s1_income,Maple Grove,47846,50000,18
+s1_income_00161.sql,1,s1_income,Clinton,21723,50000,27
+s1_income_00162.sql,1,s1_income,Harmony,65880,50000,28
+s1_income_00163.sql,1,s1_income,Valley View,16408,50000,26
+s1_income_00164.sql,1,s1_income,Farmington,15180,50000,23
+s1_income_00165.sql,1,s1_income,Red Hill,18581,50000,26
+s1_income_00166.sql,1,s1_income,Lakeside,15538,50000,24
+s1_income_00167.sql,1,s1_income,Guilford,20386,50000,3
+s1_income_00168.sql,1,s1_income,Rolling Hills,20867,50000,2
+s1_income_00169.sql,1,s1_income,Midway,50312,50000,22
+s1_income_00170.sql,1,s1_income,Deerfield,19743,50000,24
+s1_income_00171.sql,1,s1_income,Doyle,19097,50000,4
+s1_income_00172.sql,1,s1_income,Mount Pleasant,49974,50000,27
+s1_income_00173.sql,1,s1_income,Greenwood,53731,50000,18
+s1_income_00174.sql,1,s1_income,Lakewood,16469,50000,32
+s1_income_00175.sql,1,s1_income,Union,58338,50000,24
+s1_income_00176.sql,1,s1_income,Hillcrest,50214,50000,21
+s1_income_00177.sql,1,s1_income,Friendship,48679,50000,26
+s1_income_00178.sql,1,s1_income,Brownsville,22036,50000,22
+s1_income_00179.sql,1,s1_income,Pleasant Valley,23207,50000,28
+s1_income_00180.sql,1,s1_income,Greenwood,50891,50000,18
+s1_income_00181.sql,1,s1_income,Centerville,52934,50000,19
+s1_income_00182.sql,1,s1_income,Glendale,47450,50000,34
+s1_income_00183.sql,1,s1_income,Oak Grove,48445,50000,29
+s1_income_00184.sql,1,s1_income,Wildwood,19772,50000,19
+s1_income_00185.sql,1,s1_income,Pleasant Grove,53612,50000,16
+s1_income_00186.sql,1,s1_income,Pleasant Hill,10700,50000,22
+s1_income_00187.sql,1,s1_income,Lakeview,6318,50000,21
+s1_income_00188.sql,1,s1_income,Woodlawn,18348,50000,24
+s1_income_00189.sql,1,s1_income,Pleasant Grove,20857,50000,18
+s1_income_00190.sql,1,s1_income,Midway,18624,50000,22
+s1_income_00191.sql,1,s1_income,Highland,15737,50000,21
+s1_income_00192.sql,1,s1_income,Lakeside,7520,50000,29
+s1_income_00193.sql,1,s1_income,New Hope,22499,50000,28
+s1_income_00194.sql,1,s1_income,Salem,47024,50000,20
+s1_income_00195.sql,1,s1_income,Stringtown,46677,50000,29
+s1_income_00196.sql,1,s1_income,Edgewood,19864,50000,13
+s1_income_00197.sql,1,s1_income,Cedar Grove,51990,50000,22
+s1_income_00198.sql,1,s1_income,Midway,20308,50000,18
+s1_income_00199.sql,1,s1_income,Lebanon,14219,50000,27
+s1_income_00200.sql,1,s1_income,Salem,21914,50000,16
+s1_income_00201.sql,1,s1_income,Pine Grove,47661,50000,30
+s1_income_00202.sql,1,s1_income,Woodland,55897,50000,17
+s1_income_00203.sql,1,s1_income,Sunnyside,23214,50000,17
+s1_income_00204.sql,1,s1_income,Oakwood,47105,50000,30
+s1_income_00205.sql,1,s1_income,Hopewell,11903,50000,27
+s1_income_00206.sql,1,s1_income,Mount Olive,7133,50000,23
+s1_income_00207.sql,1,s1_income,Mount Vernon,57020,50000,24
+s1_income_00208.sql,1,s1_income,New Hope,12788,50000,25
+s1_income_00209.sql,1,s1_income,Hillcrest,53316,50000,21
+s1_income_00210.sql,1,s1_income,Wilson,22050,50000,31
+s1_income_00211.sql,1,s1_income,Glendale,51827,50000,32
+s1_income_00212.sql,1,s1_income,Franklin,53788,50000,18
+s1_income_00213.sql,1,s1_income,Ashland,65332,50000,21
+s1_income_00214.sql,1,s1_income,Riverdale,51558,50000,25
+s1_income_00215.sql,1,s1_income,Hamilton,15421,50000,27
+s1_income_00216.sql,1,s1_income,Clifton,16606,50000,28
+s1_income_00217.sql,1,s1_income,Mount Vernon,22246,50000,22
+s1_income_00218.sql,1,s1_income,Stringtown,19289,50000,17
+s1_income_00219.sql,1,s1_income,Newport,16672,50000,33
+s1_income_00220.sql,1,s1_income,Plainview,21235,50000,30
+s1_income_00221.sql,1,s1_income,Liberty,23103,50000,22
+s1_income_00222.sql,1,s1_income,Union Hill,53103,50000,31
+s1_income_00223.sql,1,s1_income,Florence,15363,50000,32
+s1_income_00224.sql,1,s1_income,Shady Grove,59226,50000,19
+s1_income_00225.sql,1,s1_income,Oakwood,13561,50000,26
+s1_income_00226.sql,1,s1_income,Oak Hill,54990,50000,16
+s1_income_00227.sql,1,s1_income,Five Points,49762,50000,25
+s1_income_00228.sql,1,s1_income,Bridgeport,52691,50000,19
+s1_income_00229.sql,1,s1_income,Waterloo,69403,50000,18
+s1_income_00230.sql,1,s1_income,Stringtown,48069,50000,29
+s1_income_00231.sql,1,s1_income,Ashland,52114,50000,25
+s1_income_00232.sql,1,s1_income,Waterloo,14972,50000,22
+s1_income_00233.sql,1,s1_income,Frankfort,55268,50000,3
+s1_income_00234.sql,1,s1_income,Fairview,54531,50000,28
+s1_income_00235.sql,1,s1_income,White Oak,58413,50000,15
+s1_income_00236.sql,1,s1_income,Highland,55314,50000,16
+s1_income_00237.sql,1,s1_income,Providence,21944,50000,19
+s1_income_00238.sql,1,s1_income,Valley View,57417,50000,20
+s1_income_00239.sql,1,s1_income,Crossroads,21758,50000,20
+s1_income_00240.sql,1,s1_income,Summit,50735,50000,13
+s1_income_00241.sql,1,s1_income,Clifton,18259,50000,28
+s1_income_00242.sql,1,s1_income,Oak Grove,47007,50000,29
+s1_income_00243.sql,1,s1_income,Providence,9188,50000,28
+s1_income_00244.sql,1,s1_income,Shiloh,55548,50000,27
+s1_income_00245.sql,1,s1_income,New Hope,18228,50000,25
+s1_income_00246.sql,1,s1_income,Highland Park,50723,50000,18
+s1_income_00247.sql,1,s1_income,Lebanon,21499,50000,25
+s1_income_00248.sql,1,s1_income,Riverview,20956,50000,26
+s1_income_00249.sql,1,s1_income,Glendale,47748,50000,34
+s1_income_00250.sql,1,s1_income,Morgantown,18064,50000,4
+s1_income_00251.sql,1,s1_income,Mount Pleasant,48177,50000,27
+s1_income_00252.sql,1,s1_income,Shady Grove,54294,50000,19
+s1_income_00253.sql,1,s1_income,Hillcrest,60047,50000,20
+s1_income_00254.sql,1,s1_income,Jamestown,52741,50000,27
+s1_income_00255.sql,1,s1_income,Greenville,64726,50000,28
+s1_income_00256.sql,1,s1_income,Bethel,20324,50000,26
+s1_income_00257.sql,1,s1_income,Farmington,50916,50000,24
+s1_income_00258.sql,1,s1_income,Woodlawn,56454,50000,18
+s1_income_00259.sql,1,s1_income,Franklin,53266,50000,18
+s1_income_00260.sql,1,s1_income,Mount Vernon,21951,50000,22
+s1_income_00261.sql,1,s1_income,Wilson,49700,50000,22
+s1_income_00262.sql,1,s1_income,Greenwood,11648,50000,22
+s1_income_00263.sql,1,s1_income,Lakeview,68373,50000,24
+s1_income_00264.sql,1,s1_income,Bunker Hill,47092,50000,24
+s1_income_00265.sql,1,s1_income,Red Hill,20620,50000,25
+s1_income_00266.sql,1,s1_income,Wilson,21630,50000,31
+s1_income_00267.sql,1,s1_income,Springdale,54670,50000,25
+s1_income_00268.sql,1,s1_income,Hopewell,22356,50000,28
+s1_income_00269.sql,1,s1_income,Woodville,51354,50000,30
+s1_income_00270.sql,1,s1_income,Spring Hill,52841,50000,22
+s1_income_00271.sql,1,s1_income,Wildwood,18189,50000,19
+s1_income_00272.sql,1,s1_income,Lakeside,53618,50000,29
+s1_income_00273.sql,1,s1_income,Cedar Grove,59052,50000,22
+s1_income_00274.sql,1,s1_income,Fairview,21321,50000,24
+s1_income_00275.sql,1,s1_income,Green Acres,17842,50000,17
+s1_income_00276.sql,1,s1_income,Summit,11731,50000,20
+s1_income_00277.sql,1,s1_income,Bridgeport,50342,50000,19
+s1_income_00278.sql,1,s1_income,Salem,50281,50000,21
+s1_income_00279.sql,1,s1_income,Woodlawn,14736,50000,24
+s1_income_00280.sql,1,s1_income,Plainview,48599,50000,28
+s1_income_00281.sql,1,s1_income,Pleasant Valley,19336,50000,31
+s1_income_00282.sql,1,s1_income,Hopewell,20688,50000,28
+s1_income_00283.sql,1,s1_income,Friendship,54506,50000,21
+s1_income_00284.sql,1,s1_income,Berea,18375,50000,1
+s1_income_00285.sql,1,s1_income,Harmony,18878,50000,33
+s1_income_00286.sql,1,s1_income,Ashland,49442,50000,23
+s1_income_00287.sql,1,s1_income,Belmont,4179,50000,30
+s1_income_00288.sql,1,s1_income,Newport,6373,50000,29
+s1_income_00289.sql,1,s1_income,Five Points,21338,50000,19
+s1_income_00290.sql,1,s1_income,Riverdale,19384,50000,22
+s1_income_00291.sql,1,s1_income,Kingston,15408,50000,25
+s1_income_00292.sql,1,s1_income,Providence,22587,50000,19
+s1_income_00293.sql,1,s1_income,Greenfield,50783,50000,22
+s1_income_00294.sql,1,s1_income,Liberty,23223,50000,22
+s1_income_00295.sql,1,s1_income,Deerfield,48445,50000,23
+s1_income_00296.sql,1,s1_income,Fairfield,47026,50000,16
+s1_income_00297.sql,1,s1_income,Shiloh,49080,50000,29
+s1_income_00298.sql,1,s1_income,Ashland,22899,50000,28
+s1_income_00299.sql,1,s1_income,Friendship,60680,50000,18
+s1_income_00300.sql,1,s1_income,Mount Pleasant,19045,50000,30
+s1_income_00301.sql,1,s1_income,Georgetown,22453,50000,19
+s1_income_00302.sql,1,s1_income,Enterprise,10670,50000,24
+s1_income_00303.sql,1,s1_income,Salem,23211,50000,16
+s1_income_00304.sql,1,s1_income,Union,50659,50000,24
+s1_income_00305.sql,1,s1_income,Forest Hills,48778,50000,16
+s1_income_00306.sql,1,s1_income,Guilford,20793,50000,3
+s1_income_00307.sql,1,s1_income,Crossroads,57233,50000,22
+s1_income_00308.sql,1,s1_income,Newport,49456,50000,23
+s1_income_00309.sql,1,s1_income,Pleasant Grove,21271,50000,18
+s1_income_00310.sql,1,s1_income,Wilson,19430,50000,27
+s1_income_00311.sql,1,s1_income,Bridgeport,60739,50000,19
+s1_income_00312.sql,1,s1_income,Mount Olive,50915,50000,27
+s1_income_00313.sql,1,s1_income,Glendale,19074,50000,32
+s1_income_00314.sql,1,s1_income,Highland Park,50150,50000,18
+s1_income_00315.sql,1,s1_income,Pleasant Grove,22560,50000,18
+s1_income_00316.sql,1,s1_income,New Hope,14861,50000,25
+s1_income_00317.sql,1,s1_income,Oakwood,22195,50000,21
+s1_income_00318.sql,1,s1_income,Antioch,14111,50000,20
+s1_income_00319.sql,1,s1_income,Georgetown,62289,50000,24
+s1_income_00320.sql,1,s1_income,Shiloh,13958,50000,31
+s1_income_00321.sql,1,s1_income,Five Points,1996,50000,15
+s1_income_00322.sql,1,s1_income,Green Acres,48502,50000,23
+s1_income_00323.sql,1,s1_income,Cedar Grove,50217,50000,22
+s1_income_00324.sql,1,s1_income,Lakewood,46689,50000,31
+s1_income_00325.sql,1,s1_income,Whitney,56052,50000,1
+s1_income_00326.sql,1,s1_income,Summit,17819,50000,20
+s1_income_00327.sql,1,s1_income,Flatwoods,5552,50000,3
+s1_income_00328.sql,1,s1_income,Woodville,20709,50000,27
+s1_income_00329.sql,1,s1_income,Greenfield,14662,50000,31
+s1_income_00330.sql,1,s1_income,Edgewood,17859,50000,13
+s1_income_00331.sql,1,s1_income,Green Acres,54795,50000,26
+s1_income_00332.sql,1,s1_income,Bethel,48343,50000,31
+s1_income_00333.sql,1,s1_income,Fairfield,16350,50000,19
+s1_income_00334.sql,1,s1_income,Greenfield,49138,50000,25
+s1_income_00335.sql,1,s1_income,Bethel,17342,50000,21
+s1_income_00336.sql,1,s1_income,Centerville,951,50000,16
+s1_income_00337.sql,1,s1_income,Newtown,54110,50000,26
+s1_income_00338.sql,1,s1_income,Edgewood,20597,50000,18
+s1_income_00339.sql,1,s1_income,Oak Ridge,57852,50000,23
+s1_income_00340.sql,1,s1_income,Florence,22982,50000,25
+s1_income_00341.sql,1,s1_income,Hamilton,48129,50000,19
+s1_income_00342.sql,1,s1_income,Liberty,22812,50000,22
+s1_income_00343.sql,1,s1_income,Deerfield,23007,50000,30
+s1_income_00344.sql,1,s1_income,Bethel,10764,50000,21
+s1_income_00345.sql,1,s1_income,Woodville,47605,50000,34
+s1_income_00346.sql,1,s1_income,Pine Grove,14515,50000,27
+s1_income_00347.sql,1,s1_income,Maple Grove,61400,50000,21
+s1_income_00348.sql,1,s1_income,Walnut Grove,55563,50000,22
+s1_income_00349.sql,1,s1_income,Waterloo,11084,50000,22
+s1_mix_00000.sql,1,s1_mix,Globe,63253,50000,3
+s1_mix_00001.sql,1,s1_mix,Gravel Hill,20961,50000,1
+s1_mix_00002.sql,1,s1_mix,Silver Springs,48423,50000,1
+s1_mix_00003.sql,1,s1_mix,Star,20038,50000,1
+s1_mix_00004.sql,1,s1_mix,Forest,55792,50000,2
+s1_mix_00005.sql,1,s1_mix,Pinhook,51047,50000,3
+s1_mix_00006.sql,1,s1_mix,Blanchard,18444,50000,2
+s1_mix_00007.sql,1,s1_mix,Pomona,22411,50000,1
+s1_mix_00008.sql,1,s1_mix,Blanchard,18469,50000,2
+s1_mix_00009.sql,1,s1_mix,Red Oak,23000,50000,3
+s1_mix_00010.sql,1,s1_mix,Woodcrest,14797,50000,1
+s1_mix_00011.sql,1,s1_mix,Red Oak,3592,50000,3
+s1_mix_00012.sql,1,s1_mix,Stafford,17166,50000,2
+s1_mix_00013.sql,1,s1_mix,Sullivan,14813,50000,2
+s1_mix_00014.sql,1,s1_mix,Harvey,53401,50000,2
+s1_mix_00015.sql,1,s1_mix,Northwood,20275,50000,1
+s1_mix_00016.sql,1,s1_mix,Weldon,52566,50000,3
+s1_mix_00017.sql,1,s1_mix,Smith,22070,50000,1
+s1_mix_00018.sql,1,s1_mix,Brunswick,48642,50000,1
+s1_mix_00019.sql,1,s1_mix,Thompsonville,47476,50000,2
+s1_mix_00020.sql,1,s1_mix,Lakeville,48822,50000,3
+s1_mix_00021.sql,1,s1_mix,Lawrenceville,51004,50000,5
+s1_mix_00022.sql,1,s1_mix,Harvey,52378,50000,2
+s1_mix_00023.sql,1,s1_mix,Argyle,21411,50000,1
+s1_mix_00024.sql,1,s1_mix,Fowler,19868,50000,3
+s1_mix_00025.sql,1,s1_mix,Star,22318,50000,1
+s1_mix_00026.sql,1,s1_mix,Mechanicsburg,11449,50000,2
+s1_mix_00027.sql,1,s1_mix,Somerville,16901,50000,2
+s1_mix_00028.sql,1,s1_mix,Tyrone,16199,50000,4
+s1_mix_00029.sql,1,s1_mix,Silver Creek,12587,50000,2
+s1_mix_00030.sql,1,s1_mix,Farmersville,55681,50000,1
+s1_mix_00031.sql,1,s1_mix,Carpenter,57363,50000,6
+s1_mix_00032.sql,1,s1_mix,California,14492,50000,1
+s1_mix_00033.sql,1,s1_mix,Little River,58123,50000,3
+s1_mix_00034.sql,1,s1_mix,Star,17942,50000,1
+s1_mix_00035.sql,1,s1_mix,Evans,22786,50000,1
+s1_mix_00036.sql,1,s1_mix,Edwards,52590,50000,1
+s1_mix_00037.sql,1,s1_mix,Fowler,15690,50000,3
+s1_mix_00038.sql,1,s1_mix,Harvey,14420,50000,1
+s1_mix_00039.sql,1,s1_mix,Harmon,48334,50000,3
+s1_mix_00040.sql,1,s1_mix,Richfield,47238,50000,1
+s1_mix_00041.sql,1,s1_mix,Globe,18682,50000,1
+s1_mix_00042.sql,1,s1_mix,Perkins,3790,50000,1
+s1_mix_00043.sql,1,s1_mix,Elm Grove,18875,50000,1
+s1_mix_00044.sql,1,s1_mix,Cherry Valley,21345,50000,2
+s1_mix_00045.sql,1,s1_mix,Fisher,47853,50000,1
+s1_mix_00046.sql,1,s1_mix,Woodland Park,47533,50000,1
+s1_mix_00047.sql,1,s1_mix,Williamsville,16615,50000,2
+s1_mix_00048.sql,1,s1_mix,Crescent,12422,50000,1
+s1_mix_00049.sql,1,s1_mix,Harvey,15415,50000,1
+s1_mix_00050.sql,1,s1_mix,Granite,4700,50000,2
+s1_mix_00051.sql,1,s1_mix,Thompsonville,49985,50000,2
+s1_mix_00052.sql,1,s1_mix,Siloam,52130,50000,2
+s1_mix_00053.sql,1,s1_mix,Cordova,56426,50000,1
+s1_mix_00054.sql,1,s1_mix,Brookville,21673,50000,1
+s1_mix_00055.sql,1,s1_mix,Acme,54781,50000,1
+s1_mix_00056.sql,1,s1_mix,Willis,61233,50000,1
+s1_mix_00057.sql,1,s1_mix,Brookville,47501,50000,1
+s1_mix_00058.sql,1,s1_mix,Wilton,49291,50000,2
+s1_mix_00059.sql,1,s1_mix,Reno,21334,50000,1
+s1_mix_00060.sql,1,s1_mix,Stewart,62844,50000,1
+s1_mix_00061.sql,1,s1_mix,Greendale,48369,50000,1
+s1_mix_00062.sql,1,s1_mix,Pinhook,48422,50000,1
+s1_mix_00063.sql,1,s1_mix,Pomona,47407,50000,1
+s1_mix_00064.sql,1,s1_mix,Little River,51776,50000,3
+s1_mix_00065.sql,1,s1_mix,Nichols,18679,50000,1
+s1_mix_00066.sql,1,s1_mix,Hardy,15969,50000,2
+s1_mix_00067.sql,1,s1_mix,Ruth,49944,50000,3
+s1_mix_00068.sql,1,s1_mix,Williamsville,22673,50000,1
+s1_mix_00069.sql,1,s1_mix,Buckingham,22694,50000,1
+s1_mix_00070.sql,1,s1_mix,Greendale,20915,50000,2
+s1_mix_00071.sql,1,s1_mix,Perkins,46742,50000,1
+s1_mix_00072.sql,1,s1_mix,Fisher,50910,50000,1
+s1_mix_00073.sql,1,s1_mix,Indian Village,17494,50000,2
+s1_mix_00074.sql,1,s1_mix,Harmon,47922,50000,3
+s1_mix_00075.sql,1,s1_mix,Amherst,51278,50000,1
+s1_mix_00076.sql,1,s1_mix,Carpenter,23127,50000,4
+s1_mix_00077.sql,1,s1_mix,Argyle,50249,50000,1
+s1_mix_00078.sql,1,s1_mix,Fisher,16546,50000,2
+s1_mix_00079.sql,1,s1_mix,Warwick,21402,50000,2
+s1_mix_00080.sql,1,s1_mix,Proctor,52806,50000,2
+s1_mix_00081.sql,1,s1_mix,Fisher,20472,50000,2
+s1_mix_00082.sql,1,s1_mix,Siloam,23097,50000,2
+s1_mix_00083.sql,1,s1_mix,Evans,47879,50000,1
+s1_mix_00084.sql,1,s1_mix,Buckingham,59850,50000,1
+s1_mix_00085.sql,1,s1_mix,California,21318,50000,1
+s1_mix_00086.sql,1,s1_mix,Somerville,22086,50000,1
+s1_mix_00087.sql,1,s1_mix,Hardy,21215,50000,2
+s1_mix_00088.sql,1,s1_mix,Shore Acres,53324,50000,1
+s1_mix_00089.sql,1,s1_mix,Red Oak,15875,50000,3
+s1_mix_00090.sql,1,s1_mix,Perkins,4339,50000,1
+s1_mix_00091.sql,1,s1_mix,Proctor,49348,50000,5
+s1_mix_00092.sql,1,s1_mix,Williamsville,22227,50000,1
+s1_mix_00093.sql,1,s1_mix,Granite,52023,50000,1
+s1_mix_00094.sql,1,s1_mix,Ashley,20516,50000,2
+s1_mix_00095.sql,1,s1_mix,Dewey,10913,50000,1
+s1_mix_00096.sql,1,s1_mix,Roy,50082,50000,3
+s1_mix_00097.sql,1,s1_mix,Leesburg,11273,50000,1
+s1_mix_00098.sql,1,s1_mix,Lakeville,51899,50000,3
+s1_mix_00099.sql,1,s1_mix,Little River,18970,50000,3
+s1_mix_00100.sql,1,s1_mix,Wilton,55737,50000,2
+s1_mix_00101.sql,1,s1_mix,Williamsville,50374,50000,1
+s1_mix_00102.sql,1,s1_mix,Pinhook,49846,50000,1
+s1_mix_00103.sql,1,s1_mix,Freeport,55001,50000,1
+s1_mix_00104.sql,1,s1_mix,Willow,19518,50000,1
+s1_mix_00105.sql,1,s1_mix,Warwick,20359,50000,2
+s1_mix_00106.sql,1,s1_mix,Pomona,55028,50000,3
+s1_mix_00107.sql,1,s1_mix,California,18004,50000,1
+s1_mix_00108.sql,1,s1_mix,Richville,48972,50000,1
+s1_mix_00109.sql,1,s1_mix,Siloam,48349,50000,2
+s1_mix_00110.sql,1,s1_mix,Perkins,47925,50000,1
+s1_mix_00111.sql,1,s1_mix,Flint,61138,50000,1
+s1_mix_00112.sql,1,s1_mix,Globe,51381,50000,3
+s1_mix_00113.sql,1,s1_mix,Brookwood,21386,50000,1
+s1_mix_00114.sql,1,s1_mix,Mechanicsburg,19957,50000,2
+s1_mix_00115.sql,1,s1_mix,Leesburg,19875,50000,1
+s1_mix_00116.sql,1,s1_mix,Edgewater,6199,50000,1
+s1_mix_00117.sql,1,s1_mix,Little River,11528,50000,3
+s1_mix_00118.sql,1,s1_mix,Woodcrest,58190,50000,1
+s1_mix_00119.sql,1,s1_mix,Indian Village,18138,50000,2
+s1_mix_00120.sql,1,s1_mix,Ferguson,56568,50000,1
+s1_mix_00121.sql,1,s1_mix,Carpenter,19649,50000,1
+s1_mix_00122.sql,1,s1_mix,Little River,59124,50000,3
+s1_mix_00123.sql,1,s1_mix,Monroe,16745,50000,1
+s1_mix_00124.sql,1,s1_mix,Stratford,11743,50000,1
+s1_mix_00125.sql,1,s1_mix,Cooper,51241,50000,1
+s1_mix_00126.sql,1,s1_mix,Proctor,50669,50000,2
+s1_mix_00127.sql,1,s1_mix,Ludlow,21086,50000,1
+s1_mix_00128.sql,1,s1_mix,Farmersville,52032,50000,1
+s1_mix_00129.sql,1,s1_mix,Peoria,52524,50000,1
+s1_mix_00130.sql,1,s1_mix,Little River,12316,50000,3
+s1_mix_00131.sql,1,s1_mix,Redland,53689,50000,2
+s1_mix_00132.sql,1,s1_mix,La Grange,58737,50000,1
+s1_mix_00133.sql,1,s1_mix,Oneida,22810,50000,2
+s1_mix_00134.sql,1,s1_mix,Amherst,50647,50000,1
+s1_mix_00135.sql,1,s1_mix,Willis,20235,50000,1
+s1_mix_00136.sql,1,s1_mix,Red Oak,21728,50000,3
+s1_mix_00137.sql,1,s1_mix,Mechanicsburg,53870,50000,3
+s1_mix_00138.sql,1,s1_mix,Indian Village,48681,50000,2
+s1_mix_00139.sql,1,s1_mix,Payne,16460,50000,1
+s1_mix_00140.sql,1,s1_mix,Star,50757,50000,3
+s1_mix_00141.sql,1,s1_mix,Ludlow,18784,50000,1
+s1_mix_00142.sql,1,s1_mix,Lawrenceville,48325,50000,1
+s1_mix_00143.sql,1,s1_mix,Lake Forest,52201,50000,1
+s1_mix_00144.sql,1,s1_mix,Carlisle,49146,50000,1
+s1_mix_00145.sql,1,s1_mix,Hartland,12395,50000,1
+s1_mix_00146.sql,1,s1_mix,Willow,65040,50000,1
+s1_mix_00147.sql,1,s1_mix,Birmingham,61483,50000,1
+s1_mix_00148.sql,1,s1_mix,Kelly,56739,50000,1
+s1_mix_00149.sql,1,s1_mix,Elm Grove,13158,50000,1
+s1_mix_00150.sql,1,s1_mix,Somerville,15062,50000,2
+s1_mix_00151.sql,1,s1_mix,Lawrenceville,52012,50000,5
+s1_mix_00152.sql,1,s1_mix,Globe,6331,50000,1
+s1_mix_00153.sql,1,s1_mix,Mechanicsburg,54323,50000,3
+s1_mix_00154.sql,1,s1_mix,Roy,48094,50000,2
+s1_mix_00155.sql,1,s1_mix,Weldon,52553,50000,3
+s1_mix_00156.sql,1,s1_mix,Woodruff,21198,50000,1
+s1_mix_00157.sql,1,s1_mix,Harvey,63991,50000,2
+s1_mix_00158.sql,1,s1_mix,Silver Creek,17609,50000,2
+s1_mix_00159.sql,1,s1_mix,Brookville,48815,50000,1
+s1_mix_00160.sql,1,s1_mix,Granite,17811,50000,1
+s1_mix_00161.sql,1,s1_mix,Stratford,21622,50000,2
+s1_mix_00162.sql,1,s1_mix,Somerville,47184,50000,1
+s1_mix_00163.sql,1,s1_mix,Globe,50684,50000,3
+s1_mix_00164.sql,1,s1_mix,Hurricane,22946,50000,1
+s1_mix_00165.sql,1,s1_mix,Mechanicsburg,52673,50000,3
+s1_mix_00166.sql,1,s1_mix,Ruth,5604,50000,2
+s1_mix_00167.sql,1,s1_mix,Red Oak,48236,50000,1
+s1_mix_00168.sql,1,s1_mix,Harmon,19411,50000,4
+s1_mix_00169.sql,1,s1_mix,Payne,15936,50000,1
+s1_mix_00170.sql,1,s1_mix,Ferguson,48606,50000,1
+s1_mix_00171.sql,1,s1_mix,Ruth,16621,50000,1
+s1_mix_00172.sql,1,s1_mix,Brunswick,59758,50000,1
+s1_mix_00173.sql,1,s1_mix,Perkins,48479,50000,1
+s1_mix_00174.sql,1,s1_mix,Carpenter,18615,50000,1
+s1_mix_00175.sql,1,s1_mix,Mechanicsburg,61092,50000,3
+s1_mix_00176.sql,1,s1_mix,Payne,46944,50000,2
+s1_mix_00177.sql,1,s1_mix,Ruth,56866,50000,3
+s1_mix_00178.sql,1,s1_mix,Carpenter,5089,50000,1
+s1_mix_00179.sql,1,s1_mix,Belleville,59063,50000,1
+s1_mix_00180.sql,1,s1_mix,Belleview,15561,50000,1
+s1_mix_00181.sql,1,s1_mix,Saint James,47709,50000,1
+s1_mix_00182.sql,1,s1_mix,Leland,6481,50000,1
+s1_mix_00183.sql,1,s1_mix,Payne,14655,50000,1
+s1_mix_00184.sql,1,s1_mix,Harmon,22211,50000,5
+s1_mix_00185.sql,1,s1_mix,Texas,60181,50000,2
+s1_mix_00186.sql,1,s1_mix,Somerville,47511,50000,1
+s1_mix_00187.sql,1,s1_mix,Richfield,50296,50000,1
+s1_mix_00188.sql,1,s1_mix,Rutland,19924,50000,1
+s1_mix_00189.sql,1,s1_mix,Star,47265,50000,3
+s1_mix_00190.sql,1,s1_mix,Perkins,53957,50000,1
+s1_mix_00191.sql,1,s1_mix,Carlisle,48571,50000,1
+s1_mix_00192.sql,1,s1_mix,Quincy,17877,50000,2
+s1_mix_00193.sql,1,s1_mix,Little River,51728,50000,3
+s1_mix_00194.sql,1,s1_mix,Ellsworth,15043,50000,1
+s1_mix_00195.sql,1,s1_mix,Indian Village,20185,50000,2
+s1_mix_00196.sql,1,s1_mix,Rossville,19975,50000,1
+s1_mix_00197.sql,1,s1_mix,Hartland,21450,50000,1
+s1_mix_00198.sql,1,s1_mix,Amherst,21064,50000,3
+s1_mix_00199.sql,1,s1_mix,Bayview,47581,50000,2
+s1_mix_00200.sql,1,s1_mix,Ferguson,17795,50000,3
+s1_mix_00201.sql,1,s1_mix,Hazelwood,49168,50000,3
+s1_mix_00202.sql,1,s1_mix,Riceville,14342,50000,3
+s1_mix_00203.sql,1,s1_mix,Silver Creek,52846,50000,2
+s1_mix_00204.sql,1,s1_mix,Lawrenceville,52327,50000,5
+s1_mix_00205.sql,1,s1_mix,Hardy,23293,50000,2
+s1_mix_00206.sql,1,s1_mix,Hardy,13456,50000,2
+s1_mix_00207.sql,1,s1_mix,Redland,15616,50000,3
+s1_mix_00208.sql,1,s1_mix,Stafford,19713,50000,2
+s1_mix_00209.sql,1,s1_mix,Somerville,17809,50000,2
+s1_mix_00210.sql,1,s1_mix,Little River,53978,50000,3
+s1_mix_00211.sql,1,s1_mix,Sumner,18659,50000,1
+s1_mix_00212.sql,1,s1_mix,Belfast,57032,50000,1
+s1_mix_00213.sql,1,s1_mix,Harvey,52776,50000,2
+s1_mix_00214.sql,1,s1_mix,Bayside,60336,50000,3
+s1_mix_00215.sql,1,s1_mix,Proctor,19834,50000,3
+s1_mix_00216.sql,1,s1_mix,Williamsville,47963,50000,1
+s1_mix_00217.sql,1,s1_mix,Star,17762,50000,1
+s1_mix_00218.sql,1,s1_mix,Ruth,15862,50000,1
+s1_mix_00219.sql,1,s1_mix,Argyle,21007,50000,1
+s1_mix_00220.sql,1,s1_mix,Argyle,53894,50000,1
+s1_mix_00221.sql,1,s1_mix,Hardy,53857,50000,3
+s1_mix_00222.sql,1,s1_mix,Thompsonville,15143,50000,3
+s1_mix_00223.sql,1,s1_mix,Fisher,14982,50000,2
+s1_mix_00224.sql,1,s1_mix,Ellisville,48052,50000,1
+s1_mix_00225.sql,1,s1_mix,Pomona,66210,50000,3
+s1_mix_00226.sql,1,s1_mix,Albany,21463,50000,1
+s1_mix_00227.sql,1,s1_mix,Glencoe,18227,50000,1
+s1_mix_00228.sql,1,s1_mix,Crescent,19840,50000,1
+s1_mix_00229.sql,1,s1_mix,Willow,55438,50000,1
+s1_mix_00230.sql,1,s1_mix,Carpenter,4159,50000,1
+s1_mix_00231.sql,1,s1_mix,Perkins,10229,50000,1
+s1_mix_00232.sql,1,s1_mix,Stratford,20676,50000,2
+s1_mix_00233.sql,1,s1_mix,Fayetteville,21341,50000,2
+s1_mix_00234.sql,1,s1_mix,Amherst,9472,50000,2
+s1_mix_00235.sql,1,s1_mix,Elm Grove,53903,50000,1
+s1_mix_00236.sql,1,s1_mix,Blanchard,20159,50000,1
+s1_mix_00237.sql,1,s1_mix,Carpenter,47898,50000,6
+s1_mix_00238.sql,1,s1_mix,Aberdeen,60185,50000,1
+s1_mix_00239.sql,1,s1_mix,Ellisville,57541,50000,2
+s1_mix_00240.sql,1,s1_mix,Harmon,49042,50000,3
+s1_mix_00241.sql,1,s1_mix,Greendale,21446,50000,2
+s1_mix_00242.sql,1,s1_mix,Siloam,49984,50000,2
+s1_mix_00243.sql,1,s1_mix,Brookwood,52924,50000,1
+s1_mix_00244.sql,1,s1_mix,Elm Grove,48355,50000,1
+s1_mix_00245.sql,1,s1_mix,Redland,59516,50000,2
+s1_mix_00246.sql,1,s1_mix,Lakeville,52796,50000,3
+s1_mix_00247.sql,1,s1_mix,Richville,66718,50000,2
+s1_mix_00248.sql,1,s1_mix,Youngstown,48665,50000,3
+s1_mix_00249.sql,1,s1_mix,Elm Grove,57401,50000,1
+s1_mix_00250.sql,1,s1_mix,Leesville,51332,50000,1
+s1_mix_00251.sql,1,s1_mix,Gary,14744,50000,2
+s1_mix_00252.sql,1,s1_mix,Empire,54243,50000,1
+s1_mix_00253.sql,1,s1_mix,Woodruff,19811,50000,2
+s1_mix_00254.sql,1,s1_mix,Roxbury,18013,50000,2
+s1_mix_00255.sql,1,s1_mix,Leesburg,20989,50000,1
+s1_mix_00256.sql,1,s1_mix,Ruth,12790,50000,1
+s1_mix_00257.sql,1,s1_mix,Price,51827,50000,2
+s1_mix_00258.sql,1,s1_mix,Cooper,51566,50000,1
+s1_mix_00259.sql,1,s1_mix,Acme,47430,50000,1
+s1_mix_00260.sql,1,s1_mix,California,12311,50000,1
+s1_mix_00261.sql,1,s1_mix,Harmon,47962,50000,3
+s1_mix_00262.sql,1,s1_mix,Richfield,21736,50000,2
+s1_mix_00263.sql,1,s1_mix,Mechanicsburg,18469,50000,2
+s1_mix_00264.sql,1,s1_mix,Woodcrest,19684,50000,1
+s1_mix_00265.sql,1,s1_mix,Leland,47248,50000,1
+s1_mix_00266.sql,1,s1_mix,Texas,55792,50000,2
+s1_mix_00267.sql,1,s1_mix,Wyoming,19962,50000,1
+s1_mix_00268.sql,1,s1_mix,Rutland,22334,50000,1
+s1_mix_00269.sql,1,s1_mix,Pinhook,54172,50000,3
+s1_mix_00270.sql,1,s1_mix,Williamsville,50745,50000,1
+s1_mix_00271.sql,1,s1_mix,Stafford,21119,50000,2
+s1_mix_00272.sql,1,s1_mix,Fayetteville,48852,50000,1
+s1_mix_00273.sql,1,s1_mix,Roy,15405,50000,1
+s1_mix_00274.sql,1,s1_mix,Edgewater,9011,50000,1
+s1_mix_00275.sql,1,s1_mix,Sumner,47279,50000,1
+s1_mix_00276.sql,1,s1_mix,Ellisville,46740,50000,1
+s1_mix_00277.sql,1,s1_mix,Lawrenceville,47119,50000,1
+s1_mix_00278.sql,1,s1_mix,Buckhorn,52351,50000,1
+s1_mix_00279.sql,1,s1_mix,Three Forks,22280,50000,1
+s1_mix_00280.sql,1,s1_mix,Harmon,46922,50000,3
+s1_mix_00281.sql,1,s1_mix,Deer Park,49182,50000,1
+s1_mix_00282.sql,1,s1_mix,Pomona,21327,50000,1
+s1_mix_00283.sql,1,s1_mix,Farmersville,51080,50000,1
+s1_mix_00284.sql,1,s1_mix,Acme,47331,50000,1
+s1_mix_00285.sql,1,s1_mix,Warwick,22814,50000,2
+s1_mix_00286.sql,1,s1_mix,Somerville,47236,50000,1
+s1_mix_00287.sql,1,s1_mix,Summerville,17563,50000,3
+s1_mix_00288.sql,1,s1_mix,Nottingham,61578,50000,3
+s1_mix_00289.sql,1,s1_mix,Lake Forest,52064,50000,1
+s1_mix_00290.sql,1,s1_mix,Proctor,57799,50000,2
+s1_mix_00291.sql,1,s1_mix,Star,49624,50000,3
+s1_mix_00292.sql,1,s1_mix,Ruth,23125,50000,3
+s1_mix_00293.sql,1,s1_mix,Williamsville,56010,50000,1
+s1_mix_00294.sql,1,s1_mix,Shore Acres,53789,50000,1
+s1_mix_00295.sql,1,s1_mix,Argyle,22003,50000,1
+s1_mix_00296.sql,1,s1_mix,Thompsonville,3917,50000,1
+s1_mix_00297.sql,1,s1_mix,Roy,50807,50000,3
+s1_mix_00298.sql,1,s1_mix,Price,23291,50000,1
+s1_mix_00299.sql,1,s1_mix,Benton,54781,50000,1
+s1_mix_00300.sql,1,s1_mix,Brookville,15944,50000,1
+s1_mix_00301.sql,1,s1_mix,Richfield,13010,50000,1
+s1_mix_00302.sql,1,s1_mix,Evans,47337,50000,1
+s1_mix_00303.sql,1,s1_mix,Mason,48213,50000,1
+s1_mix_00304.sql,1,s1_mix,Calhoun,14941,50000,3
+s1_mix_00305.sql,1,s1_mix,Leesville,19345,50000,1
+s1_mix_00306.sql,1,s1_mix,Willis,16862,50000,1
+s1_mix_00307.sql,1,s1_mix,Tanglewood,12446,50000,1
+s1_mix_00308.sql,1,s1_mix,Ellsworth,19842,50000,1
+s1_mix_00309.sql,1,s1_mix,Acme,52915,50000,1
+s1_mix_00310.sql,1,s1_mix,Nichols,21187,50000,1
+s1_mix_00311.sql,1,s1_mix,Globe,52289,50000,3
+s1_mix_00312.sql,1,s1_mix,Lakeville,53647,50000,3
+s1_mix_00313.sql,1,s1_mix,Hardy,21347,50000,2
+s1_mix_00314.sql,1,s1_mix,Crescent,18702,50000,1
+s1_mix_00315.sql,1,s1_mix,Hartland,51689,50000,3
+s1_mix_00316.sql,1,s1_mix,Kelly,52701,50000,1
+s1_mix_00317.sql,1,s1_mix,Peoria,13780,50000,1
+s1_mix_00318.sql,1,s1_mix,Silver Creek,17312,50000,2
+s1_mix_00319.sql,1,s1_mix,Fayetteville,15965,50000,3
+s1_mix_00320.sql,1,s1_mix,Roy,20937,50000,2
+s1_mix_00321.sql,1,s1_mix,Montezuma,14932,50000,1
+s1_mix_00322.sql,1,s1_mix,Siloam,52597,50000,2
+s1_mix_00323.sql,1,s1_mix,Carpenter,58190,50000,6
+s1_mix_00324.sql,1,s1_mix,Woodland Park,56991,50000,1
+s1_mix_00325.sql,1,s1_mix,Wilton,15514,50000,1
+s1_mix_00326.sql,1,s1_mix,Tyrone,22657,50000,2
+s1_mix_00327.sql,1,s1_mix,Perkins,52450,50000,1
+s1_mix_00328.sql,1,s1_mix,Belleville,48247,50000,1
+s1_mix_00329.sql,1,s1_mix,Grandview,56205,50000,1
+s1_mix_00330.sql,1,s1_mix,Ashley,47745,50000,3
+s1_mix_00331.sql,1,s1_mix,Proctor,19845,50000,3
+s1_mix_00332.sql,1,s1_mix,Blanchard,21484,50000,1
+s1_mix_00333.sql,1,s1_mix,Harmon,50230,50000,1
+s1_mix_00334.sql,1,s1_mix,Tyrone,55666,50000,1
+s1_mix_00335.sql,1,s1_mix,Williamsville,20945,50000,1
+s1_mix_00336.sql,1,s1_mix,Indian Village,48554,50000,2
+s1_mix_00337.sql,1,s1_mix,Gravel Hill,50641,50000,3
+s1_mix_00338.sql,1,s1_mix,Globe,61361,50000,3
+s1_mix_00339.sql,1,s1_mix,Perkins,56912,50000,1
+s1_mix_00340.sql,1,s1_mix,Proctor,17977,50000,3
+s1_mix_00341.sql,1,s1_mix,Riceville,47644,50000,2
+s1_mix_00342.sql,1,s1_mix,Lakeville,23026,50000,2
+s1_mix_00343.sql,1,s1_mix,Bayview,21622,50000,1
+s1_mix_00344.sql,1,s1_mix,Proctor,22724,50000,3
+s1_mix_00345.sql,1,s1_mix,Somerville,53614,50000,1
+s1_mix_00346.sql,1,s1_mix,Willow,21050,50000,2
+s1_mix_00347.sql,1,s1_mix,Thompsonville,47527,50000,2
+s1_mix_00348.sql,1,s1_mix,Lee,19578,50000,1
+s1_mix_00349.sql,1,s1_mix,Rossville,22163,50000,1

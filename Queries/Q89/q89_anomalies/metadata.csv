@@ -1,0 +1,1001 @@
+file,label,scenario,year,cat1,class1,cat2,class2,cat3,class3,cat4,class4,cat5,class5,cat6,class6,n_rows
+s1_category_class_00000.sql,1,s1_category_class,2002,Jewelry,bracelets,Sports,pools,Women,fragrances,Home,curtains/drapes,Books,computers,Electronics,karoke,3184
+s1_category_class_00001.sql,1,s1_category_class,2002,Books,business,Books,reference,Women,fragrances,Electronics,stereo,Electronics,wireless,Home,decor,3431
+s1_category_class_00002.sql,1,s1_category_class,2002,Jewelry,mens watch,Electronics,wireless,Electronics,karoke,Sports,guns,Home,glassware,Women,fragrances,3653
+s1_category_class_00003.sql,1,s1_category_class,2002,Men,sports-apparel,Sports,fitness,Sports,baseball,Home,bedding,Jewelry,costume,Sports,camping,3002
+s1_category_class_00004.sql,1,s1_category_class,2002,Sports,baseball,Books,fiction,Electronics,stereo,Home,lighting,Sports,golf,Men,sports-apparel,3322
+s1_category_class_00005.sql,1,s1_category_class,2002,Men,sports-apparel,Books,science,Books,mystery,Jewelry,consignment,Home,tables,Sports,football,2536
+s1_category_class_00006.sql,1,s1_category_class,2002,Jewelry,mens watch,Home,mattresses,Sports,baseball,Home,tables,Men,sports-apparel,Home,flatware,2971
+s1_category_class_00007.sql,1,s1_category_class,2002,Sports,baseball,Books,computers,Sports,pools,Jewelry,womens watch,Home,glassware,Books,business,3093
+s1_category_class_00008.sql,1,s1_category_class,2002,Jewelry,rings,Home,mattresses,Home,curtains/drapes,Home,lighting,Home,decor,Jewelry,gold,3290
+s1_category_class_00009.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,karoke,Women,fragrances,Jewelry,costume,Jewelry,pendants,Home,bedding,2878
+s1_category_class_00010.sql,1,s1_category_class,2002,Men,sports-apparel,Home,decor,Home,glassware,Jewelry,estate,Sports,golf,Jewelry,gold,2914
+s1_category_class_00011.sql,1,s1_category_class,2002,Women,fragrances,Books,science,Electronics,memory,Jewelry,mens watch,Men,sports-apparel,Jewelry,costume,2547
+s1_category_class_00012.sql,1,s1_category_class,2002,Jewelry,costume,Books,arts,Jewelry,womens watch,Electronics,memory,Home,tables,Jewelry,pendants,3397
+s1_category_class_00013.sql,1,s1_category_class,2002,Sports,basketball,Home,curtains/drapes,Women,fragrances,Books,parenting,Home,flatware,Men,sports-apparel,2421
+s1_category_class_00014.sql,1,s1_category_class,2002,Jewelry,bracelets,Men,sports-apparel,Sports,fishing,Electronics,stereo,Electronics,wireless,Sports,fitness,3731
+s1_category_class_00015.sql,1,s1_category_class,2002,Jewelry,rings,Men,sports-apparel,Books,mystery,Books,reference,Women,fragrances,Jewelry,bracelets,2031
+s1_category_class_00016.sql,1,s1_category_class,2002,Books,fiction,Books,parenting,Sports,guns,Sports,pools,Books,science,Electronics,stereo,3271
+s1_category_class_00017.sql,1,s1_category_class,2002,Sports,basketball,Electronics,dvd/vcr players,Jewelry,estate,Home,bedding,Women,fragrances,Home,curtains/drapes,3444
+s1_category_class_00018.sql,1,s1_category_class,2002,Jewelry,loose stones,Electronics,scanners,Sports,camping,Home,flatware,Sports,basketball,Electronics,stereo,4031
+s1_category_class_00019.sql,1,s1_category_class,2002,Jewelry,mens watch,Electronics,wireless,Books,fiction,Men,sports-apparel,Sports,camping,Home,tables,3083
+s1_category_class_00020.sql,1,s1_category_class,2002,Books,arts,Electronics,dvd/vcr players,Men,sports-apparel,Books,parenting,Home,bedding,Home,glassware,3139
+s1_category_class_00021.sql,1,s1_category_class,2002,Sports,tennis,Electronics,portable,Books,computers,Sports,pools,Jewelry,mens watch,Sports,football,3439
+s1_category_class_00022.sql,1,s1_category_class,2002,Jewelry,costume,Home,bedding,Women,fragrances,Books,reference,Men,sports-apparel,Sports,fishing,2403
+s1_category_class_00023.sql,1,s1_category_class,2002,Men,sports-apparel,Sports,basketball,Jewelry,consignment,Home,decor,Books,computers,Sports,guns,2786
+s1_category_class_00024.sql,1,s1_category_class,2002,Home,mattresses,Sports,camping,Men,sports-apparel,Jewelry,estate,Electronics,audio,Jewelry,pendants,3278
+s1_category_class_00025.sql,1,s1_category_class,2002,Jewelry,costume,Electronics,wireless,Books,science,Electronics,stereo,Jewelry,estate,Women,fragrances,3415
+s1_category_class_00026.sql,1,s1_category_class,2002,Jewelry,bracelets,Home,lighting,Men,sports-apparel,Electronics,karoke,Sports,football,Jewelry,gold,3157
+s1_category_class_00027.sql,1,s1_category_class,2002,Jewelry,estate,Sports,guns,Electronics,memory,Jewelry,mens watch,Women,fragrances,Men,sports-apparel,2645
+s1_category_class_00028.sql,1,s1_category_class,2002,Books,parenting,Sports,archery,Books,reference,Electronics,televisions,Sports,tennis,Electronics,portable,3774
+s1_category_class_00029.sql,1,s1_category_class,2002,Sports,tennis,Electronics,karoke,Books,fiction,Home,curtains/drapes,Jewelry,gold,Electronics,portable,3814
+s1_category_class_00030.sql,1,s1_category_class,2002,Sports,baseball,Electronics,dvd/vcr players,Books,reference,Sports,camping,Sports,guns,Men,sports-apparel,3217
+s1_category_class_00031.sql,1,s1_category_class,2002,Women,fragrances,Home,decor,Home,bedding,Books,parenting,Sports,pools,Jewelry,estate,2806
+s1_category_class_00032.sql,1,s1_category_class,2002,Home,bedding,Electronics,stereo,Men,sports-apparel,Women,fragrances,Jewelry,pendants,Books,computers,2797
+s1_category_class_00033.sql,1,s1_category_class,2002,Home,decor,Sports,fishing,Electronics,audio,Sports,pools,Jewelry,costume,Electronics,portable,4134
+s1_category_class_00034.sql,1,s1_category_class,2002,Books,business,Women,fragrances,Home,glassware,Books,reference,Electronics,dvd/vcr players,Jewelry,womens watch,3047
+s1_category_class_00035.sql,1,s1_category_class,2002,Electronics,karoke,Women,fragrances,Books,fiction,Sports,basketball,Men,sports-apparel,Home,kids,2828
+s1_category_class_00036.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,estate,Men,sports-apparel,Home,kids,Home,flatware,Jewelry,earings,2319
+s1_category_class_00037.sql,1,s1_category_class,2002,Sports,guns,Jewelry,mens watch,Jewelry,gold,Men,sports-apparel,Electronics,televisions,Sports,basketball,3185
+s1_category_class_00038.sql,1,s1_category_class,2002,Books,business,Sports,baseball,Books,fiction,Jewelry,gold,Home,tables,Men,sports-apparel,2546
+s1_category_class_00039.sql,1,s1_category_class,2002,Electronics,memory,Electronics,karoke,Books,reference,Books,fiction,Jewelry,pendants,Electronics,audio,4134
+s1_category_class_00040.sql,1,s1_category_class,2002,Sports,fishing,Electronics,stereo,Books,arts,Books,mystery,Electronics,memory,Jewelry,pendants,3759
+s1_category_class_00041.sql,1,s1_category_class,2002,Electronics,televisions,Books,business,Electronics,wireless,Sports,guns,Home,lighting,Home,tables,3963
+s1_category_class_00042.sql,1,s1_category_class,2002,Sports,fitness,Books,computers,Jewelry,consignment,Books,business,Men,sports-apparel,Sports,tennis,2590
+s1_category_class_00043.sql,1,s1_category_class,2002,Men,sports-apparel,Sports,fitness,Jewelry,estate,Books,science,Sports,archery,Home,decor,2770
+s1_category_class_00044.sql,1,s1_category_class,2002,Jewelry,mens watch,Sports,archery,Books,arts,Electronics,dvd/vcr players,Home,decor,Men,sports-apparel,3197
+s1_category_class_00045.sql,1,s1_category_class,2002,Sports,tennis,Home,glassware,Jewelry,womens watch,Electronics,memory,Sports,basketball,Sports,archery,3861
+s1_category_class_00046.sql,1,s1_category_class,2002,Sports,archery,Jewelry,costume,Sports,tennis,Jewelry,estate,Men,sports-apparel,Home,bedding,2942
+s1_category_class_00047.sql,1,s1_category_class,2002,Electronics,wireless,Electronics,karoke,Jewelry,mens watch,Sports,fishing,Jewelry,pendants,Home,flatware,4007
+s1_category_class_00048.sql,1,s1_category_class,2002,Jewelry,rings,Home,tables,Sports,golf,Sports,pools,Home,bedding,Books,arts,3288
+s1_category_class_00049.sql,1,s1_category_class,2002,Home,curtains/drapes,Books,fiction,Sports,fitness,Jewelry,bracelets,Jewelry,estate,Jewelry,mens watch,3015
+s1_category_class_00050.sql,1,s1_category_class,2002,Electronics,memory,Books,fiction,Jewelry,earings,Home,mattresses,Books,science,Men,sports-apparel,2849
+s1_category_class_00051.sql,1,s1_category_class,2002,Books,business,Jewelry,gold,Men,sports-apparel,Home,decor,Sports,fishing,Women,fragrances,2307
+s1_category_class_00052.sql,1,s1_category_class,2002,Sports,baseball,Books,parenting,Electronics,stereo,Home,curtains/drapes,Jewelry,estate,Jewelry,mens watch,3524
+s1_category_class_00053.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,loose stones,Electronics,scanners,Electronics,stereo,Home,kids,Jewelry,earings,3461
+s1_category_class_00054.sql,1,s1_category_class,2002,Electronics,wireless,Jewelry,gold,Men,sports-apparel,Home,flatware,Women,fragrances,Electronics,dvd/vcr players,3162
+s1_category_class_00055.sql,1,s1_category_class,2002,Home,bedding,Jewelry,mens watch,Books,computers,Books,mystery,Electronics,wireless,Women,fragrances,2915
+s1_category_class_00056.sql,1,s1_category_class,2002,Women,fragrances,Sports,tennis,Sports,guns,Electronics,dvd/vcr players,Books,business,Men,sports-apparel,2794
+s1_category_class_00057.sql,1,s1_category_class,2002,Sports,archery,Jewelry,estate,Jewelry,mens watch,Jewelry,consignment,Home,kids,Women,fragrances,2760
+s1_category_class_00058.sql,1,s1_category_class,2002,Books,computers,Men,sports-apparel,Jewelry,costume,Sports,camping,Home,lighting,Books,business,2560
+s1_category_class_00059.sql,1,s1_category_class,2002,Home,bedding,Sports,fitness,Books,computers,Home,tables,Home,mattresses,Jewelry,earings,3248
+s1_category_class_00060.sql,1,s1_category_class,2002,Sports,tennis,Women,fragrances,Electronics,scanners,Home,mattresses,Books,reference,Home,bedding,3232
+s1_category_class_00061.sql,1,s1_category_class,2002,Home,glassware,Jewelry,earings,Sports,baseball,Jewelry,mens watch,Jewelry,gold,Jewelry,womens watch,3112
+s1_category_class_00062.sql,1,s1_category_class,2002,Home,bedding,Books,arts,Electronics,stereo,Jewelry,womens watch,Jewelry,consignment,Jewelry,gold,3427
+s1_category_class_00063.sql,1,s1_category_class,2002,Books,arts,Home,bedding,Sports,basketball,Electronics,audio,Electronics,memory,Men,sports-apparel,3639
+s1_category_class_00064.sql,1,s1_category_class,2002,Men,sports-apparel,Home,tables,Sports,pools,Home,curtains/drapes,Sports,tennis,Home,lighting,3121
+s1_category_class_00065.sql,1,s1_category_class,2002,Electronics,karoke,Books,reference,Home,decor,Sports,pools,Women,fragrances,Jewelry,costume,3211
+s1_category_class_00066.sql,1,s1_category_class,2002,Electronics,memory,Books,reference,Jewelry,womens watch,Jewelry,consignment,Jewelry,gold,Electronics,wireless,3622
+s1_category_class_00067.sql,1,s1_category_class,2002,Sports,pools,Sports,archery,Jewelry,bracelets,Home,curtains/drapes,Home,lighting,Sports,golf,3491
+s1_category_class_00068.sql,1,s1_category_class,2002,Sports,basketball,Sports,fitness,Electronics,scanners,Books,mystery,Jewelry,costume,Sports,archery,3559
+s1_category_class_00069.sql,1,s1_category_class,2002,Sports,pools,Home,kids,Jewelry,costume,Men,sports-apparel,Women,fragrances,Home,glassware,2594
+s1_category_class_00070.sql,1,s1_category_class,2002,Home,tables,Jewelry,pendants,Home,glassware,Sports,pools,Sports,camping,Women,fragrances,3055
+s1_category_class_00071.sql,1,s1_category_class,2002,Books,parenting,Books,business,Books,fiction,Home,bedding,Sports,tennis,Men,sports-apparel,2508
+s1_category_class_00072.sql,1,s1_category_class,2002,Sports,golf,Books,science,Jewelry,loose stones,Jewelry,mens watch,Sports,pools,Jewelry,consignment,3010
+s1_category_class_00073.sql,1,s1_category_class,2002,Home,mattresses,Electronics,audio,Jewelry,gold,Women,fragrances,Books,computers,Electronics,televisions,3533
+s1_category_class_00074.sql,1,s1_category_class,2002,Home,bedding,Home,kids,Jewelry,loose stones,Jewelry,bracelets,Jewelry,earings,Men,sports-apparel,2719
+s1_category_class_00075.sql,1,s1_category_class,2002,Sports,baseball,Electronics,audio,Men,sports-apparel,Jewelry,rings,Home,curtains/drapes,Electronics,memory,3675
+s1_category_class_00076.sql,1,s1_category_class,2002,Home,bedding,Home,glassware,Home,flatware,Women,fragrances,Books,reference,Electronics,stereo,3331
+s1_category_class_00077.sql,1,s1_category_class,2002,Jewelry,costume,Home,decor,Men,sports-apparel,Electronics,dvd/vcr players,Home,kids,Sports,fishing,3432
+s1_category_class_00078.sql,1,s1_category_class,2002,Jewelry,gold,Sports,fishing,Jewelry,rings,Women,fragrances,Books,fiction,Electronics,televisions,3003
+s1_category_class_00079.sql,1,s1_category_class,2002,Jewelry,pendants,Home,kids,Electronics,memory,Jewelry,rings,Books,business,Jewelry,costume,3338
+s1_category_class_00080.sql,1,s1_category_class,2002,Books,mystery,Home,decor,Books,business,Jewelry,pendants,Jewelry,costume,Electronics,televisions,3357
+s1_category_class_00081.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,audio,Books,mystery,Home,lighting,Home,glassware,Jewelry,pendants,3235
+s1_category_class_00082.sql,1,s1_category_class,2002,Books,computers,Women,fragrances,Jewelry,estate,Sports,baseball,Sports,pools,Home,decor,2798
+s1_category_class_00083.sql,1,s1_category_class,2002,Women,fragrances,Home,tables,Jewelry,consignment,Home,lighting,Jewelry,earings,Sports,basketball,2908
+s1_category_class_00084.sql,1,s1_category_class,2002,Jewelry,rings,Home,flatware,Sports,fitness,Sports,football,Jewelry,mens watch,Electronics,portable,3431
+s1_category_class_00085.sql,1,s1_category_class,2002,Men,sports-apparel,Sports,fitness,Home,curtains/drapes,Jewelry,bracelets,Electronics,wireless,Sports,football,3251
+s1_category_class_00086.sql,1,s1_category_class,2002,Jewelry,earings,Electronics,stereo,Sports,fitness,Sports,camping,Sports,golf,Men,sports-apparel,3359
+s1_category_class_00087.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,mens watch,Jewelry,costume,Jewelry,earings,Sports,baseball,Home,curtains/drapes,2782
+s1_category_class_00088.sql,1,s1_category_class,2002,Sports,archery,Men,sports-apparel,Jewelry,bracelets,Sports,guns,Jewelry,estate,Books,parenting,2616
+s1_category_class_00089.sql,1,s1_category_class,2002,Women,fragrances,Books,fiction,Men,sports-apparel,Sports,fishing,Home,mattresses,Books,parenting,2245
+s1_category_class_00090.sql,1,s1_category_class,2002,Electronics,portable,Sports,camping,Sports,archery,Women,fragrances,Books,reference,Home,lighting,3098
+s1_category_class_00091.sql,1,s1_category_class,2002,Books,business,Women,fragrances,Sports,basketball,Sports,fishing,Electronics,audio,Books,mystery,3126
+s1_category_class_00092.sql,1,s1_category_class,2002,Sports,fishing,Electronics,dvd/vcr players,Books,business,Sports,golf,Electronics,stereo,Home,decor,4213
+s1_category_class_00093.sql,1,s1_category_class,2002,Electronics,audio,Home,tables,Electronics,scanners,Home,glassware,Men,sports-apparel,Jewelry,pendants,3751
+s1_category_class_00094.sql,1,s1_category_class,2002,Home,mattresses,Sports,guns,Jewelry,loose stones,Electronics,stereo,Electronics,karoke,Men,sports-apparel,3655
+s1_category_class_00095.sql,1,s1_category_class,2002,Jewelry,womens watch,Jewelry,loose stones,Jewelry,consignment,Home,decor,Electronics,audio,Books,mystery,3402
+s1_category_class_00096.sql,1,s1_category_class,2002,Jewelry,costume,Men,sports-apparel,Books,fiction,Women,fragrances,Books,computers,Jewelry,womens watch,2063
+s1_category_class_00097.sql,1,s1_category_class,2002,Home,lighting,Jewelry,pendants,Electronics,karoke,Books,science,Sports,camping,Electronics,televisions,3965
+s1_category_class_00098.sql,1,s1_category_class,2002,Electronics,stereo,Home,flatware,Books,reference,Jewelry,pendants,Books,mystery,Electronics,televisions,3797
+s1_category_class_00099.sql,1,s1_category_class,2002,Sports,camping,Home,decor,Electronics,wireless,Electronics,stereo,Electronics,dvd/vcr players,Sports,pools,4669
+s1_category_class_00100.sql,1,s1_category_class,2002,Home,bedding,Electronics,portable,Electronics,stereo,Jewelry,bracelets,Sports,archery,Jewelry,mens watch,4030
+s1_category_class_00101.sql,1,s1_category_class,2002,Home,curtains/drapes,Electronics,memory,Jewelry,loose stones,Sports,fishing,Sports,guns,Home,flatware,3577
+s1_category_class_00102.sql,1,s1_category_class,2002,Sports,archery,Home,glassware,Jewelry,womens watch,Men,sports-apparel,Electronics,wireless,Books,science,3155
+s1_category_class_00103.sql,1,s1_category_class,2002,Sports,basketball,Home,curtains/drapes,Women,fragrances,Books,science,Men,sports-apparel,Jewelry,pendants,2397
+s1_category_class_00104.sql,1,s1_category_class,2002,Women,fragrances,Sports,baseball,Sports,basketball,Sports,pools,Men,sports-apparel,Jewelry,costume,2611
+s1_category_class_00105.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,consignment,Books,computers,Electronics,stereo,Electronics,audio,Electronics,karoke,3981
+s1_category_class_00106.sql,1,s1_category_class,2002,Women,fragrances,Men,sports-apparel,Electronics,portable,Sports,basketball,Jewelry,costume,Electronics,karoke,3205
+s1_category_class_00107.sql,1,s1_category_class,2002,Home,curtains/drapes,Jewelry,mens watch,Home,kids,Home,tables,Sports,pools,Electronics,dvd/vcr players,3851
+s1_category_class_00108.sql,1,s1_category_class,2002,Electronics,memory,Sports,fishing,Books,reference,Jewelry,pendants,Jewelry,estate,Women,fragrances,3008
+s1_category_class_00109.sql,1,s1_category_class,2002,Sports,baseball,Home,mattresses,Home,bedding,Women,fragrances,Men,sports-apparel,Books,mystery,2470
+s1_category_class_00110.sql,1,s1_category_class,2002,Women,fragrances,Home,glassware,Men,sports-apparel,Home,lighting,Electronics,dvd/vcr players,Electronics,wireless,3392
+s1_category_class_00111.sql,1,s1_category_class,2002,Home,decor,Books,business,Women,fragrances,Home,lighting,Home,bedding,Sports,archery,2916
+s1_category_class_00112.sql,1,s1_category_class,2002,Books,business,Electronics,dvd/vcr players,Books,mystery,Sports,baseball,Sports,tennis,Jewelry,earings,3421
+s1_category_class_00113.sql,1,s1_category_class,2002,Sports,golf,Sports,guns,Sports,pools,Sports,archery,Sports,tennis,Books,reference,3350
+s1_category_class_00114.sql,1,s1_category_class,2002,Electronics,karoke,Sports,pools,Men,sports-apparel,Women,fragrances,Sports,golf,Home,tables,3064
+s1_category_class_00115.sql,1,s1_category_class,2002,Sports,fitness,Home,mattresses,Sports,camping,Sports,pools,Electronics,scanners,Home,decor,3808
+s1_category_class_00116.sql,1,s1_category_class,2002,Men,sports-apparel,Home,bedding,Jewelry,consignment,Home,glassware,Sports,basketball,Jewelry,loose stones,2939
+s1_category_class_00117.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,loose stones,Home,decor,Men,sports-apparel,Home,flatware,Electronics,portable,2679
+s1_category_class_00118.sql,1,s1_category_class,2002,Electronics,televisions,Home,lighting,Home,tables,Women,fragrances,Home,decor,Electronics,stereo,3903
+s1_category_class_00119.sql,1,s1_category_class,2002,Electronics,wireless,Home,kids,Women,fragrances,Home,decor,Books,reference,Electronics,portable,3450
+s1_category_class_00120.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Sports,tennis,Jewelry,bracelets,Electronics,audio,Sports,fishing,Sports,fitness,4293
+s1_category_class_00121.sql,1,s1_category_class,2002,Jewelry,womens watch,Jewelry,rings,Jewelry,earings,Electronics,karoke,Sports,basketball,Women,fragrances,3156
+s1_category_class_00122.sql,1,s1_category_class,2002,Sports,archery,Sports,basketball,Electronics,karoke,Men,sports-apparel,Electronics,scanners,Electronics,audio,4180
+s1_category_class_00123.sql,1,s1_category_class,2002,Sports,fishing,Home,bedding,Books,science,Home,glassware,Books,computers,Books,business,3006
+s1_category_class_00124.sql,1,s1_category_class,2002,Books,mystery,Books,computers,Electronics,memory,Sports,fitness,Electronics,scanners,Books,fiction,3481
+s1_category_class_00125.sql,1,s1_category_class,2002,Sports,basketball,Sports,camping,Sports,fitness,Jewelry,mens watch,Jewelry,womens watch,Men,sports-apparel,2892
+s1_category_class_00126.sql,1,s1_category_class,2002,Home,flatware,Electronics,portable,Sports,archery,Men,sports-apparel,Books,computers,Sports,camping,3051
+s1_category_class_00127.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,earings,Books,fiction,Home,mattresses,Electronics,scanners,Electronics,audio,3440
+s1_category_class_00128.sql,1,s1_category_class,2002,Sports,pools,Sports,tennis,Home,decor,Electronics,karoke,Jewelry,estate,Electronics,memory,4131
+s1_category_class_00129.sql,1,s1_category_class,2002,Books,computers,Books,fiction,Electronics,audio,Men,sports-apparel,Home,bedding,Sports,fishing,3121
+s1_category_class_00130.sql,1,s1_category_class,2002,Jewelry,pendants,Books,science,Electronics,dvd/vcr players,Men,sports-apparel,Jewelry,rings,Electronics,scanners,3365
+s1_category_class_00131.sql,1,s1_category_class,2002,Home,tables,Books,computers,Home,glassware,Sports,basketball,Electronics,memory,Women,fragrances,3293
+s1_category_class_00132.sql,1,s1_category_class,2002,Electronics,memory,Books,science,Electronics,wireless,Jewelry,costume,Men,sports-apparel,Electronics,dvd/vcr players,3823
+s1_category_class_00133.sql,1,s1_category_class,2002,Electronics,stereo,Jewelry,rings,Electronics,portable,Home,flatware,Jewelry,earings,Books,arts,3669
+s1_category_class_00134.sql,1,s1_category_class,2002,Women,fragrances,Men,sports-apparel,Sports,pools,Jewelry,bracelets,Home,kids,Sports,fishing,2557
+s1_category_class_00135.sql,1,s1_category_class,2002,Electronics,televisions,Home,bedding,Electronics,dvd/vcr players,Books,business,Home,decor,Sports,camping,4128
+s1_category_class_00136.sql,1,s1_category_class,2002,Electronics,stereo,Books,fiction,Electronics,audio,Jewelry,rings,Jewelry,mens watch,Books,computers,3725
+s1_category_class_00137.sql,1,s1_category_class,2002,Books,arts,Men,sports-apparel,Home,flatware,Home,tables,Home,kids,Books,reference,2635
+s1_category_class_00138.sql,1,s1_category_class,2002,Electronics,karoke,Sports,baseball,Electronics,dvd/vcr players,Home,mattresses,Books,business,Electronics,portable,4359
+s1_category_class_00139.sql,1,s1_category_class,2002,Jewelry,pendants,Electronics,televisions,Electronics,dvd/vcr players,Home,bedding,Books,arts,Electronics,scanners,4330
+s1_category_class_00140.sql,1,s1_category_class,2002,Jewelry,mens watch,Sports,basketball,Jewelry,costume,Electronics,televisions,Home,curtains/drapes,Men,sports-apparel,3321
+s1_category_class_00141.sql,1,s1_category_class,2002,Men,sports-apparel,Books,science,Electronics,memory,Home,bedding,Jewelry,bracelets,Home,tables,3141
+s1_category_class_00142.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Women,fragrances,Men,sports-apparel,Books,mystery,Sports,pools,Sports,tennis,2860
+s1_category_class_00143.sql,1,s1_category_class,2002,Sports,baseball,Electronics,audio,Electronics,televisions,Home,glassware,Jewelry,loose stones,Books,parenting,3999
+s1_category_class_00144.sql,1,s1_category_class,2002,Sports,camping,Electronics,memory,Home,bedding,Books,mystery,Jewelry,pendants,Women,fragrances,3099
+s1_category_class_00145.sql,1,s1_category_class,2002,Jewelry,pendants,Sports,archery,Home,lighting,Sports,camping,Books,computers,Jewelry,estate,3109
+s1_category_class_00146.sql,1,s1_category_class,2002,Home,curtains/drapes,Jewelry,gold,Women,fragrances,Jewelry,loose stones,Home,tables,Sports,basketball,2841
+s1_category_class_00147.sql,1,s1_category_class,2002,Men,sports-apparel,Home,bedding,Home,lighting,Electronics,audio,Jewelry,estate,Sports,pools,3385
+s1_category_class_00148.sql,1,s1_category_class,2002,Sports,fitness,Sports,baseball,Electronics,wireless,Sports,tennis,Electronics,memory,Books,science,3965
+s1_category_class_00149.sql,1,s1_category_class,2002,Jewelry,pendants,Home,glassware,Sports,fishing,Home,kids,Women,fragrances,Sports,baseball,3064
+s1_category_class_00150.sql,1,s1_category_class,2002,Home,flatware,Sports,camping,Jewelry,loose stones,Electronics,televisions,Electronics,wireless,Electronics,stereo,4406
+s1_category_class_00151.sql,1,s1_category_class,2002,Books,arts,Books,fiction,Sports,camping,Electronics,audio,Jewelry,womens watch,Home,mattresses,3419
+s1_category_class_00152.sql,1,s1_category_class,2002,Sports,basketball,Home,flatware,Electronics,karoke,Jewelry,gold,Jewelry,pendants,Home,curtains/drapes,3678
+s1_category_class_00153.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,wireless,Women,fragrances,Electronics,karoke,Sports,pools,Sports,guns,3262
+s1_category_class_00154.sql,1,s1_category_class,2002,Books,business,Electronics,dvd/vcr players,Electronics,wireless,Men,sports-apparel,Home,tables,Sports,golf,3651
+s1_category_class_00155.sql,1,s1_category_class,2002,Sports,fishing,Books,mystery,Books,computers,Electronics,televisions,Jewelry,consignment,Books,science,3215
+s1_category_class_00156.sql,1,s1_category_class,2002,Sports,tennis,Electronics,dvd/vcr players,Home,lighting,Sports,pools,Jewelry,earings,Electronics,audio,4231
+s1_category_class_00157.sql,1,s1_category_class,2002,Sports,fishing,Women,fragrances,Electronics,audio,Electronics,portable,Sports,tennis,Home,curtains/drapes,3766
+s1_category_class_00158.sql,1,s1_category_class,2002,Jewelry,estate,Books,business,Sports,pools,Jewelry,bracelets,Jewelry,costume,Home,lighting,3041
+s1_category_class_00159.sql,1,s1_category_class,2002,Jewelry,pendants,Electronics,dvd/vcr players,Books,mystery,Jewelry,estate,Home,kids,Jewelry,earings,3389
+s1_category_class_00160.sql,1,s1_category_class,2002,Sports,camping,Jewelry,rings,Electronics,memory,Sports,baseball,Electronics,dvd/vcr players,Jewelry,gold,3956
+s1_category_class_00161.sql,1,s1_category_class,2002,Electronics,stereo,Electronics,dvd/vcr players,Home,decor,Electronics,karoke,Books,reference,Sports,guns,4490
+s1_category_class_00162.sql,1,s1_category_class,2002,Books,business,Home,glassware,Women,fragrances,Jewelry,pendants,Sports,archery,Home,kids,2839
+s1_category_class_00163.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,mens watch,Electronics,audio,Jewelry,loose stones,Books,computers,Books,reference,2829
+s1_category_class_00164.sql,1,s1_category_class,2002,Electronics,karoke,Home,lighting,Jewelry,estate,Jewelry,earings,Women,fragrances,Men,sports-apparel,2739
+s1_category_class_00165.sql,1,s1_category_class,2002,Sports,archery,Home,tables,Electronics,scanners,Electronics,wireless,Men,sports-apparel,Books,parenting,3489
+s1_category_class_00166.sql,1,s1_category_class,2002,Home,glassware,Electronics,karoke,Jewelry,bracelets,Jewelry,costume,Sports,fishing,Electronics,wireless,4124
+s1_category_class_00167.sql,1,s1_category_class,2002,Jewelry,loose stones,Sports,basketball,Men,sports-apparel,Sports,fitness,Jewelry,earings,Jewelry,pendants,2740
+s1_category_class_00168.sql,1,s1_category_class,2002,Sports,baseball,Electronics,karoke,Women,fragrances,Sports,fishing,Sports,golf,Sports,archery,3520
+s1_category_class_00169.sql,1,s1_category_class,2002,Books,parenting,Electronics,karoke,Sports,pools,Sports,camping,Sports,guns,Jewelry,costume,3537
+s1_category_class_00170.sql,1,s1_category_class,2002,Home,flatware,Home,bedding,Electronics,scanners,Men,sports-apparel,Electronics,televisions,Women,fragrances,3263
+s1_category_class_00171.sql,1,s1_category_class,2002,Women,fragrances,Home,curtains/drapes,Jewelry,mens watch,Electronics,wireless,Home,kids,Books,reference,3094
+s1_category_class_00172.sql,1,s1_category_class,2002,Home,bedding,Books,business,Books,parenting,Electronics,televisions,Men,sports-apparel,Home,curtains/drapes,3066
+s1_category_class_00173.sql,1,s1_category_class,2002,Sports,camping,Electronics,dvd/vcr players,Jewelry,costume,Sports,baseball,Sports,golf,Books,computers,3686
+s1_category_class_00174.sql,1,s1_category_class,2002,Books,computers,Sports,camping,Men,sports-apparel,Home,glassware,Home,kids,Sports,baseball,2898
+s1_category_class_00175.sql,1,s1_category_class,2002,Jewelry,loose stones,Men,sports-apparel,Electronics,wireless,Sports,baseball,Electronics,audio,Electronics,portable,3884
+s1_category_class_00176.sql,1,s1_category_class,2002,Jewelry,earings,Electronics,portable,Books,computers,Books,reference,Electronics,wireless,Electronics,stereo,3972
+s1_category_class_00177.sql,1,s1_category_class,2002,Sports,fitness,Jewelry,womens watch,Jewelry,bracelets,Books,parenting,Home,mattresses,Women,fragrances,2708
+s1_category_class_00178.sql,1,s1_category_class,2002,Women,fragrances,Sports,tennis,Jewelry,costume,Home,tables,Electronics,karoke,Jewelry,rings,3307
+s1_category_class_00179.sql,1,s1_category_class,2002,Books,parenting,Jewelry,bracelets,Books,fiction,Home,tables,Sports,basketball,Sports,pools,3106
+s1_category_class_00180.sql,1,s1_category_class,2002,Jewelry,womens watch,Sports,fishing,Women,fragrances,Books,computers,Home,flatware,Electronics,wireless,3079
+s1_category_class_00181.sql,1,s1_category_class,2002,Home,glassware,Electronics,scanners,Electronics,memory,Jewelry,estate,Women,fragrances,Electronics,stereo,3998
+s1_category_class_00182.sql,1,s1_category_class,2002,Home,decor,Books,computers,Sports,fishing,Men,sports-apparel,Sports,baseball,Electronics,dvd/vcr players,3330
+s1_category_class_00183.sql,1,s1_category_class,2002,Men,sports-apparel,Books,business,Sports,pools,Sports,golf,Women,fragrances,Electronics,audio,2868
+s1_category_class_00184.sql,1,s1_category_class,2002,Sports,tennis,Books,computers,Electronics,scanners,Jewelry,estate,Men,sports-apparel,Home,bedding,3088
+s1_category_class_00185.sql,1,s1_category_class,2002,Home,lighting,Men,sports-apparel,Books,business,Jewelry,rings,Books,parenting,Electronics,televisions,2908
+s1_category_class_00186.sql,1,s1_category_class,2002,Jewelry,loose stones,Women,fragrances,Electronics,audio,Jewelry,pendants,Books,arts,Jewelry,womens watch,2951
+s1_category_class_00187.sql,1,s1_category_class,2002,Sports,guns,Home,glassware,Jewelry,earings,Jewelry,costume,Sports,football,Books,fiction,3047
+s1_category_class_00188.sql,1,s1_category_class,2002,Electronics,audio,Home,decor,Men,sports-apparel,Sports,pools,Books,computers,Electronics,scanners,3585
+s1_category_class_00189.sql,1,s1_category_class,2002,Home,decor,Sports,golf,Electronics,karoke,Home,curtains/drapes,Home,lighting,Jewelry,estate,3831
+s1_category_class_00190.sql,1,s1_category_class,2002,Jewelry,estate,Electronics,audio,Jewelry,pendants,Sports,baseball,Jewelry,womens watch,Sports,fishing,3674
+s1_category_class_00191.sql,1,s1_category_class,2002,Jewelry,bracelets,Sports,pools,Sports,golf,Books,fiction,Men,sports-apparel,Home,bedding,2862
+s1_category_class_00192.sql,1,s1_category_class,2002,Sports,fitness,Electronics,audio,Books,computers,Jewelry,womens watch,Jewelry,rings,Electronics,dvd/vcr players,3927
+s1_category_class_00193.sql,1,s1_category_class,2002,Books,parenting,Jewelry,estate,Home,decor,Electronics,wireless,Women,fragrances,Books,arts,2879
+s1_category_class_00194.sql,1,s1_category_class,2002,Electronics,audio,Jewelry,estate,Jewelry,womens watch,Women,fragrances,Sports,fishing,Home,decor,3313
+s1_category_class_00195.sql,1,s1_category_class,2002,Women,fragrances,Sports,camping,Books,business,Jewelry,costume,Electronics,memory,Sports,guns,3011
+s1_category_class_00196.sql,1,s1_category_class,2002,Jewelry,pendants,Electronics,scanners,Books,fiction,Jewelry,womens watch,Home,tables,Home,bedding,3484
+s1_category_class_00197.sql,1,s1_category_class,2002,Jewelry,mens watch,Jewelry,costume,Electronics,televisions,Sports,football,Books,business,Home,glassware,3510
+s1_category_class_00198.sql,1,s1_category_class,2002,Home,decor,Electronics,scanners,Books,fiction,Men,sports-apparel,Sports,guns,Electronics,memory,3406
+s1_category_class_00199.sql,1,s1_category_class,2002,Jewelry,womens watch,Jewelry,earings,Sports,tennis,Electronics,karoke,Books,fiction,Men,sports-apparel,3048
+s1_category_class_00200.sql,1,s1_category_class,2002,Sports,archery,Home,kids,Electronics,stereo,Sports,pools,Electronics,portable,Women,fragrances,3731
+s1_category_class_00201.sql,1,s1_category_class,2002,Sports,basketball,Sports,baseball,Jewelry,consignment,Home,bedding,Electronics,wireless,Books,fiction,3626
+s1_category_class_00202.sql,1,s1_category_class,2002,Home,lighting,Women,fragrances,Sports,baseball,Sports,basketball,Books,computers,Men,sports-apparel,2473
+s1_category_class_00203.sql,1,s1_category_class,2002,Home,glassware,Jewelry,pendants,Men,sports-apparel,Books,arts,Electronics,audio,Sports,guns,3181
+s1_category_class_00204.sql,1,s1_category_class,2002,Sports,football,Men,sports-apparel,Jewelry,gold,Electronics,portable,Home,lighting,Home,curtains/drapes,3103
+s1_category_class_00205.sql,1,s1_category_class,2002,Home,curtains/drapes,Women,fragrances,Electronics,televisions,Jewelry,loose stones,Books,science,Sports,fitness,3087
+s1_category_class_00206.sql,1,s1_category_class,2002,Electronics,stereo,Home,flatware,Women,fragrances,Jewelry,estate,Home,kids,Men,sports-apparel,2866
+s1_category_class_00207.sql,1,s1_category_class,2002,Women,fragrances,Home,kids,Home,bedding,Electronics,televisions,Books,mystery,Jewelry,womens watch,3175
+s1_category_class_00208.sql,1,s1_category_class,2002,Electronics,audio,Home,curtains/drapes,Women,fragrances,Sports,football,Sports,pools,Home,glassware,3487
+s1_category_class_00209.sql,1,s1_category_class,2002,Electronics,stereo,Sports,football,Men,sports-apparel,Electronics,portable,Home,mattresses,Books,parenting,3477
+s1_category_class_00210.sql,1,s1_category_class,2002,Jewelry,earings,Home,kids,Books,arts,Men,sports-apparel,Sports,archery,Jewelry,bracelets,2647
+s1_category_class_00211.sql,1,s1_category_class,2002,Jewelry,bracelets,Home,flatware,Sports,football,Home,mattresses,Electronics,memory,Sports,baseball,3670
+s1_category_class_00212.sql,1,s1_category_class,2002,Electronics,audio,Sports,golf,Men,sports-apparel,Jewelry,mens watch,Jewelry,costume,Books,arts,3129
+s1_category_class_00213.sql,1,s1_category_class,2002,Sports,tennis,Women,fragrances,Home,bedding,Books,computers,Jewelry,earings,Books,reference,2611
+s1_category_class_00214.sql,1,s1_category_class,2002,Sports,basketball,Jewelry,estate,Jewelry,earings,Books,reference,Women,fragrances,Home,bedding,2707
+s1_category_class_00215.sql,1,s1_category_class,2002,Women,fragrances,Books,computers,Jewelry,womens watch,Books,mystery,Electronics,televisions,Home,lighting,2952
+s1_category_class_00216.sql,1,s1_category_class,2002,Books,computers,Sports,archery,Home,lighting,Electronics,portable,Books,arts,Sports,golf,3388
+s1_category_class_00217.sql,1,s1_category_class,2002,Men,sports-apparel,Books,reference,Home,curtains/drapes,Books,arts,Books,fiction,Jewelry,mens watch,2368
+s1_category_class_00218.sql,1,s1_category_class,2002,Electronics,televisions,Home,glassware,Sports,pools,Electronics,wireless,Sports,fishing,Home,curtains/drapes,4291
+s1_category_class_00219.sql,1,s1_category_class,2002,Books,reference,Sports,fitness,Home,glassware,Books,arts,Men,sports-apparel,Electronics,televisions,3085
+s1_category_class_00220.sql,1,s1_category_class,2002,Sports,basketball,Home,curtains/drapes,Jewelry,loose stones,Jewelry,costume,Electronics,memory,Books,fiction,3434
+s1_category_class_00221.sql,1,s1_category_class,2002,Women,fragrances,Home,decor,Books,reference,Jewelry,gold,Jewelry,earings,Jewelry,costume,2554
+s1_category_class_00222.sql,1,s1_category_class,2002,Home,flatware,Electronics,memory,Women,fragrances,Books,parenting,Jewelry,gold,Jewelry,mens watch,2876
+s1_category_class_00223.sql,1,s1_category_class,2002,Home,curtains/drapes,Jewelry,gold,Books,business,Home,lighting,Sports,golf,Electronics,wireless,3519
+s1_category_class_00224.sql,1,s1_category_class,2002,Sports,fishing,Books,science,Books,fiction,Electronics,karoke,Sports,guns,Sports,basketball,3489
+s1_category_class_00225.sql,1,s1_category_class,2002,Sports,fitness,Sports,baseball,Books,reference,Sports,camping,Men,sports-apparel,Books,computers,2660
+s1_category_class_00226.sql,1,s1_category_class,2002,Home,lighting,Sports,camping,Home,flatware,Home,tables,Men,sports-apparel,Books,science,2814
+s1_category_class_00227.sql,1,s1_category_class,2002,Home,bedding,Books,computers,Electronics,stereo,Electronics,televisions,Electronics,scanners,Jewelry,rings,4306
+s1_category_class_00228.sql,1,s1_category_class,2002,Home,mattresses,Home,glassware,Sports,golf,Electronics,memory,Home,bedding,Home,tables,3973
+s1_category_class_00229.sql,1,s1_category_class,2002,Sports,pools,Men,sports-apparel,Jewelry,bracelets,Home,mattresses,Women,fragrances,Electronics,memory,2868
+s1_category_class_00230.sql,1,s1_category_class,2002,Jewelry,mens watch,Sports,camping,Sports,guns,Sports,baseball,Books,parenting,Electronics,dvd/vcr players,3550
+s1_category_class_00231.sql,1,s1_category_class,2002,Sports,golf,Home,glassware,Electronics,memory,Electronics,audio,Electronics,dvd/vcr players,Sports,camping,4702
+s1_category_class_00232.sql,1,s1_category_class,2002,Sports,pools,Home,tables,Men,sports-apparel,Home,curtains/drapes,Books,fiction,Electronics,stereo,3315
+s1_category_class_00233.sql,1,s1_category_class,2002,Jewelry,rings,Jewelry,estate,Jewelry,costume,Jewelry,gold,Electronics,portable,Jewelry,loose stones,3145
+s1_category_class_00234.sql,1,s1_category_class,2002,Sports,tennis,Electronics,scanners,Books,mystery,Sports,archery,Sports,baseball,Men,sports-apparel,3185
+s1_category_class_00235.sql,1,s1_category_class,2002,Women,fragrances,Electronics,memory,Jewelry,costume,Electronics,karoke,Jewelry,womens watch,Jewelry,bracelets,3509
+s1_category_class_00236.sql,1,s1_category_class,2002,Home,kids,Men,sports-apparel,Books,reference,Sports,archery,Books,business,Jewelry,loose stones,2510
+s1_category_class_00237.sql,1,s1_category_class,2002,Electronics,portable,Electronics,scanners,Sports,pools,Electronics,audio,Home,tables,Sports,tennis,4498
+s1_category_class_00238.sql,1,s1_category_class,2002,Books,arts,Sports,golf,Jewelry,bracelets,Electronics,stereo,Home,glassware,Books,computers,3537
+s1_category_class_00239.sql,1,s1_category_class,2002,Women,fragrances,Books,arts,Electronics,audio,Home,kids,Sports,fishing,Books,computers,3079
+s1_category_class_00240.sql,1,s1_category_class,2002,Home,glassware,Sports,guns,Home,tables,Books,mystery,Men,sports-apparel,Sports,fishing,2888
+s1_category_class_00241.sql,1,s1_category_class,2002,Sports,guns,Books,reference,Home,tables,Sports,football,Home,curtains/drapes,Sports,baseball,3253
+s1_category_class_00242.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Jewelry,mens watch,Books,fiction,Home,kids,Books,computers,Women,fragrances,2973
+s1_category_class_00243.sql,1,s1_category_class,2002,Jewelry,womens watch,Jewelry,loose stones,Women,fragrances,Books,computers,Sports,basketball,Sports,guns,2616
+s1_category_class_00244.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,audio,Sports,camping,Books,fiction,Home,glassware,Books,computers,3103
+s1_category_class_00245.sql,1,s1_category_class,2002,Electronics,karoke,Electronics,memory,Books,business,Jewelry,gold,Jewelry,consignment,Jewelry,earings,3616
+s1_category_class_00246.sql,1,s1_category_class,2002,Electronics,karoke,Electronics,audio,Jewelry,estate,Electronics,dvd/vcr players,Sports,fitness,Jewelry,rings,4467
+s1_category_class_00247.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,memory,Books,computers,Home,glassware,Sports,baseball,Electronics,stereo,3647
+s1_category_class_00248.sql,1,s1_category_class,2002,Sports,archery,Books,mystery,Sports,guns,Home,tables,Electronics,dvd/vcr players,Men,sports-apparel,3243
+s1_category_class_00249.sql,1,s1_category_class,2002,Books,arts,Electronics,audio,Books,reference,Home,kids,Women,fragrances,Books,computers,2873
+s1_category_class_00250.sql,1,s1_category_class,2002,Jewelry,gold,Jewelry,mens watch,Books,computers,Books,mystery,Books,business,Books,reference,2470
+s1_category_class_00251.sql,1,s1_category_class,2002,Women,fragrances,Electronics,portable,Sports,pools,Home,lighting,Jewelry,rings,Men,sports-apparel,2742
+s1_category_class_00252.sql,1,s1_category_class,2002,Jewelry,mens watch,Books,arts,Sports,fitness,Home,curtains/drapes,Electronics,portable,Electronics,televisions,3818
+s1_category_class_00253.sql,1,s1_category_class,2002,Sports,camping,Books,parenting,Electronics,stereo,Men,sports-apparel,Electronics,dvd/vcr players,Electronics,televisions,4044
+s1_category_class_00254.sql,1,s1_category_class,2002,Sports,basketball,Home,decor,Electronics,audio,Sports,archery,Books,mystery,Electronics,dvd/vcr players,4204
+s1_category_class_00255.sql,1,s1_category_class,2002,Sports,fitness,Sports,fishing,Sports,basketball,Home,glassware,Sports,archery,Books,science,3425
+s1_category_class_00256.sql,1,s1_category_class,2002,Sports,fitness,Books,mystery,Jewelry,earings,Sports,golf,Jewelry,gold,Electronics,memory,3364
+s1_category_class_00257.sql,1,s1_category_class,2002,Jewelry,earings,Men,sports-apparel,Electronics,karoke,Electronics,portable,Electronics,stereo,Sports,archery,3972
+s1_category_class_00258.sql,1,s1_category_class,2002,Books,fiction,Jewelry,earings,Electronics,scanners,Electronics,stereo,Jewelry,mens watch,Jewelry,pendants,3703
+s1_category_class_00259.sql,1,s1_category_class,2002,Sports,tennis,Electronics,wireless,Books,parenting,Women,fragrances,Books,reference,Home,mattresses,3038
+s1_category_class_00260.sql,1,s1_category_class,2002,Jewelry,womens watch,Jewelry,costume,Women,fragrances,Sports,golf,Electronics,portable,Home,curtains/drapes,3193
+s1_category_class_00261.sql,1,s1_category_class,2002,Books,arts,Women,fragrances,Sports,camping,Electronics,dvd/vcr players,Electronics,portable,Electronics,scanners,3766
+s1_category_class_00262.sql,1,s1_category_class,2002,Books,reference,Electronics,televisions,Jewelry,mens watch,Electronics,dvd/vcr players,Women,fragrances,Sports,football,3517
+s1_category_class_00263.sql,1,s1_category_class,2002,Home,mattresses,Jewelry,gold,Sports,camping,Electronics,televisions,Electronics,memory,Sports,baseball,4056
+s1_category_class_00264.sql,1,s1_category_class,2002,Jewelry,gold,Books,computers,Electronics,scanners,Sports,guns,Sports,golf,Jewelry,womens watch,3346
+s1_category_class_00265.sql,1,s1_category_class,2002,Men,sports-apparel,Sports,football,Home,flatware,Jewelry,estate,Jewelry,pendants,Home,glassware,2828
+s1_category_class_00266.sql,1,s1_category_class,2002,Books,computers,Men,sports-apparel,Women,fragrances,Jewelry,loose stones,Home,tables,Home,kids,2280
+s1_category_class_00267.sql,1,s1_category_class,2002,Home,decor,Jewelry,mens watch,Home,lighting,Electronics,scanners,Jewelry,gold,Sports,basketball,3607
+s1_category_class_00268.sql,1,s1_category_class,2002,Home,mattresses,Sports,baseball,Sports,golf,Electronics,memory,Home,glassware,Sports,archery,3941
+s1_category_class_00269.sql,1,s1_category_class,2002,Home,tables,Home,bedding,Electronics,dvd/vcr players,Home,kids,Jewelry,pendants,Sports,fishing,3912
+s1_category_class_00270.sql,1,s1_category_class,2002,Books,business,Men,sports-apparel,Jewelry,rings,Sports,pools,Books,reference,Jewelry,consignment,2468
+s1_category_class_00271.sql,1,s1_category_class,2002,Books,mystery,Electronics,stereo,Jewelry,womens watch,Jewelry,bracelets,Home,lighting,Sports,tennis,3581
+s1_category_class_00272.sql,1,s1_category_class,2002,Home,lighting,Men,sports-apparel,Jewelry,consignment,Sports,fishing,Women,fragrances,Jewelry,costume,2464
+s1_category_class_00273.sql,1,s1_category_class,2002,Electronics,karoke,Men,sports-apparel,Books,reference,Home,curtains/drapes,Sports,camping,Books,business,3026
+s1_category_class_00274.sql,1,s1_category_class,2002,Jewelry,bracelets,Jewelry,rings,Electronics,memory,Jewelry,costume,Home,lighting,Jewelry,estate,3426
+s1_category_class_00275.sql,1,s1_category_class,2002,Jewelry,costume,Electronics,televisions,Sports,tennis,Sports,camping,Women,fragrances,Sports,basketball,3428
+s1_category_class_00276.sql,1,s1_category_class,2002,Electronics,memory,Books,mystery,Jewelry,costume,Books,science,Sports,baseball,Home,bedding,3376
+s1_category_class_00277.sql,1,s1_category_class,2002,Books,reference,Men,sports-apparel,Women,fragrances,Home,curtains/drapes,Jewelry,rings,Sports,fitness,2311
+s1_category_class_00278.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,womens watch,Home,bedding,Books,arts,Home,glassware,Home,lighting,2844
+s1_category_class_00279.sql,1,s1_category_class,2002,Jewelry,pendants,Jewelry,gold,Electronics,karoke,Jewelry,rings,Books,reference,Home,flatware,3322
+s1_category_class_00280.sql,1,s1_category_class,2002,Jewelry,costume,Jewelry,rings,Books,business,Jewelry,loose stones,Books,reference,Electronics,stereo,3188
+s1_category_class_00281.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Home,tables,Home,decor,Jewelry,loose stones,Electronics,televisions,Electronics,wireless,4512
+s1_category_class_00282.sql,1,s1_category_class,2002,Books,business,Jewelry,estate,Books,computers,Electronics,televisions,Home,kids,Sports,pools,3372
+s1_category_class_00283.sql,1,s1_category_class,2002,Home,curtains/drapes,Jewelry,earings,Home,flatware,Sports,archery,Home,tables,Sports,pools,3385
+s1_category_class_00284.sql,1,s1_category_class,2002,Jewelry,bracelets,Sports,basketball,Jewelry,gold,Electronics,karoke,Sports,camping,Sports,pools,3698
+s1_category_class_00285.sql,1,s1_category_class,2002,Jewelry,pendants,Men,sports-apparel,Home,glassware,Books,business,Sports,baseball,Books,reference,2656
+s1_category_class_00286.sql,1,s1_category_class,2002,Jewelry,rings,Jewelry,bracelets,Women,fragrances,Sports,pools,Home,glassware,Electronics,wireless,3253
+s1_category_class_00287.sql,1,s1_category_class,2002,Home,tables,Women,fragrances,Home,decor,Books,business,Books,computers,Jewelry,gold,2568
+s1_category_class_00288.sql,1,s1_category_class,2002,Home,curtains/drapes,Women,fragrances,Sports,guns,Home,flatware,Books,reference,Books,mystery,2576
+s1_category_class_00289.sql,1,s1_category_class,2002,Jewelry,bracelets,Home,bedding,Books,computers,Electronics,wireless,Sports,fitness,Sports,tennis,3610
+s1_category_class_00290.sql,1,s1_category_class,2002,Books,science,Jewelry,costume,Electronics,stereo,Electronics,memory,Sports,golf,Books,reference,3808
+s1_category_class_00291.sql,1,s1_category_class,2002,Women,fragrances,Sports,golf,Home,mattresses,Home,curtains/drapes,Jewelry,gold,Electronics,wireless,3305
+s1_category_class_00292.sql,1,s1_category_class,2002,Jewelry,mens watch,Sports,guns,Home,mattresses,Men,sports-apparel,Electronics,memory,Sports,tennis,3251
+s1_category_class_00293.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Women,fragrances,Books,reference,Sports,baseball,Electronics,karoke,Home,glassware,3726
+s1_category_class_00294.sql,1,s1_category_class,2002,Books,parenting,Jewelry,estate,Books,computers,Women,fragrances,Books,science,Men,sports-apparel,1901
+s1_category_class_00295.sql,1,s1_category_class,2002,Jewelry,rings,Sports,football,Home,flatware,Jewelry,bracelets,Men,sports-apparel,Home,kids,2766
+s1_category_class_00296.sql,1,s1_category_class,2002,Sports,tennis,Electronics,karoke,Jewelry,womens watch,Home,bedding,Sports,camping,Women,fragrances,3393
+s1_category_class_00297.sql,1,s1_category_class,2002,Sports,fitness,Books,business,Electronics,memory,Sports,basketball,Sports,pools,Sports,football,3600
+s1_category_class_00298.sql,1,s1_category_class,2002,Sports,fitness,Books,fiction,Home,glassware,Books,reference,Sports,baseball,Books,arts,2965
+s1_category_class_00299.sql,1,s1_category_class,2002,Sports,fitness,Books,reference,Books,business,Books,fiction,Electronics,dvd/vcr players,Home,lighting,3311
+s1_category_class_00300.sql,1,s1_category_class,2002,Jewelry,estate,Electronics,dvd/vcr players,Jewelry,consignment,Jewelry,earings,Home,bedding,Men,sports-apparel,3166
+s1_category_class_00301.sql,1,s1_category_class,2002,Sports,fishing,Jewelry,pendants,Women,fragrances,Electronics,memory,Jewelry,rings,Electronics,stereo,3615
+s1_category_class_00302.sql,1,s1_category_class,2002,Jewelry,pendants,Home,kids,Sports,basketball,Sports,baseball,Books,science,Electronics,wireless,3607
+s1_category_class_00303.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,scanners,Jewelry,costume,Home,bedding,Jewelry,consignment,Women,fragrances,2763
+s1_category_class_00304.sql,1,s1_category_class,2002,Electronics,stereo,Men,sports-apparel,Home,curtains/drapes,Electronics,karoke,Sports,basketball,Home,tables,3929
+s1_category_class_00305.sql,1,s1_category_class,2002,Women,fragrances,Sports,tennis,Books,fiction,Jewelry,gold,Men,sports-apparel,Jewelry,pendants,2229
+s1_category_class_00306.sql,1,s1_category_class,2002,Sports,baseball,Electronics,audio,Sports,guns,Books,fiction,Electronics,televisions,Home,decor,4075
+s1_category_class_00307.sql,1,s1_category_class,2002,Women,fragrances,Sports,basketball,Sports,golf,Electronics,karoke,Men,sports-apparel,Jewelry,mens watch,2978
+s1_category_class_00308.sql,1,s1_category_class,2002,Books,arts,Women,fragrances,Sports,tennis,Jewelry,rings,Electronics,stereo,Sports,archery,3198
+s1_category_class_00309.sql,1,s1_category_class,2002,Home,lighting,Jewelry,estate,Jewelry,earings,Women,fragrances,Home,curtains/drapes,Jewelry,bracelets,2743
+s1_category_class_00310.sql,1,s1_category_class,2002,Home,bedding,Jewelry,pendants,Jewelry,earings,Women,fragrances,Sports,baseball,Home,kids,2897
+s1_category_class_00311.sql,1,s1_category_class,2002,Jewelry,pendants,Electronics,memory,Jewelry,earings,Men,sports-apparel,Women,fragrances,Books,arts,2508
+s1_category_class_00312.sql,1,s1_category_class,2002,Home,tables,Jewelry,costume,Men,sports-apparel,Electronics,karoke,Jewelry,estate,Sports,football,3220
+s1_category_class_00313.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Jewelry,costume,Books,business,Sports,baseball,Home,tables,Electronics,audio,4089
+s1_category_class_00314.sql,1,s1_category_class,2002,Electronics,televisions,Jewelry,earings,Home,glassware,Electronics,stereo,Women,fragrances,Electronics,audio,4192
+s1_category_class_00315.sql,1,s1_category_class,2002,Books,computers,Sports,fishing,Home,glassware,Home,tables,Sports,golf,Electronics,audio,3855
+s1_category_class_00316.sql,1,s1_category_class,2002,Home,mattresses,Electronics,memory,Sports,golf,Books,business,Jewelry,womens watch,Books,computers,3382
+s1_category_class_00317.sql,1,s1_category_class,2002,Home,flatware,Jewelry,pendants,Women,fragrances,Jewelry,costume,Men,sports-apparel,Electronics,dvd/vcr players,2842
+s1_category_class_00318.sql,1,s1_category_class,2002,Sports,camping,Men,sports-apparel,Sports,guns,Books,arts,Sports,tennis,Home,mattresses,2819
+s1_category_class_00319.sql,1,s1_category_class,2002,Home,mattresses,Jewelry,loose stones,Jewelry,pendants,Home,bedding,Sports,basketball,Electronics,televisions,3754
+s1_category_class_00320.sql,1,s1_category_class,2002,Home,glassware,Sports,tennis,Women,fragrances,Jewelry,estate,Home,tables,Books,computers,2858
+s1_category_class_00321.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Home,tables,Women,fragrances,Books,computers,Books,fiction,Jewelry,costume,3034
+s1_category_class_00322.sql,1,s1_category_class,2002,Jewelry,pendants,Men,sports-apparel,Women,fragrances,Books,computers,Jewelry,rings,Jewelry,loose stones,2078
+s1_category_class_00323.sql,1,s1_category_class,2002,Jewelry,estate,Jewelry,costume,Electronics,televisions,Sports,pools,Jewelry,mens watch,Jewelry,rings,3495
+s1_category_class_00324.sql,1,s1_category_class,2002,Home,kids,Home,flatware,Home,curtains/drapes,Jewelry,rings,Sports,guns,Sports,pools,3299
+s1_category_class_00325.sql,1,s1_category_class,2002,Jewelry,estate,Men,sports-apparel,Jewelry,loose stones,Jewelry,mens watch,Electronics,wireless,Women,fragrances,2564
+s1_category_class_00326.sql,1,s1_category_class,2002,Jewelry,mens watch,Sports,archery,Sports,tennis,Books,business,Men,sports-apparel,Home,tables,2818
+s1_category_class_00327.sql,1,s1_category_class,2002,Electronics,karoke,Women,fragrances,Sports,baseball,Home,tables,Electronics,audio,Home,flatware,3843
+s1_category_class_00328.sql,1,s1_category_class,2002,Home,tables,Home,flatware,Home,curtains/drapes,Jewelry,pendants,Jewelry,costume,Electronics,karoke,3728
+s1_category_class_00329.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Jewelry,costume,Home,bedding,Sports,golf,Jewelry,womens watch,Electronics,karoke,4209
+s1_category_class_00330.sql,1,s1_category_class,2002,Books,parenting,Electronics,dvd/vcr players,Sports,football,Jewelry,mens watch,Home,kids,Men,sports-apparel,3107
+s1_category_class_00331.sql,1,s1_category_class,2002,Electronics,televisions,Home,glassware,Books,parenting,Home,decor,Home,tables,Jewelry,estate,3666
+s1_category_class_00332.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,womens watch,Sports,fitness,Women,fragrances,Home,decor,Sports,guns,2488
+s1_category_class_00333.sql,1,s1_category_class,2002,Women,fragrances,Sports,basketball,Electronics,dvd/vcr players,Electronics,wireless,Men,sports-apparel,Books,arts,3186
+s1_category_class_00334.sql,1,s1_category_class,2002,Home,flatware,Home,glassware,Sports,pools,Home,decor,Home,mattresses,Home,curtains/drapes,3571
+s1_category_class_00335.sql,1,s1_category_class,2002,Home,bedding,Men,sports-apparel,Jewelry,loose stones,Sports,baseball,Electronics,portable,Electronics,memory,3487
+s1_category_class_00336.sql,1,s1_category_class,2002,Jewelry,estate,Men,sports-apparel,Books,arts,Sports,pools,Electronics,audio,Jewelry,costume,3081
+s1_category_class_00337.sql,1,s1_category_class,2002,Electronics,karoke,Home,glassware,Home,flatware,Electronics,dvd/vcr players,Home,mattresses,Women,fragrances,3877
+s1_category_class_00338.sql,1,s1_category_class,2002,Women,fragrances,Electronics,wireless,Jewelry,pendants,Men,sports-apparel,Books,science,Jewelry,mens watch,2565
+s1_category_class_00339.sql,1,s1_category_class,2002,Electronics,portable,Men,sports-apparel,Sports,pools,Books,fiction,Electronics,televisions,Electronics,stereo,3904
+s1_category_class_00340.sql,1,s1_category_class,2002,Women,fragrances,Books,fiction,Electronics,dvd/vcr players,Electronics,audio,Books,computers,Home,tables,3515
+s1_category_class_00341.sql,1,s1_category_class,2002,Home,lighting,Electronics,audio,Sports,golf,Electronics,televisions,Jewelry,mens watch,Books,fiction,4031
+s1_category_class_00342.sql,1,s1_category_class,2002,Home,decor,Sports,football,Sports,basketball,Books,mystery,Sports,archery,Women,fragrances,2887
+s1_category_class_00343.sql,1,s1_category_class,2002,Home,curtains/drapes,Jewelry,consignment,Jewelry,earings,Sports,baseball,Men,sports-apparel,Jewelry,womens watch,2772
+s1_category_class_00344.sql,1,s1_category_class,2002,Men,sports-apparel,Sports,camping,Sports,basketball,Sports,fitness,Electronics,portable,Home,lighting,3310
+s1_category_class_00345.sql,1,s1_category_class,2002,Sports,tennis,Jewelry,rings,Home,kids,Electronics,portable,Women,fragrances,Jewelry,bracelets,3134
+s1_category_class_00346.sql,1,s1_category_class,2002,Books,reference,Books,business,Jewelry,gold,Electronics,karoke,Home,glassware,Jewelry,pendants,3324
+s1_category_class_00347.sql,1,s1_category_class,2002,Jewelry,consignment,Books,computers,Men,sports-apparel,Electronics,scanners,Jewelry,rings,Jewelry,pendants,2867
+s1_category_class_00348.sql,1,s1_category_class,2002,Sports,football,Home,mattresses,Sports,tennis,Sports,pools,Electronics,stereo,Women,fragrances,3485
+s1_category_class_00349.sql,1,s1_category_class,2002,Sports,fitness,Women,fragrances,Books,arts,Jewelry,rings,Jewelry,costume,Sports,baseball,2674
+s1_category_class_00350.sql,1,s1_category_class,2002,Jewelry,pendants,Sports,basketball,Home,curtains/drapes,Home,decor,Home,flatware,Jewelry,loose stones,3313
+s1_category_class_00351.sql,1,s1_category_class,2002,Men,sports-apparel,Books,fiction,Home,glassware,Sports,golf,Electronics,stereo,Sports,archery,3377
+s1_category_class_00352.sql,1,s1_category_class,2002,Jewelry,costume,Books,mystery,Women,fragrances,Electronics,audio,Men,sports-apparel,Sports,golf,2788
+s1_category_class_00353.sql,1,s1_category_class,2002,Jewelry,earings,Books,computers,Jewelry,womens watch,Jewelry,costume,Home,decor,Books,fiction,2849
+s1_category_class_00354.sql,1,s1_category_class,2002,Books,parenting,Men,sports-apparel,Home,curtains/drapes,Jewelry,consignment,Electronics,portable,Books,fiction,2809
+s1_category_class_00355.sql,1,s1_category_class,2002,Jewelry,womens watch,Women,fragrances,Home,glassware,Sports,fitness,Electronics,stereo,Jewelry,rings,3324
+s1_category_class_00356.sql,1,s1_category_class,2002,Women,fragrances,Books,business,Home,kids,Men,sports-apparel,Electronics,scanners,Jewelry,pendants,2609
+s1_category_class_00357.sql,1,s1_category_class,2002,Jewelry,bracelets,Home,curtains/drapes,Sports,archery,Jewelry,costume,Jewelry,loose stones,Men,sports-apparel,2772
+s1_category_class_00358.sql,1,s1_category_class,2002,Books,parenting,Women,fragrances,Electronics,memory,Electronics,scanners,Electronics,wireless,Sports,fishing,3779
+s1_category_class_00359.sql,1,s1_category_class,2002,Home,tables,Electronics,karoke,Books,fiction,Sports,basketball,Sports,baseball,Jewelry,pendants,3694
+s1_category_class_00360.sql,1,s1_category_class,2002,Sports,pools,Electronics,dvd/vcr players,Books,fiction,Home,bedding,Electronics,portable,Sports,tennis,4027
+s1_category_class_00361.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,consignment,Home,kids,Electronics,dvd/vcr players,Home,bedding,Women,fragrances,2959
+s1_category_class_00362.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,rings,Jewelry,earings,Sports,camping,Home,decor,Jewelry,mens watch,2723
+s1_category_class_00363.sql,1,s1_category_class,2002,Sports,golf,Women,fragrances,Home,decor,Jewelry,loose stones,Electronics,dvd/vcr players,Home,glassware,3434
+s1_category_class_00364.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,bracelets,Home,decor,Sports,archery,Sports,camping,Home,flatware,2954
+s1_category_class_00365.sql,1,s1_category_class,2002,Sports,guns,Electronics,dvd/vcr players,Jewelry,bracelets,Electronics,stereo,Jewelry,pendants,Jewelry,estate,4017
+s1_category_class_00366.sql,1,s1_category_class,2002,Sports,fishing,Sports,football,Electronics,karoke,Electronics,televisions,Jewelry,costume,Men,sports-apparel,3709
+s1_category_class_00367.sql,1,s1_category_class,2002,Books,reference,Electronics,televisions,Women,fragrances,Jewelry,estate,Men,sports-apparel,Books,computers,2497
+s1_category_class_00368.sql,1,s1_category_class,2002,Jewelry,rings,Men,sports-apparel,Home,flatware,Sports,fitness,Women,fragrances,Jewelry,consignment,2360
+s1_category_class_00369.sql,1,s1_category_class,2002,Home,lighting,Jewelry,rings,Books,parenting,Home,mattresses,Home,decor,Sports,pools,3231
+s1_category_class_00370.sql,1,s1_category_class,2002,Jewelry,consignment,Books,science,Home,decor,Electronics,wireless,Home,curtains/drapes,Jewelry,rings,3453
+s1_category_class_00371.sql,1,s1_category_class,2002,Jewelry,loose stones,Home,bedding,Books,computers,Electronics,televisions,Electronics,memory,Jewelry,womens watch,3784
+s1_category_class_00372.sql,1,s1_category_class,2002,Women,fragrances,Electronics,audio,Home,decor,Electronics,wireless,Home,mattresses,Sports,fishing,3852
+s1_category_class_00373.sql,1,s1_category_class,2002,Sports,archery,Home,lighting,Electronics,televisions,Sports,tennis,Men,sports-apparel,Home,tables,3497
+s1_category_class_00374.sql,1,s1_category_class,2002,Electronics,televisions,Electronics,portable,Sports,fishing,Men,sports-apparel,Home,decor,Books,reference,3531
+s1_category_class_00375.sql,1,s1_category_class,2002,Sports,fitness,Books,parenting,Home,decor,Jewelry,pendants,Sports,baseball,Electronics,portable,3499
+s1_category_class_00376.sql,1,s1_category_class,2002,Sports,fitness,Sports,basketball,Books,fiction,Women,fragrances,Home,bedding,Books,computers,2738
+s1_category_class_00377.sql,1,s1_category_class,2002,Books,fiction,Books,arts,Sports,basketball,Books,reference,Men,sports-apparel,Jewelry,pendants,2436
+s1_category_class_00378.sql,1,s1_category_class,2002,Sports,guns,Books,fiction,Jewelry,mens watch,Men,sports-apparel,Sports,tennis,Sports,football,2679
+s1_category_class_00379.sql,1,s1_category_class,2002,Electronics,audio,Women,fragrances,Jewelry,estate,Electronics,scanners,Sports,basketball,Jewelry,bracelets,3608
+s1_category_class_00380.sql,1,s1_category_class,2002,Books,computers,Books,parenting,Jewelry,costume,Women,fragrances,Sports,fishing,Books,science,2411
+s1_category_class_00381.sql,1,s1_category_class,2002,Books,parenting,Home,tables,Women,fragrances,Books,arts,Electronics,televisions,Electronics,wireless,3376
+s1_category_class_00382.sql,1,s1_category_class,2002,Sports,baseball,Electronics,karoke,Men,sports-apparel,Books,reference,Home,kids,Home,glassware,3300
+s1_category_class_00383.sql,1,s1_category_class,2002,Books,reference,Jewelry,bracelets,Home,bedding,Jewelry,womens watch,Books,fiction,Electronics,wireless,3308
+s1_category_class_00384.sql,1,s1_category_class,2002,Books,mystery,Home,bedding,Home,flatware,Books,parenting,Home,lighting,Home,decor,3102
+s1_category_class_00385.sql,1,s1_category_class,2002,Jewelry,gold,Jewelry,consignment,Women,fragrances,Books,science,Home,decor,Jewelry,mens watch,2554
+s1_category_class_00386.sql,1,s1_category_class,2002,Books,fiction,Women,fragrances,Sports,basketball,Home,curtains/drapes,Jewelry,pendants,Electronics,stereo,3262
+s1_category_class_00387.sql,1,s1_category_class,2002,Electronics,televisions,Books,fiction,Sports,football,Home,glassware,Sports,pools,Electronics,stereo,4112
+s1_category_class_00388.sql,1,s1_category_class,2002,Jewelry,bracelets,Jewelry,costume,Jewelry,gold,Books,science,Electronics,stereo,Jewelry,consignment,3344
+s1_category_class_00389.sql,1,s1_category_class,2002,Women,fragrances,Home,tables,Sports,baseball,Home,lighting,Sports,fishing,Jewelry,mens watch,3012
+s1_category_class_00390.sql,1,s1_category_class,2002,Sports,basketball,Sports,tennis,Electronics,audio,Women,fragrances,Men,sports-apparel,Electronics,wireless,3421
+s1_category_class_00391.sql,1,s1_category_class,2002,Jewelry,loose stones,Women,fragrances,Jewelry,bracelets,Sports,camping,Books,parenting,Home,lighting,2600
+s1_category_class_00392.sql,1,s1_category_class,2002,Jewelry,consignment,Books,business,Men,sports-apparel,Jewelry,estate,Women,fragrances,Home,kids,2195
+s1_category_class_00393.sql,1,s1_category_class,2002,Men,sports-apparel,Books,computers,Women,fragrances,Home,curtains/drapes,Jewelry,pendants,Home,bedding,2386
+s1_category_class_00394.sql,1,s1_category_class,2002,Sports,baseball,Electronics,audio,Jewelry,rings,Home,flatware,Electronics,wireless,Men,sports-apparel,3644
+s1_category_class_00395.sql,1,s1_category_class,2002,Electronics,stereo,Books,mystery,Men,sports-apparel,Electronics,karoke,Books,arts,Books,science,3238
+s1_category_class_00396.sql,1,s1_category_class,2002,Electronics,karoke,Electronics,wireless,Sports,baseball,Jewelry,rings,Women,fragrances,Home,bedding,3688
+s1_category_class_00397.sql,1,s1_category_class,2002,Sports,tennis,Books,reference,Electronics,wireless,Sports,golf,Electronics,scanners,Books,parenting,3784
+s1_category_class_00398.sql,1,s1_category_class,2002,Jewelry,costume,Jewelry,mens watch,Home,tables,Books,computers,Books,business,Books,parenting,2756
+s1_category_class_00399.sql,1,s1_category_class,2002,Home,flatware,Electronics,portable,Books,science,Books,reference,Jewelry,estate,Jewelry,womens watch,3115
+s1_category_class_00400.sql,1,s1_category_class,2002,Electronics,karoke,Jewelry,bracelets,Jewelry,pendants,Electronics,stereo,Electronics,dvd/vcr players,Men,sports-apparel,4117
+s1_category_class_00401.sql,1,s1_category_class,2002,Jewelry,costume,Electronics,scanners,Home,lighting,Sports,basketball,Home,curtains/drapes,Sports,baseball,3774
+s1_category_class_00402.sql,1,s1_category_class,2002,Books,computers,Books,parenting,Home,mattresses,Jewelry,rings,Jewelry,womens watch,Electronics,portable,3165
+s1_category_class_00403.sql,1,s1_category_class,2002,Electronics,stereo,Electronics,scanners,Sports,fitness,Sports,archery,Electronics,wireless,Home,kids,4519
+s1_category_class_00404.sql,1,s1_category_class,2002,Jewelry,loose stones,Electronics,karoke,Sports,guns,Sports,camping,Sports,baseball,Jewelry,estate,3545
+s1_category_class_00405.sql,1,s1_category_class,2002,Electronics,audio,Jewelry,womens watch,Men,sports-apparel,Books,reference,Home,kids,Sports,baseball,3198
+s1_category_class_00406.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Jewelry,costume,Sports,guns,Home,flatware,Women,fragrances,Jewelry,womens watch,3219
+s1_category_class_00407.sql,1,s1_category_class,2002,Electronics,memory,Sports,tennis,Sports,baseball,Electronics,audio,Home,decor,Sports,basketball,4331
+s1_category_class_00408.sql,1,s1_category_class,2002,Electronics,memory,Books,parenting,Sports,camping,Jewelry,pendants,Sports,archery,Books,business,3318
+s1_category_class_00409.sql,1,s1_category_class,2002,Home,bedding,Home,decor,Electronics,stereo,Sports,camping,Electronics,dvd/vcr players,Sports,fishing,4388
+s1_category_class_00410.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Sports,basketball,Books,arts,Books,fiction,Electronics,portable,Jewelry,earings,3667
+s1_category_class_00411.sql,1,s1_category_class,2002,Electronics,portable,Home,bedding,Books,parenting,Women,fragrances,Electronics,audio,Home,mattresses,3556
+s1_category_class_00412.sql,1,s1_category_class,2002,Electronics,televisions,Electronics,audio,Sports,guns,Home,mattresses,Electronics,memory,Home,flatware,4517
+s1_category_class_00413.sql,1,s1_category_class,2002,Books,reference,Home,glassware,Jewelry,gold,Sports,football,Electronics,dvd/vcr players,Men,sports-apparel,3138
+s1_category_class_00414.sql,1,s1_category_class,2002,Books,business,Books,reference,Jewelry,costume,Jewelry,loose stones,Women,fragrances,Jewelry,bracelets,2366
+s1_category_class_00415.sql,1,s1_category_class,2002,Sports,basketball,Sports,guns,Sports,golf,Electronics,karoke,Home,glassware,Sports,camping,3942
+s1_category_class_00416.sql,1,s1_category_class,2002,Jewelry,mens watch,Men,sports-apparel,Electronics,audio,Home,flatware,Women,fragrances,Electronics,stereo,3300
+s1_category_class_00417.sql,1,s1_category_class,2002,Jewelry,bracelets,Jewelry,pendants,Home,tables,Sports,baseball,Home,glassware,Electronics,televisions,3828
+s1_category_class_00418.sql,1,s1_category_class,2002,Home,mattresses,Jewelry,womens watch,Men,sports-apparel,Home,kids,Home,glassware,Jewelry,rings,2918
+s1_category_class_00419.sql,1,s1_category_class,2002,Sports,golf,Jewelry,mens watch,Books,computers,Home,glassware,Jewelry,costume,Women,fragrances,2789
+s1_category_class_00420.sql,1,s1_category_class,2002,Books,reference,Sports,fitness,Home,kids,Men,sports-apparel,Electronics,scanners,Sports,archery,3144
+s1_category_class_00421.sql,1,s1_category_class,2002,Electronics,portable,Jewelry,consignment,Sports,fishing,Electronics,televisions,Electronics,wireless,Books,mystery,4169
+s1_category_class_00422.sql,1,s1_category_class,2002,Men,sports-apparel,Sports,pools,Women,fragrances,Books,arts,Home,curtains/drapes,Sports,fishing,2439
+s1_category_class_00423.sql,1,s1_category_class,2002,Home,kids,Jewelry,loose stones,Home,bedding,Sports,archery,Electronics,scanners,Women,fragrances,3219
+s1_category_class_00424.sql,1,s1_category_class,2002,Jewelry,rings,Sports,golf,Jewelry,gold,Sports,basketball,Home,tables,Men,sports-apparel,2912
+s1_category_class_00425.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,gold,Sports,golf,Books,reference,Jewelry,consignment,Sports,fitness,2669
+s1_category_class_00426.sql,1,s1_category_class,2002,Electronics,televisions,Jewelry,estate,Books,fiction,Home,kids,Women,fragrances,Sports,camping,3099
+s1_category_class_00427.sql,1,s1_category_class,2002,Jewelry,loose stones,Home,kids,Jewelry,womens watch,Home,lighting,Sports,golf,Sports,fishing,3308
+s1_category_class_00428.sql,1,s1_category_class,2002,Jewelry,mens watch,Jewelry,loose stones,Jewelry,costume,Women,fragrances,Home,decor,Men,sports-apparel,2311
+s1_category_class_00429.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Jewelry,pendants,Sports,fitness,Home,glassware,Home,bedding,Women,fragrances,3478
+s1_category_class_00430.sql,1,s1_category_class,2002,Electronics,portable,Jewelry,consignment,Women,fragrances,Jewelry,bracelets,Electronics,stereo,Home,lighting,3548
+s1_category_class_00431.sql,1,s1_category_class,2002,Home,curtains/drapes,Jewelry,estate,Electronics,stereo,Sports,fishing,Women,fragrances,Books,science,3190
+s1_category_class_00432.sql,1,s1_category_class,2002,Jewelry,earings,Sports,camping,Sports,baseball,Books,reference,Sports,guns,Sports,fitness,3116
+s1_category_class_00433.sql,1,s1_category_class,2002,Books,reference,Sports,baseball,Books,parenting,Sports,fishing,Jewelry,gold,Home,lighting,2994
+s1_category_class_00434.sql,1,s1_category_class,2002,Home,tables,Books,fiction,Women,fragrances,Sports,archery,Home,curtains/drapes,Sports,pools,2913
+s1_category_class_00435.sql,1,s1_category_class,2002,Books,computers,Home,decor,Books,reference,Women,fragrances,Jewelry,rings,Books,fiction,2389
+s1_category_class_00436.sql,1,s1_category_class,2002,Books,fiction,Home,curtains/drapes,Sports,guns,Sports,pools,Jewelry,rings,Books,arts,2941
+s1_category_class_00437.sql,1,s1_category_class,2002,Electronics,wireless,Home,curtains/drapes,Sports,camping,Sports,baseball,Electronics,karoke,Electronics,televisions,4582
+s1_category_class_00438.sql,1,s1_category_class,2002,Sports,pools,Men,sports-apparel,Electronics,karoke,Jewelry,bracelets,Books,arts,Women,fragrances,2715
+s1_category_class_00439.sql,1,s1_category_class,2002,Home,lighting,Sports,baseball,Women,fragrances,Electronics,dvd/vcr players,Men,sports-apparel,Books,reference,2845
+s1_category_class_00440.sql,1,s1_category_class,2002,Home,tables,Electronics,audio,Electronics,televisions,Women,fragrances,Home,bedding,Men,sports-apparel,3460
+s1_category_class_00441.sql,1,s1_category_class,2002,Jewelry,bracelets,Jewelry,pendants,Books,reference,Women,fragrances,Books,arts,Home,glassware,2570
+s1_category_class_00442.sql,1,s1_category_class,2002,Men,sports-apparel,Home,bedding,Jewelry,earings,Home,lighting,Sports,tennis,Home,glassware,3033
+s1_category_class_00443.sql,1,s1_category_class,2002,Sports,football,Books,computers,Home,lighting,Electronics,karoke,Books,fiction,Jewelry,estate,3314
+s1_category_class_00444.sql,1,s1_category_class,2002,Home,bedding,Jewelry,loose stones,Books,fiction,Jewelry,gold,Sports,football,Women,fragrances,2542
+s1_category_class_00445.sql,1,s1_category_class,2002,Jewelry,estate,Jewelry,womens watch,Home,mattresses,Home,bedding,Electronics,televisions,Sports,fishing,3752
+s1_category_class_00446.sql,1,s1_category_class,2002,Sports,baseball,Home,bedding,Electronics,dvd/vcr players,Books,business,Women,fragrances,Home,mattresses,3331
+s1_category_class_00447.sql,1,s1_category_class,2002,Jewelry,loose stones,Women,fragrances,Home,bedding,Sports,fishing,Home,decor,Home,mattresses,2996
+s1_category_class_00448.sql,1,s1_category_class,2002,Home,decor,Books,fiction,Jewelry,consignment,Books,computers,Jewelry,womens watch,Home,flatware,2917
+s1_category_class_00449.sql,1,s1_category_class,2002,Electronics,wireless,Electronics,memory,Sports,pools,Men,sports-apparel,Electronics,dvd/vcr players,Women,fragrances,3659
+s1_category_class_00450.sql,1,s1_category_class,2002,Jewelry,earings,Books,reference,Sports,guns,Home,glassware,Electronics,stereo,Electronics,karoke,3975
+s1_category_class_00451.sql,1,s1_category_class,2002,Jewelry,pendants,Sports,archery,Books,science,Electronics,portable,Home,bedding,Jewelry,mens watch,3417
+s1_category_class_00452.sql,1,s1_category_class,2002,Home,bedding,Books,mystery,Sports,basketball,Jewelry,pendants,Women,fragrances,Sports,pools,2872
+s1_category_class_00453.sql,1,s1_category_class,2002,Books,mystery,Sports,archery,Sports,football,Men,sports-apparel,Home,decor,Electronics,dvd/vcr players,3248
+s1_category_class_00454.sql,1,s1_category_class,2002,Electronics,televisions,Sports,pools,Electronics,stereo,Jewelry,womens watch,Home,glassware,Electronics,memory,4581
+s1_category_class_00455.sql,1,s1_category_class,2002,Jewelry,gold,Men,sports-apparel,Jewelry,estate,Sports,basketball,Books,parenting,Electronics,wireless,2962
+s1_category_class_00456.sql,1,s1_category_class,2002,Home,mattresses,Electronics,portable,Sports,tennis,Home,tables,Men,sports-apparel,Home,lighting,3363
+s1_category_class_00457.sql,1,s1_category_class,2002,Women,fragrances,Electronics,dvd/vcr players,Jewelry,bracelets,Home,bedding,Sports,tennis,Books,parenting,3256
+s1_category_class_00458.sql,1,s1_category_class,2002,Books,parenting,Sports,pools,Jewelry,bracelets,Jewelry,womens watch,Electronics,memory,Electronics,wireless,3773
+s1_category_class_00459.sql,1,s1_category_class,2002,Books,computers,Jewelry,earings,Men,sports-apparel,Books,parenting,Home,decor,Electronics,dvd/vcr players,2966
+s1_category_class_00460.sql,1,s1_category_class,2002,Sports,camping,Men,sports-apparel,Jewelry,mens watch,Home,decor,Jewelry,rings,Jewelry,pendants,2776
+s1_category_class_00461.sql,1,s1_category_class,2002,Electronics,scanners,Jewelry,rings,Jewelry,consignment,Home,tables,Home,mattresses,Books,arts,3415
+s1_category_class_00462.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,pendants,Books,reference,Electronics,audio,Sports,camping,Electronics,memory,3490
+s1_category_class_00463.sql,1,s1_category_class,2002,Jewelry,womens watch,Sports,pools,Men,sports-apparel,Home,tables,Books,business,Sports,tennis,2830
+s1_category_class_00464.sql,1,s1_category_class,2002,Books,fiction,Sports,archery,Women,fragrances,Electronics,dvd/vcr players,Books,reference,Jewelry,earings,2968
+s1_category_class_00465.sql,1,s1_category_class,2002,Home,mattresses,Home,lighting,Women,fragrances,Home,glassware,Jewelry,gold,Books,fiction,2781
+s1_category_class_00466.sql,1,s1_category_class,2002,Jewelry,estate,Jewelry,rings,Sports,baseball,Sports,camping,Sports,football,Sports,tennis,3247
+s1_category_class_00467.sql,1,s1_category_class,2002,Books,mystery,Electronics,dvd/vcr players,Electronics,scanners,Men,sports-apparel,Jewelry,gold,Jewelry,mens watch,3302
+s1_category_class_00468.sql,1,s1_category_class,2002,Sports,tennis,Jewelry,costume,Home,lighting,Home,bedding,Books,reference,Home,tables,3325
+s1_category_class_00469.sql,1,s1_category_class,2002,Home,decor,Home,curtains/drapes,Electronics,dvd/vcr players,Electronics,scanners,Books,fiction,Sports,baseball,4041
+s1_category_class_00470.sql,1,s1_category_class,2002,Electronics,karoke,Home,glassware,Sports,fitness,Sports,baseball,Women,fragrances,Sports,football,3443
+s1_category_class_00471.sql,1,s1_category_class,2002,Sports,guns,Sports,fitness,Electronics,portable,Home,flatware,Jewelry,pendants,Sports,tennis,3597
+s1_category_class_00472.sql,1,s1_category_class,2002,Sports,tennis,Home,tables,Books,reference,Men,sports-apparel,Electronics,wireless,Jewelry,mens watch,3145
+s1_category_class_00473.sql,1,s1_category_class,2002,Jewelry,rings,Sports,pools,Books,computers,Sports,baseball,Jewelry,bracelets,Books,mystery,2938
+s1_category_class_00474.sql,1,s1_category_class,2002,Electronics,portable,Books,mystery,Books,business,Sports,football,Sports,baseball,Women,fragrances,2853
+s1_category_class_00475.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,audio,Electronics,dvd/vcr players,Home,glassware,Books,science,Books,computers,3537
+s1_category_class_00476.sql,1,s1_category_class,2002,Books,science,Jewelry,rings,Jewelry,gold,Sports,fishing,Jewelry,pendants,Home,glassware,3046
+s1_category_class_00477.sql,1,s1_category_class,2002,Books,arts,Electronics,stereo,Electronics,dvd/vcr players,Home,mattresses,Electronics,wireless,Sports,baseball,4479
+s1_category_class_00478.sql,1,s1_category_class,2002,Home,lighting,Home,bedding,Sports,fishing,Home,tables,Sports,golf,Electronics,memory,3916
+s1_category_class_00479.sql,1,s1_category_class,2002,Home,glassware,Books,computers,Electronics,televisions,Men,sports-apparel,Jewelry,consignment,Books,arts,2996
+s1_category_class_00480.sql,1,s1_category_class,2002,Home,curtains/drapes,Home,flatware,Men,sports-apparel,Women,fragrances,Sports,fitness,Jewelry,rings,2457
+s1_category_class_00481.sql,1,s1_category_class,2002,Home,kids,Women,fragrances,Jewelry,mens watch,Books,fiction,Sports,pools,Home,glassware,2814
+s1_category_class_00482.sql,1,s1_category_class,2002,Jewelry,loose stones,Women,fragrances,Books,parenting,Jewelry,gold,Sports,fitness,Home,mattresses,2569
+s1_category_class_00483.sql,1,s1_category_class,2002,Books,business,Home,glassware,Women,fragrances,Home,decor,Sports,golf,Men,sports-apparel,2524
+s1_category_class_00484.sql,1,s1_category_class,2002,Home,glassware,Jewelry,pendants,Women,fragrances,Books,mystery,Sports,pools,Jewelry,earings,2716
+s1_category_class_00485.sql,1,s1_category_class,2002,Sports,football,Home,bedding,Home,mattresses,Sports,tennis,Jewelry,consignment,Men,sports-apparel,2994
+s1_category_class_00486.sql,1,s1_category_class,2002,Home,glassware,Men,sports-apparel,Sports,tennis,Jewelry,earings,Sports,fishing,Home,mattresses,3044
+s1_category_class_00487.sql,1,s1_category_class,2002,Jewelry,earings,Sports,fishing,Women,fragrances,Electronics,portable,Sports,golf,Electronics,televisions,3612
+s1_category_class_00488.sql,1,s1_category_class,2002,Books,arts,Electronics,dvd/vcr players,Jewelry,costume,Home,glassware,Women,fragrances,Men,sports-apparel,2798
+s1_category_class_00489.sql,1,s1_category_class,2002,Sports,fitness,Electronics,portable,Home,bedding,Electronics,stereo,Books,computers,Women,fragrances,3549
+s1_category_class_00490.sql,1,s1_category_class,2002,Jewelry,bracelets,Jewelry,consignment,Jewelry,gold,Electronics,audio,Men,sports-apparel,Books,computers,2964
+s1_category_class_00491.sql,1,s1_category_class,2002,Jewelry,estate,Jewelry,rings,Books,mystery,Jewelry,gold,Electronics,audio,Women,fragrances,2894
+s1_category_class_00492.sql,1,s1_category_class,2002,Women,fragrances,Men,sports-apparel,Sports,golf,Jewelry,consignment,Sports,archery,Jewelry,gold,2432
+s1_category_class_00493.sql,1,s1_category_class,2002,Home,bedding,Sports,camping,Sports,golf,Women,fragrances,Home,tables,Jewelry,pendants,3067
+s1_category_class_00494.sql,1,s1_category_class,2002,Home,tables,Sports,guns,Jewelry,rings,Jewelry,consignment,Men,sports-apparel,Sports,fishing,2838
+s1_category_class_00495.sql,1,s1_category_class,2002,Books,computers,Jewelry,gold,Electronics,memory,Home,curtains/drapes,Men,sports-apparel,Sports,basketball,3076
+s1_category_class_00496.sql,1,s1_category_class,2002,Men,sports-apparel,Home,bedding,Books,science,Electronics,stereo,Sports,golf,Electronics,karoke,3723
+s1_category_class_00497.sql,1,s1_category_class,2002,Home,flatware,Jewelry,womens watch,Books,mystery,Electronics,stereo,Men,sports-apparel,Jewelry,bracelets,3067
+s1_category_class_00498.sql,1,s1_category_class,2002,Sports,golf,Sports,guns,Electronics,scanners,Electronics,memory,Sports,football,Jewelry,bracelets,3945
+s1_category_class_00499.sql,1,s1_category_class,2002,Home,tables,Jewelry,costume,Women,fragrances,Sports,guns,Men,sports-apparel,Sports,pools,2519
+s1_category_class_00500.sql,1,s1_category_class,2002,Jewelry,womens watch,Women,fragrances,Men,sports-apparel,Jewelry,consignment,Electronics,memory,Electronics,karoke,3117
+s1_category_class_00501.sql,1,s1_category_class,2002,Books,reference,Home,glassware,Jewelry,rings,Books,science,Men,sports-apparel,Home,lighting,2600
+s1_category_class_00502.sql,1,s1_category_class,2002,Jewelry,gold,Home,mattresses,Books,parenting,Electronics,memory,Electronics,televisions,Electronics,stereo,4277
+s1_category_class_00503.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,wireless,Women,fragrances,Home,tables,Home,glassware,Home,mattresses,3028
+s1_category_class_00504.sql,1,s1_category_class,2002,Home,lighting,Electronics,karoke,Men,sports-apparel,Home,curtains/drapes,Sports,golf,Sports,fitness,3467
+s1_category_class_00505.sql,1,s1_category_class,2002,Jewelry,womens watch,Jewelry,costume,Sports,football,Jewelry,rings,Sports,baseball,Women,fragrances,2753
+s1_category_class_00506.sql,1,s1_category_class,2002,Books,arts,Sports,pools,Electronics,dvd/vcr players,Jewelry,loose stones,Home,mattresses,Women,fragrances,3137
+s1_category_class_00507.sql,1,s1_category_class,2002,Women,fragrances,Sports,tennis,Jewelry,estate,Books,arts,Jewelry,bracelets,Jewelry,gold,2550
+s1_category_class_00508.sql,1,s1_category_class,2002,Electronics,stereo,Women,fragrances,Sports,camping,Men,sports-apparel,Sports,pools,Home,bedding,3051
+s1_category_class_00509.sql,1,s1_category_class,2002,Home,curtains/drapes,Home,mattresses,Sports,guns,Sports,tennis,Home,kids,Electronics,karoke,3870
+s1_category_class_00510.sql,1,s1_category_class,2002,Books,business,Sports,basketball,Books,reference,Books,arts,Home,tables,Women,fragrances,2532
+s1_category_class_00511.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Books,fiction,Sports,golf,Electronics,televisions,Electronics,scanners,Electronics,stereo,4837
+s1_category_class_00512.sql,1,s1_category_class,2002,Sports,basketball,Jewelry,pendants,Books,parenting,Home,bedding,Men,sports-apparel,Jewelry,costume,2788
+s1_category_class_00513.sql,1,s1_category_class,2002,Sports,fishing,Sports,archery,Home,decor,Jewelry,mens watch,Electronics,audio,Women,fragrances,3425
+s1_category_class_00514.sql,1,s1_category_class,2002,Men,sports-apparel,Women,fragrances,Jewelry,pendants,Jewelry,costume,Sports,golf,Jewelry,bracelets,2437
+s1_category_class_00515.sql,1,s1_category_class,2002,Electronics,memory,Sports,fishing,Electronics,wireless,Sports,pools,Sports,golf,Home,decor,4220
+s1_category_class_00516.sql,1,s1_category_class,2002,Home,decor,Sports,pools,Jewelry,pendants,Jewelry,consignment,Jewelry,gold,Men,sports-apparel,2785
+s1_category_class_00517.sql,1,s1_category_class,2002,Home,curtains/drapes,Home,flatware,Women,fragrances,Books,business,Home,bedding,Sports,basketball,2899
+s1_category_class_00518.sql,1,s1_category_class,2002,Electronics,karoke,Women,fragrances,Books,mystery,Sports,baseball,Books,science,Electronics,stereo,3464
+s1_category_class_00519.sql,1,s1_category_class,2002,Electronics,portable,Jewelry,estate,Jewelry,bracelets,Books,computers,Sports,fishing,Books,arts,3170
+s1_category_class_00520.sql,1,s1_category_class,2002,Home,curtains/drapes,Home,tables,Men,sports-apparel,Jewelry,consignment,Sports,football,Women,fragrances,2504
+s1_category_class_00521.sql,1,s1_category_class,2002,Sports,camping,Jewelry,estate,Women,fragrances,Men,sports-apparel,Jewelry,consignment,Jewelry,gold,2245
+s1_category_class_00522.sql,1,s1_category_class,2002,Women,fragrances,Home,kids,Sports,basketball,Books,mystery,Electronics,scanners,Sports,guns,3118
+s1_category_class_00523.sql,1,s1_category_class,2002,Sports,basketball,Electronics,dvd/vcr players,Men,sports-apparel,Electronics,wireless,Jewelry,bracelets,Women,fragrances,3319
+s1_category_class_00524.sql,1,s1_category_class,2002,Electronics,stereo,Books,reference,Home,lighting,Sports,archery,Women,fragrances,Books,business,3091
+s1_category_class_00525.sql,1,s1_category_class,2002,Books,business,Jewelry,pendants,Electronics,wireless,Electronics,audio,Home,bedding,Electronics,televisions,4371
+s1_category_class_00526.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,scanners,Jewelry,estate,Books,parenting,Jewelry,womens watch,Jewelry,bracelets,2857
+s1_category_class_00527.sql,1,s1_category_class,2002,Jewelry,earings,Electronics,dvd/vcr players,Men,sports-apparel,Jewelry,womens watch,Jewelry,pendants,Sports,pools,3193
+s1_category_class_00528.sql,1,s1_category_class,2002,Women,fragrances,Home,decor,Home,tables,Home,glassware,Sports,golf,Home,flatware,3160
+s1_category_class_00529.sql,1,s1_category_class,2002,Jewelry,pendants,Sports,fishing,Jewelry,rings,Books,parenting,Jewelry,consignment,Electronics,televisions,3424
+s1_category_class_00530.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,loose stones,Jewelry,mens watch,Books,arts,Home,flatware,Men,sports-apparel,2108
+s1_category_class_00531.sql,1,s1_category_class,2002,Sports,archery,Sports,baseball,Women,fragrances,Electronics,stereo,Sports,camping,Books,parenting,3279
+s1_category_class_00532.sql,1,s1_category_class,2002,Home,lighting,Electronics,stereo,Sports,pools,Sports,football,Home,curtains/drapes,Sports,baseball,3894
+s1_category_class_00533.sql,1,s1_category_class,2002,Jewelry,bracelets,Electronics,karoke,Home,curtains/drapes,Books,parenting,Books,mystery,Books,arts,3195
+s1_category_class_00534.sql,1,s1_category_class,2002,Jewelry,womens watch,Home,curtains/drapes,Home,mattresses,Home,kids,Jewelry,consignment,Jewelry,rings,3232
+s1_category_class_00535.sql,1,s1_category_class,2002,Sports,fishing,Sports,camping,Books,computers,Jewelry,costume,Home,decor,Women,fragrances,2818
+s1_category_class_00536.sql,1,s1_category_class,2002,Books,business,Sports,tennis,Men,sports-apparel,Sports,guns,Home,mattresses,Jewelry,rings,2728
+s1_category_class_00537.sql,1,s1_category_class,2002,Electronics,audio,Books,business,Electronics,karoke,Jewelry,womens watch,Women,fragrances,Jewelry,gold,3414
+s1_category_class_00538.sql,1,s1_category_class,2002,Home,mattresses,Jewelry,womens watch,Jewelry,costume,Sports,guns,Sports,fishing,Home,tables,3352
+s1_category_class_00539.sql,1,s1_category_class,2002,Books,science,Home,mattresses,Jewelry,earings,Sports,football,Books,mystery,Jewelry,rings,2824
+s1_category_class_00540.sql,1,s1_category_class,2002,Sports,tennis,Home,glassware,Jewelry,bracelets,Jewelry,rings,Sports,basketball,Electronics,portable,3683
+s1_category_class_00541.sql,1,s1_category_class,2002,Men,sports-apparel,Books,fiction,Sports,basketball,Home,curtains/drapes,Home,bedding,Books,business,2736
+s1_category_class_00542.sql,1,s1_category_class,2002,Electronics,memory,Women,fragrances,Home,bedding,Home,mattresses,Books,parenting,Electronics,stereo,3627
+s1_category_class_00543.sql,1,s1_category_class,2002,Home,decor,Home,bedding,Sports,pools,Electronics,scanners,Jewelry,bracelets,Books,reference,3585
+s1_category_class_00544.sql,1,s1_category_class,2002,Jewelry,pendants,Electronics,memory,Jewelry,loose stones,Men,sports-apparel,Books,business,Electronics,portable,3167
+s1_category_class_00545.sql,1,s1_category_class,2002,Jewelry,bracelets,Jewelry,pendants,Sports,basketball,Electronics,stereo,Sports,archery,Jewelry,costume,3763
+s1_category_class_00546.sql,1,s1_category_class,2002,Jewelry,estate,Home,lighting,Sports,basketball,Home,mattresses,Jewelry,costume,Home,flatware,3335
+s1_category_class_00547.sql,1,s1_category_class,2002,Home,glassware,Sports,football,Sports,guns,Books,business,Electronics,memory,Home,kids,3537
+s1_category_class_00548.sql,1,s1_category_class,2002,Sports,pools,Jewelry,rings,Men,sports-apparel,Home,curtains/drapes,Sports,baseball,Home,kids,2963
+s1_category_class_00549.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Sports,camping,Women,fragrances,Jewelry,rings,Sports,archery,Electronics,audio,3761
+s1_category_class_00550.sql,1,s1_category_class,2002,Sports,fitness,Books,mystery,Sports,archery,Electronics,audio,Electronics,memory,Jewelry,mens watch,3917
+s1_category_class_00551.sql,1,s1_category_class,2002,Electronics,stereo,Sports,guns,Jewelry,pendants,Men,sports-apparel,Women,fragrances,Jewelry,loose stones,2747
+s1_category_class_00552.sql,1,s1_category_class,2002,Electronics,portable,Electronics,scanners,Books,science,Home,curtains/drapes,Electronics,stereo,Men,sports-apparel,3802
+s1_category_class_00553.sql,1,s1_category_class,2002,Jewelry,costume,Books,reference,Jewelry,estate,Women,fragrances,Home,bedding,Electronics,dvd/vcr players,3131
+s1_category_class_00554.sql,1,s1_category_class,2002,Books,computers,Books,reference,Electronics,wireless,Jewelry,pendants,Sports,tennis,Electronics,scanners,3682
+s1_category_class_00555.sql,1,s1_category_class,2002,Sports,tennis,Jewelry,consignment,Books,fiction,Home,bedding,Sports,pools,Sports,football,3233
+s1_category_class_00556.sql,1,s1_category_class,2002,Home,lighting,Home,tables,Sports,baseball,Home,kids,Electronics,wireless,Jewelry,bracelets,3774
+s1_category_class_00557.sql,1,s1_category_class,2002,Electronics,scanners,Sports,fishing,Jewelry,gold,Home,glassware,Men,sports-apparel,Sports,football,3211
+s1_category_class_00558.sql,1,s1_category_class,2002,Sports,tennis,Electronics,karoke,Home,decor,Women,fragrances,Books,parenting,Books,reference,3099
+s1_category_class_00559.sql,1,s1_category_class,2002,Sports,guns,Electronics,televisions,Home,tables,Women,fragrances,Home,glassware,Men,sports-apparel,3013
+s1_category_class_00560.sql,1,s1_category_class,2002,Jewelry,rings,Sports,golf,Electronics,audio,Electronics,dvd/vcr players,Books,business,Electronics,stereo,4467
+s1_category_class_00561.sql,1,s1_category_class,2002,Books,computers,Sports,pools,Men,sports-apparel,Home,bedding,Jewelry,costume,Home,flatware,2789
+s1_category_class_00562.sql,1,s1_category_class,2002,Women,fragrances,Books,computers,Books,mystery,Electronics,scanners,Sports,fishing,Electronics,dvd/vcr players,3373
+s1_category_class_00563.sql,1,s1_category_class,2002,Electronics,karoke,Books,computers,Men,sports-apparel,Books,fiction,Jewelry,womens watch,Sports,golf,2994
+s1_category_class_00564.sql,1,s1_category_class,2002,Sports,tennis,Electronics,stereo,Sports,golf,Sports,archery,Electronics,scanners,Sports,pools,4293
+s1_category_class_00565.sql,1,s1_category_class,2002,Jewelry,womens watch,Home,tables,Women,fragrances,Sports,camping,Home,glassware,Electronics,karoke,3408
+s1_category_class_00566.sql,1,s1_category_class,2002,Jewelry,costume,Home,glassware,Men,sports-apparel,Sports,golf,Books,science,Sports,tennis,2908
+s1_category_class_00567.sql,1,s1_category_class,2002,Books,fiction,Women,fragrances,Sports,tennis,Men,sports-apparel,Electronics,televisions,Sports,camping,2804
+s1_category_class_00568.sql,1,s1_category_class,2002,Electronics,karoke,Electronics,stereo,Women,fragrances,Home,curtains/drapes,Electronics,scanners,Sports,pools,4151
+s1_category_class_00569.sql,1,s1_category_class,2002,Jewelry,womens watch,Sports,fishing,Women,fragrances,Home,bedding,Jewelry,pendants,Jewelry,costume,2883
+s1_category_class_00570.sql,1,s1_category_class,2002,Sports,fitness,Electronics,portable,Jewelry,rings,Jewelry,loose stones,Books,business,Sports,guns,3205
+s1_category_class_00571.sql,1,s1_category_class,2002,Sports,fitness,Sports,guns,Jewelry,estate,Electronics,memory,Jewelry,gold,Sports,basketball,3532
+s1_category_class_00572.sql,1,s1_category_class,2002,Books,business,Home,curtains/drapes,Books,parenting,Sports,archery,Books,science,Electronics,dvd/vcr players,3327
+s1_category_class_00573.sql,1,s1_category_class,2002,Home,mattresses,Jewelry,rings,Books,arts,Home,flatware,Jewelry,womens watch,Home,bedding,3104
+s1_category_class_00574.sql,1,s1_category_class,2002,Sports,football,Electronics,dvd/vcr players,Sports,fitness,Sports,archery,Home,curtains/drapes,Books,computers,3683
+s1_category_class_00575.sql,1,s1_category_class,2002,Home,glassware,Books,business,Sports,basketball,Men,sports-apparel,Home,mattresses,Electronics,dvd/vcr players,3380
+s1_category_class_00576.sql,1,s1_category_class,2002,Electronics,portable,Sports,pools,Books,computers,Men,sports-apparel,Sports,basketball,Sports,baseball,3171
+s1_category_class_00577.sql,1,s1_category_class,2002,Sports,camping,Sports,baseball,Jewelry,pendants,Home,tables,Jewelry,estate,Home,bedding,3367
+s1_category_class_00578.sql,1,s1_category_class,2002,Jewelry,loose stones,Jewelry,pendants,Men,sports-apparel,Electronics,dvd/vcr players,Women,fragrances,Sports,archery,2810
+s1_category_class_00579.sql,1,s1_category_class,2002,Sports,basketball,Jewelry,pendants,Electronics,wireless,Home,lighting,Books,arts,Books,science,3388
+s1_category_class_00580.sql,1,s1_category_class,2002,Sports,fishing,Books,parenting,Sports,archery,Jewelry,costume,Home,mattresses,Men,sports-apparel,2828
+s1_category_class_00581.sql,1,s1_category_class,2002,Jewelry,rings,Books,science,Men,sports-apparel,Home,kids,Jewelry,estate,Books,reference,2432
+s1_category_class_00582.sql,1,s1_category_class,2002,Electronics,televisions,Jewelry,estate,Books,science,Men,sports-apparel,Sports,golf,Jewelry,consignment,3074
+s1_category_class_00583.sql,1,s1_category_class,2002,Books,reference,Jewelry,pendants,Women,fragrances,Home,bedding,Jewelry,womens watch,Electronics,wireless,3069
+s1_category_class_00584.sql,1,s1_category_class,2002,Jewelry,gold,Jewelry,mens watch,Electronics,karoke,Home,tables,Women,fragrances,Books,computers,3026
+s1_category_class_00585.sql,1,s1_category_class,2002,Sports,pools,Home,glassware,Women,fragrances,Home,bedding,Electronics,wireless,Home,lighting,3467
+s1_category_class_00586.sql,1,s1_category_class,2002,Jewelry,estate,Sports,archery,Jewelry,womens watch,Men,sports-apparel,Women,fragrances,Jewelry,costume,2353
+s1_category_class_00587.sql,1,s1_category_class,2002,Electronics,audio,Home,curtains/drapes,Home,tables,Sports,fishing,Home,kids,Jewelry,rings,3842
+s1_category_class_00588.sql,1,s1_category_class,2002,Home,lighting,Electronics,televisions,Women,fragrances,Sports,fitness,Jewelry,bracelets,Home,tables,3379
+s1_category_class_00589.sql,1,s1_category_class,2002,Jewelry,pendants,Jewelry,estate,Home,lighting,Electronics,memory,Electronics,karoke,Jewelry,costume,3920
+s1_category_class_00590.sql,1,s1_category_class,2002,Electronics,stereo,Home,curtains/drapes,Sports,fishing,Women,fragrances,Sports,archery,Home,mattresses,3533
+s1_category_class_00591.sql,1,s1_category_class,2002,Jewelry,gold,Electronics,wireless,Sports,tennis,Books,science,Sports,basketball,Sports,fitness,3553
+s1_category_class_00592.sql,1,s1_category_class,2002,Home,mattresses,Books,reference,Electronics,stereo,Electronics,karoke,Home,tables,Books,fiction,3953
+s1_category_class_00593.sql,1,s1_category_class,2002,Electronics,audio,Sports,tennis,Books,reference,Sports,guns,Home,curtains/drapes,Home,mattresses,3724
+s1_category_class_00594.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,memory,Women,fragrances,Sports,fishing,Jewelry,pendants,Books,arts,2655
+s1_category_class_00595.sql,1,s1_category_class,2002,Jewelry,pendants,Jewelry,womens watch,Electronics,dvd/vcr players,Home,lighting,Electronics,memory,Books,fiction,3858
+s1_category_class_00596.sql,1,s1_category_class,2002,Books,computers,Men,sports-apparel,Jewelry,loose stones,Electronics,karoke,Women,fragrances,Books,science,2440
+s1_category_class_00597.sql,1,s1_category_class,2002,Women,fragrances,Electronics,karoke,Home,mattresses,Books,mystery,Sports,baseball,Jewelry,earings,3134
+s1_category_class_00598.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,earings,Books,business,Jewelry,estate,Electronics,dvd/vcr players,Home,bedding,3056
+s1_category_class_00599.sql,1,s1_category_class,2002,Electronics,wireless,Sports,basketball,Jewelry,estate,Home,lighting,Sports,pools,Books,fiction,3560
+s1_category_class_00600.sql,1,s1_category_class,2002,Men,sports-apparel,Books,computers,Home,bedding,Sports,guns,Home,mattresses,Electronics,televisions,3235
+s1_category_class_00601.sql,1,s1_category_class,2002,Books,fiction,Electronics,wireless,Sports,guns,Electronics,scanners,Jewelry,bracelets,Books,parenting,3569
+s1_category_class_00602.sql,1,s1_category_class,2002,Sports,basketball,Electronics,memory,Electronics,portable,Electronics,audio,Sports,pools,Jewelry,bracelets,4438
+s1_category_class_00603.sql,1,s1_category_class,2002,Jewelry,bracelets,Electronics,wireless,Home,curtains/drapes,Books,reference,Electronics,portable,Sports,golf,3850
+s1_category_class_00604.sql,1,s1_category_class,2002,Jewelry,estate,Books,computers,Jewelry,bracelets,Electronics,televisions,Books,parenting,Men,sports-apparel,2849
+s1_category_class_00605.sql,1,s1_category_class,2002,Books,mystery,Electronics,televisions,Home,decor,Sports,basketball,Women,fragrances,Jewelry,costume,3237
+s1_category_class_00606.sql,1,s1_category_class,2002,Home,tables,Jewelry,pendants,Jewelry,gold,Jewelry,costume,Men,sports-apparel,Women,fragrances,2353
+s1_category_class_00607.sql,1,s1_category_class,2002,Home,glassware,Sports,tennis,Electronics,scanners,Books,computers,Men,sports-apparel,Electronics,portable,3463
+s1_category_class_00608.sql,1,s1_category_class,2002,Electronics,stereo,Electronics,karoke,Books,science,Books,arts,Home,mattresses,Women,fragrances,3466
+s1_category_class_00609.sql,1,s1_category_class,2002,Home,decor,Jewelry,loose stones,Books,arts,Men,sports-apparel,Electronics,audio,Sports,pools,3135
+s1_category_class_00610.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,consignment,Home,tables,Sports,golf,Jewelry,costume,Books,computers,2767
+s1_category_class_00611.sql,1,s1_category_class,2002,Home,curtains/drapes,Home,bedding,Books,science,Sports,basketball,Books,computers,Women,fragrances,2753
+s1_category_class_00612.sql,1,s1_category_class,2002,Books,computers,Women,fragrances,Men,sports-apparel,Jewelry,costume,Jewelry,gold,Electronics,televisions,2586
+s1_category_class_00613.sql,1,s1_category_class,2002,Home,decor,Books,reference,Books,fiction,Women,fragrances,Electronics,memory,Jewelry,loose stones,2844
+s1_category_class_00614.sql,1,s1_category_class,2002,Jewelry,loose stones,Jewelry,earings,Electronics,karoke,Men,sports-apparel,Jewelry,pendants,Electronics,dvd/vcr players,3489
+s1_category_class_00615.sql,1,s1_category_class,2002,Women,fragrances,Men,sports-apparel,Sports,baseball,Jewelry,pendants,Home,glassware,Home,mattresses,2624
+s1_category_class_00616.sql,1,s1_category_class,2002,Sports,golf,Books,business,Electronics,dvd/vcr players,Electronics,televisions,Home,glassware,Jewelry,costume,4114
+s1_category_class_00617.sql,1,s1_category_class,2002,Home,bedding,Sports,tennis,Home,tables,Home,glassware,Jewelry,estate,Women,fragrances,3083
+s1_category_class_00618.sql,1,s1_category_class,2002,Jewelry,womens watch,Jewelry,bracelets,Electronics,dvd/vcr players,Sports,baseball,Men,sports-apparel,Sports,fitness,3315
+s1_category_class_00619.sql,1,s1_category_class,2002,Books,reference,Books,computers,Sports,pools,Home,flatware,Sports,archery,Books,arts,2892
+s1_category_class_00620.sql,1,s1_category_class,2002,Jewelry,gold,Electronics,wireless,Electronics,memory,Home,flatware,Sports,basketball,Sports,golf,4031
+s1_category_class_00621.sql,1,s1_category_class,2002,Jewelry,gold,Jewelry,bracelets,Men,sports-apparel,Electronics,audio,Sports,pools,Home,kids,3249
+s1_category_class_00622.sql,1,s1_category_class,2002,Books,fiction,Books,parenting,Home,curtains/drapes,Jewelry,rings,Men,sports-apparel,Jewelry,estate,2430
+s1_category_class_00623.sql,1,s1_category_class,2002,Electronics,memory,Home,tables,Electronics,dvd/vcr players,Books,fiction,Home,mattresses,Books,science,3864
+s1_category_class_00624.sql,1,s1_category_class,2002,Electronics,wireless,Jewelry,bracelets,Sports,baseball,Books,parenting,Books,business,Electronics,stereo,3772
+s1_category_class_00625.sql,1,s1_category_class,2002,Books,science,Electronics,audio,Sports,archery,Sports,football,Jewelry,consignment,Home,bedding,3616
+s1_category_class_00626.sql,1,s1_category_class,2002,Home,decor,Men,sports-apparel,Sports,archery,Electronics,stereo,Jewelry,consignment,Books,mystery,3214
+s1_category_class_00627.sql,1,s1_category_class,2002,Home,glassware,Electronics,audio,Jewelry,gold,Electronics,karoke,Women,fragrances,Electronics,memory,4058
+s1_category_class_00628.sql,1,s1_category_class,2002,Jewelry,gold,Jewelry,womens watch,Home,bedding,Sports,baseball,Books,fiction,Home,tables,3145
+s1_category_class_00629.sql,1,s1_category_class,2002,Sports,fitness,Sports,pools,Electronics,televisions,Jewelry,estate,Home,lighting,Women,fragrances,3323
+s1_category_class_00630.sql,1,s1_category_class,2002,Home,glassware,Men,sports-apparel,Jewelry,rings,Home,kids,Books,reference,Electronics,audio,3207
+s1_category_class_00631.sql,1,s1_category_class,2002,Home,decor,Home,lighting,Sports,fishing,Home,flatware,Electronics,stereo,Electronics,wireless,4237
+s1_category_class_00632.sql,1,s1_category_class,2002,Jewelry,bracelets,Sports,pools,Books,mystery,Men,sports-apparel,Home,mattresses,Sports,fitness,2796
+s1_category_class_00633.sql,1,s1_category_class,2002,Books,mystery,Sports,basketball,Sports,pools,Books,parenting,Jewelry,mens watch,Jewelry,costume,2981
+s1_category_class_00634.sql,1,s1_category_class,2002,Jewelry,rings,Home,tables,Home,decor,Electronics,portable,Sports,pools,Electronics,memory,3991
+s1_category_class_00635.sql,1,s1_category_class,2002,Books,science,Sports,archery,Electronics,scanners,Books,fiction,Jewelry,loose stones,Home,bedding,3271
+s1_category_class_00636.sql,1,s1_category_class,2002,Sports,basketball,Electronics,memory,Sports,archery,Books,mystery,Sports,fitness,Home,lighting,3647
+s1_category_class_00637.sql,1,s1_category_class,2002,Home,curtains/drapes,Sports,basketball,Women,fragrances,Jewelry,costume,Books,business,Sports,camping,2819
+s1_category_class_00638.sql,1,s1_category_class,2002,Sports,archery,Electronics,audio,Electronics,televisions,Women,fragrances,Books,fiction,Electronics,memory,3966
+s1_category_class_00639.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Women,fragrances,Jewelry,consignment,Home,curtains/drapes,Electronics,karoke,Home,decor,3791
+s1_category_class_00640.sql,1,s1_category_class,2002,Home,curtains/drapes,Electronics,memory,Home,decor,Women,fragrances,Books,mystery,Jewelry,costume,3119
+s1_category_class_00641.sql,1,s1_category_class,2002,Books,computers,Sports,basketball,Home,tables,Books,business,Electronics,audio,Jewelry,gold,3444
+s1_category_class_00642.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Women,fragrances,Electronics,audio,Electronics,televisions,Sports,baseball,Books,science,4079
+s1_category_class_00643.sql,1,s1_category_class,2002,Home,mattresses,Jewelry,loose stones,Electronics,stereo,Sports,archery,Jewelry,bracelets,Sports,tennis,3750
+s1_category_class_00644.sql,1,s1_category_class,2002,Jewelry,earings,Electronics,wireless,Home,flatware,Sports,fitness,Men,sports-apparel,Jewelry,consignment,3109
+s1_category_class_00645.sql,1,s1_category_class,2002,Electronics,memory,Books,mystery,Sports,guns,Men,sports-apparel,Women,fragrances,Jewelry,bracelets,2579
+s1_category_class_00646.sql,1,s1_category_class,2002,Men,sports-apparel,Sports,fitness,Jewelry,bracelets,Home,kids,Home,tables,Sports,basketball,3038
+s1_category_class_00647.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,scanners,Home,glassware,Books,computers,Sports,guns,Home,bedding,3167
+s1_category_class_00648.sql,1,s1_category_class,2002,Sports,tennis,Sports,camping,Home,glassware,Women,fragrances,Sports,baseball,Home,tables,3160
+s1_category_class_00649.sql,1,s1_category_class,2002,Jewelry,consignment,Sports,golf,Sports,baseball,Men,sports-apparel,Jewelry,womens watch,Home,glassware,2986
+s1_category_class_00650.sql,1,s1_category_class,2002,Sports,fishing,Women,fragrances,Jewelry,earings,Home,glassware,Electronics,audio,Books,reference,3223
+s1_category_class_00651.sql,1,s1_category_class,2002,Books,reference,Electronics,portable,Sports,tennis,Home,glassware,Jewelry,bracelets,Electronics,dvd/vcr players,3975
+s1_category_class_00652.sql,1,s1_category_class,2002,Jewelry,earings,Women,fragrances,Sports,fitness,Jewelry,mens watch,Home,glassware,Home,curtains/drapes,2884
+s1_category_class_00653.sql,1,s1_category_class,2002,Electronics,portable,Electronics,televisions,Electronics,wireless,Jewelry,mens watch,Books,parenting,Electronics,memory,4446
+s1_category_class_00654.sql,1,s1_category_class,2002,Sports,basketball,Home,mattresses,Home,tables,Books,business,Women,fragrances,Books,computers,2752
+s1_category_class_00655.sql,1,s1_category_class,2002,Sports,archery,Jewelry,pendants,Home,bedding,Home,glassware,Electronics,televisions,Home,kids,3899
+s1_category_class_00656.sql,1,s1_category_class,2002,Women,fragrances,Sports,baseball,Books,science,Home,tables,Electronics,scanners,Jewelry,pendants,3109
+s1_category_class_00657.sql,1,s1_category_class,2002,Sports,guns,Sports,fishing,Sports,basketball,Electronics,karoke,Sports,archery,Sports,camping,3879
+s1_category_class_00658.sql,1,s1_category_class,2002,Jewelry,loose stones,Electronics,memory,Sports,guns,Books,business,Books,computers,Women,fragrances,2752
+s1_category_class_00659.sql,1,s1_category_class,2002,Electronics,audio,Books,business,Electronics,stereo,Jewelry,consignment,Women,fragrances,Sports,golf,3635
+s1_category_class_00660.sql,1,s1_category_class,2002,Sports,tennis,Men,sports-apparel,Home,flatware,Home,bedding,Books,mystery,Books,reference,2682
+s1_category_class_00661.sql,1,s1_category_class,2002,Jewelry,loose stones,Sports,tennis,Men,sports-apparel,Women,fragrances,Home,decor,Home,kids,2503
+s1_category_class_00662.sql,1,s1_category_class,2002,Electronics,audio,Home,curtains/drapes,Home,decor,Electronics,televisions,Jewelry,consignment,Electronics,memory,4539
+s1_category_class_00663.sql,1,s1_category_class,2002,Home,mattresses,Jewelry,loose stones,Sports,golf,Women,fragrances,Men,sports-apparel,Jewelry,bracelets,2441
+s1_category_class_00664.sql,1,s1_category_class,2002,Jewelry,pendants,Books,arts,Home,lighting,Sports,basketball,Sports,archery,Electronics,dvd/vcr players,3690
+s1_category_class_00665.sql,1,s1_category_class,2002,Books,parenting,Women,fragrances,Home,lighting,Jewelry,estate,Sports,archery,Books,business,2542
+s1_category_class_00666.sql,1,s1_category_class,2002,Electronics,audio,Books,parenting,Jewelry,bracelets,Home,lighting,Women,fragrances,Books,computers,2992
+s1_category_class_00667.sql,1,s1_category_class,2002,Jewelry,bracelets,Women,fragrances,Sports,camping,Home,kids,Books,mystery,Men,sports-apparel,2305
+s1_category_class_00668.sql,1,s1_category_class,2002,Books,arts,Women,fragrances,Electronics,memory,Home,kids,Men,sports-apparel,Jewelry,bracelets,2625
+s1_category_class_00669.sql,1,s1_category_class,2002,Sports,guns,Men,sports-apparel,Jewelry,womens watch,Books,reference,Sports,fitness,Books,science,2520
+s1_category_class_00670.sql,1,s1_category_class,2002,Jewelry,rings,Electronics,portable,Sports,basketball,Books,parenting,Home,glassware,Women,fragrances,3081
+s1_category_class_00671.sql,1,s1_category_class,2002,Electronics,wireless,Women,fragrances,Home,flatware,Jewelry,consignment,Books,science,Sports,pools,3060
+s1_category_class_00672.sql,1,s1_category_class,2002,Jewelry,costume,Sports,camping,Electronics,dvd/vcr players,Electronics,televisions,Electronics,wireless,Jewelry,earings,4399
+s1_category_class_00673.sql,1,s1_category_class,2002,Sports,camping,Men,sports-apparel,Electronics,memory,Home,decor,Home,bedding,Home,curtains/drapes,3401
+s1_category_class_00674.sql,1,s1_category_class,2002,Electronics,stereo,Men,sports-apparel,Sports,basketball,Home,bedding,Home,decor,Home,glassware,3627
+s1_category_class_00675.sql,1,s1_category_class,2002,Sports,fitness,Books,computers,Home,flatware,Women,fragrances,Sports,basketball,Sports,pools,2874
+s1_category_class_00676.sql,1,s1_category_class,2002,Books,reference,Electronics,memory,Home,kids,Books,mystery,Sports,pools,Home,bedding,3446
+s1_category_class_00677.sql,1,s1_category_class,2002,Home,mattresses,Home,decor,Books,computers,Jewelry,rings,Sports,basketball,Electronics,wireless,3606
+s1_category_class_00678.sql,1,s1_category_class,2002,Sports,golf,Home,curtains/drapes,Home,glassware,Jewelry,rings,Home,bedding,Jewelry,mens watch,3421
+s1_category_class_00679.sql,1,s1_category_class,2002,Sports,archery,Sports,camping,Women,fragrances,Home,tables,Electronics,memory,Home,decor,3404
+s1_category_class_00680.sql,1,s1_category_class,2002,Books,mystery,Books,fiction,Electronics,portable,Home,bedding,Women,fragrances,Sports,camping,2907
+s1_category_class_00681.sql,1,s1_category_class,2002,Home,bedding,Electronics,dvd/vcr players,Jewelry,mens watch,Electronics,televisions,Women,fragrances,Jewelry,womens watch,3702
+s1_category_class_00682.sql,1,s1_category_class,2002,Sports,pools,Home,glassware,Sports,tennis,Books,reference,Home,decor,Books,fiction,3230
+s1_category_class_00683.sql,1,s1_category_class,2002,Home,glassware,Men,sports-apparel,Books,reference,Women,fragrances,Sports,pools,Home,flatware,2443
+s1_category_class_00684.sql,1,s1_category_class,2002,Books,parenting,Books,fiction,Jewelry,womens watch,Books,reference,Electronics,stereo,Women,fragrances,2802
+s1_category_class_00685.sql,1,s1_category_class,2002,Sports,pools,Electronics,scanners,Books,mystery,Men,sports-apparel,Sports,baseball,Books,fiction,2953
+s1_category_class_00686.sql,1,s1_category_class,2002,Jewelry,costume,Jewelry,bracelets,Women,fragrances,Home,kids,Sports,football,Electronics,wireless,3177
+s1_category_class_00687.sql,1,s1_category_class,2002,Electronics,wireless,Electronics,televisions,Jewelry,pendants,Home,bedding,Home,decor,Women,fragrances,3747
+s1_category_class_00688.sql,1,s1_category_class,2002,Books,parenting,Electronics,karoke,Jewelry,pendants,Sports,football,Home,glassware,Men,sports-apparel,3157
+s1_category_class_00689.sql,1,s1_category_class,2002,Home,bedding,Electronics,wireless,Jewelry,loose stones,Books,reference,Home,flatware,Home,tables,3495
+s1_category_class_00690.sql,1,s1_category_class,2002,Jewelry,gold,Women,fragrances,Jewelry,costume,Electronics,wireless,Electronics,televisions,Electronics,dvd/vcr players,3962
+s1_category_class_00691.sql,1,s1_category_class,2002,Books,parenting,Sports,football,Sports,baseball,Jewelry,gold,Sports,archery,Electronics,dvd/vcr players,3543
+s1_category_class_00692.sql,1,s1_category_class,2002,Electronics,portable,Home,tables,Jewelry,mens watch,Men,sports-apparel,Electronics,stereo,Electronics,televisions,4021
+s1_category_class_00693.sql,1,s1_category_class,2002,Electronics,televisions,Books,business,Jewelry,loose stones,Men,sports-apparel,Home,tables,Sports,golf,3142
+s1_category_class_00694.sql,1,s1_category_class,2002,Electronics,memory,Jewelry,costume,Books,business,Jewelry,mens watch,Women,fragrances,Sports,baseball,3002
+s1_category_class_00695.sql,1,s1_category_class,2002,Home,lighting,Sports,baseball,Men,sports-apparel,Electronics,audio,Electronics,karoke,Home,glassware,3900
+s1_category_class_00696.sql,1,s1_category_class,2002,Jewelry,rings,Sports,pools,Home,decor,Sports,basketball,Electronics,portable,Men,sports-apparel,3262
+s1_category_class_00697.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,stereo,Home,curtains/drapes,Jewelry,rings,Electronics,dvd/vcr players,Women,fragrances,3337
+s1_category_class_00698.sql,1,s1_category_class,2002,Electronics,karoke,Jewelry,mens watch,Books,business,Sports,fitness,Jewelry,bracelets,Electronics,wireless,3815
+s1_category_class_00699.sql,1,s1_category_class,2002,Books,reference,Jewelry,bracelets,Jewelry,mens watch,Sports,pools,Electronics,wireless,Electronics,memory,3775
+s1_category_class_00700.sql,1,s1_category_class,2002,Jewelry,costume,Men,sports-apparel,Electronics,wireless,Electronics,portable,Home,bedding,Books,fiction,3377
+s1_category_class_00701.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,loose stones,Jewelry,costume,Sports,golf,Home,tables,Sports,football,2849
+s1_category_class_00702.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Sports,fitness,Electronics,stereo,Women,fragrances,Sports,fishing,Home,mattresses,3921
+s1_category_class_00703.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Sports,camping,Jewelry,mens watch,Sports,fitness,Women,fragrances,Jewelry,consignment,3258
+s1_category_class_00704.sql,1,s1_category_class,2002,Jewelry,loose stones,Electronics,dvd/vcr players,Home,tables,Sports,guns,Home,bedding,Electronics,wireless,4081
+s1_category_class_00705.sql,1,s1_category_class,2002,Jewelry,rings,Women,fragrances,Jewelry,bracelets,Jewelry,womens watch,Sports,pools,Electronics,portable,3036
+s1_category_class_00706.sql,1,s1_category_class,2002,Home,bedding,Sports,golf,Books,business,Home,glassware,Books,parenting,Men,sports-apparel,2770
+s1_category_class_00707.sql,1,s1_category_class,2002,Jewelry,costume,Women,fragrances,Sports,fishing,Sports,archery,Books,business,Jewelry,earings,2685
+s1_category_class_00708.sql,1,s1_category_class,2002,Sports,fishing,Jewelry,rings,Sports,basketball,Books,mystery,Jewelry,gold,Electronics,scanners,3387
+s1_category_class_00709.sql,1,s1_category_class,2002,Books,reference,Jewelry,costume,Sports,fitness,Books,computers,Jewelry,earings,Home,curtains/drapes,2922
+s1_category_class_00710.sql,1,s1_category_class,2002,Home,glassware,Jewelry,pendants,Electronics,audio,Home,lighting,Jewelry,estate,Jewelry,earings,3644
+s1_category_class_00711.sql,1,s1_category_class,2002,Jewelry,gold,Jewelry,consignment,Sports,pools,Books,business,Books,reference,Men,sports-apparel,2439
+s1_category_class_00712.sql,1,s1_category_class,2002,Sports,football,Electronics,portable,Sports,pools,Sports,fishing,Electronics,memory,Home,tables,4048
+s1_category_class_00713.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,bracelets,Sports,baseball,Sports,basketball,Books,reference,Books,arts,2645
+s1_category_class_00714.sql,1,s1_category_class,2002,Jewelry,gold,Home,flatware,Men,sports-apparel,Home,lighting,Books,business,Jewelry,pendants,2589
+s1_category_class_00715.sql,1,s1_category_class,2002,Books,computers,Home,tables,Sports,baseball,Jewelry,pendants,Sports,fishing,Women,fragrances,2852
+s1_category_class_00716.sql,1,s1_category_class,2002,Jewelry,pendants,Jewelry,consignment,Home,glassware,Books,reference,Books,computers,Women,fragrances,2569
+s1_category_class_00717.sql,1,s1_category_class,2002,Electronics,memory,Women,fragrances,Home,tables,Jewelry,loose stones,Books,mystery,Books,reference,2840
+s1_category_class_00718.sql,1,s1_category_class,2002,Sports,pools,Sports,baseball,Home,kids,Sports,guns,Men,sports-apparel,Electronics,memory,3316
+s1_category_class_00719.sql,1,s1_category_class,2002,Electronics,portable,Electronics,scanners,Men,sports-apparel,Jewelry,womens watch,Home,bedding,Sports,fishing,3540
+s1_category_class_00720.sql,1,s1_category_class,2002,Books,mystery,Sports,baseball,Men,sports-apparel,Jewelry,womens watch,Electronics,karoke,Sports,guns,3098
+s1_category_class_00721.sql,1,s1_category_class,2002,Jewelry,pendants,Electronics,portable,Home,tables,Home,bedding,Sports,pools,Women,fragrances,3295
+s1_category_class_00722.sql,1,s1_category_class,2002,Electronics,stereo,Electronics,wireless,Home,bedding,Men,sports-apparel,Electronics,scanners,Books,science,3907
+s1_category_class_00723.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,rings,Sports,camping,Jewelry,loose stones,Sports,golf,Electronics,stereo,3230
+s1_category_class_00724.sql,1,s1_category_class,2002,Sports,baseball,Books,business,Sports,fitness,Electronics,memory,Electronics,dvd/vcr players,Electronics,portable,4261
+s1_category_class_00725.sql,1,s1_category_class,2002,Electronics,audio,Electronics,wireless,Electronics,memory,Electronics,televisions,Jewelry,mens watch,Jewelry,earings,4691
+s1_category_class_00726.sql,1,s1_category_class,2002,Home,curtains/drapes,Jewelry,pendants,Books,fiction,Men,sports-apparel,Electronics,stereo,Sports,basketball,3257
+s1_category_class_00727.sql,1,s1_category_class,2002,Home,glassware,Sports,golf,Sports,archery,Electronics,dvd/vcr players,Sports,tennis,Home,flatware,4008
+s1_category_class_00728.sql,1,s1_category_class,2002,Jewelry,womens watch,Books,computers,Sports,golf,Home,decor,Sports,basketball,Home,bedding,3368
+s1_category_class_00729.sql,1,s1_category_class,2002,Sports,baseball,Electronics,televisions,Home,tables,Sports,tennis,Women,fragrances,Jewelry,pendants,3439
+s1_category_class_00730.sql,1,s1_category_class,2002,Sports,guns,Electronics,dvd/vcr players,Sports,tennis,Electronics,karoke,Sports,pools,Books,mystery,4070
+s1_category_class_00731.sql,1,s1_category_class,2002,Jewelry,pendants,Books,reference,Books,mystery,Sports,camping,Sports,fishing,Women,fragrances,2595
+s1_category_class_00732.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,gold,Books,computers,Books,reference,Jewelry,mens watch,Electronics,stereo,2850
+s1_category_class_00733.sql,1,s1_category_class,2002,Women,fragrances,Home,curtains/drapes,Home,lighting,Electronics,portable,Men,sports-apparel,Electronics,stereo,3272
+s1_category_class_00734.sql,1,s1_category_class,2002,Electronics,televisions,Sports,golf,Electronics,memory,Jewelry,estate,Jewelry,bracelets,Electronics,karoke,4415
+s1_category_class_00735.sql,1,s1_category_class,2002,Jewelry,loose stones,Women,fragrances,Jewelry,estate,Jewelry,costume,Electronics,televisions,Sports,baseball,3113
+s1_category_class_00736.sql,1,s1_category_class,2002,Home,tables,Electronics,wireless,Jewelry,womens watch,Books,computers,Home,mattresses,Jewelry,gold,3446
+s1_category_class_00737.sql,1,s1_category_class,2002,Electronics,audio,Women,fragrances,Sports,baseball,Home,curtains/drapes,Home,bedding,Sports,pools,3531
+s1_category_class_00738.sql,1,s1_category_class,2002,Electronics,wireless,Sports,pools,Jewelry,loose stones,Books,mystery,Home,decor,Sports,football,3446
+s1_category_class_00739.sql,1,s1_category_class,2002,Electronics,portable,Sports,pools,Sports,camping,Men,sports-apparel,Sports,fishing,Jewelry,costume,3232
+s1_category_class_00740.sql,1,s1_category_class,2002,Women,fragrances,Home,tables,Books,science,Sports,pools,Home,glassware,Jewelry,bracelets,2872
+s1_category_class_00741.sql,1,s1_category_class,2002,Home,kids,Jewelry,rings,Home,curtains/drapes,Books,computers,Women,fragrances,Sports,baseball,2765
+s1_category_class_00742.sql,1,s1_category_class,2002,Sports,guns,Sports,fitness,Electronics,karoke,Home,decor,Home,curtains/drapes,Jewelry,womens watch,3762
+s1_category_class_00743.sql,1,s1_category_class,2002,Sports,basketball,Sports,fishing,Books,arts,Home,curtains/drapes,Women,fragrances,Home,tables,2950
+s1_category_class_00744.sql,1,s1_category_class,2002,Jewelry,costume,Electronics,televisions,Jewelry,bracelets,Home,mattresses,Home,tables,Electronics,wireless,4103
+s1_category_class_00745.sql,1,s1_category_class,2002,Home,mattresses,Electronics,karoke,Electronics,audio,Home,glassware,Sports,archery,Books,mystery,4165
+s1_category_class_00746.sql,1,s1_category_class,2002,Home,decor,Electronics,stereo,Sports,fishing,Sports,camping,Jewelry,pendants,Books,parenting,3669
+s1_category_class_00747.sql,1,s1_category_class,2002,Women,fragrances,Men,sports-apparel,Home,bedding,Electronics,scanners,Electronics,karoke,Electronics,audio,3710
+s1_category_class_00748.sql,1,s1_category_class,2002,Home,curtains/drapes,Electronics,audio,Electronics,stereo,Men,sports-apparel,Electronics,wireless,Sports,guns,4155
+s1_category_class_00749.sql,1,s1_category_class,2002,Books,computers,Sports,fitness,Sports,guns,Men,sports-apparel,Books,arts,Jewelry,costume,2519
+s1_category_class_00750.sql,1,s1_category_class,2002,Home,lighting,Women,fragrances,Home,tables,Sports,basketball,Electronics,scanners,Sports,archery,3418
+s1_category_class_00751.sql,1,s1_category_class,2002,Electronics,wireless,Men,sports-apparel,Electronics,stereo,Electronics,dvd/vcr players,Home,curtains/drapes,Jewelry,gold,4072
+s1_category_class_00752.sql,1,s1_category_class,2002,Home,curtains/drapes,Electronics,dvd/vcr players,Jewelry,consignment,Home,decor,Sports,basketball,Jewelry,bracelets,3830
+s1_category_class_00753.sql,1,s1_category_class,2002,Books,reference,Sports,fishing,Electronics,audio,Sports,golf,Home,bedding,Home,decor,3840
+s1_category_class_00754.sql,1,s1_category_class,2002,Sports,tennis,Jewelry,pendants,Books,business,Home,kids,Men,sports-apparel,Jewelry,consignment,2712
+s1_category_class_00755.sql,1,s1_category_class,2002,Electronics,audio,Jewelry,loose stones,Books,reference,Home,tables,Home,curtains/drapes,Home,mattresses,3620
+s1_category_class_00756.sql,1,s1_category_class,2002,Electronics,memory,Books,reference,Sports,basketball,Electronics,scanners,Sports,archery,Jewelry,costume,3886
+s1_category_class_00757.sql,1,s1_category_class,2002,Electronics,stereo,Home,glassware,Electronics,scanners,Home,mattresses,Jewelry,womens watch,Men,sports-apparel,3738
+s1_category_class_00758.sql,1,s1_category_class,2002,Sports,fishing,Books,reference,Men,sports-apparel,Electronics,memory,Electronics,audio,Books,arts,3391
+s1_category_class_00759.sql,1,s1_category_class,2002,Jewelry,pendants,Sports,guns,Sports,camping,Electronics,wireless,Books,mystery,Electronics,karoke,3848
+s1_category_class_00760.sql,1,s1_category_class,2002,Electronics,audio,Home,bedding,Home,tables,Electronics,scanners,Electronics,memory,Jewelry,pendants,4482
+s1_category_class_00761.sql,1,s1_category_class,2002,Books,reference,Electronics,memory,Home,mattresses,Electronics,stereo,Jewelry,rings,Home,lighting,3935
+s1_category_class_00762.sql,1,s1_category_class,2002,Sports,archery,Electronics,dvd/vcr players,Home,lighting,Home,bedding,Sports,golf,Sports,fitness,3987
+s1_category_class_00763.sql,1,s1_category_class,2002,Home,lighting,Home,glassware,Books,business,Women,fragrances,Home,decor,Jewelry,earings,2796
+s1_category_class_00764.sql,1,s1_category_class,2002,Electronics,televisions,Sports,archery,Home,decor,Jewelry,mens watch,Electronics,wireless,Jewelry,consignment,4052
+s1_category_class_00765.sql,1,s1_category_class,2002,Books,reference,Sports,camping,Electronics,dvd/vcr players,Jewelry,earings,Books,business,Home,tables,3400
+s1_category_class_00766.sql,1,s1_category_class,2002,Sports,golf,Home,mattresses,Home,bedding,Jewelry,costume,Electronics,dvd/vcr players,Books,reference,3748
+s1_category_class_00767.sql,1,s1_category_class,2002,Women,fragrances,Books,fiction,Sports,pools,Home,lighting,Men,sports-apparel,Electronics,audio,2826
+s1_category_class_00768.sql,1,s1_category_class,2002,Electronics,portable,Home,decor,Electronics,karoke,Sports,baseball,Books,computers,Sports,guns,3906
+s1_category_class_00769.sql,1,s1_category_class,2002,Books,mystery,Books,reference,Sports,pools,Home,bedding,Books,fiction,Jewelry,gold,2808
+s1_category_class_00770.sql,1,s1_category_class,2002,Home,glassware,Books,mystery,Men,sports-apparel,Women,fragrances,Books,business,Jewelry,consignment,2164
+s1_category_class_00771.sql,1,s1_category_class,2002,Sports,golf,Home,decor,Books,reference,Home,glassware,Electronics,memory,Electronics,wireless,4056
+s1_category_class_00772.sql,1,s1_category_class,2002,Books,reference,Electronics,wireless,Jewelry,rings,Home,glassware,Women,fragrances,Home,curtains/drapes,3138
+s1_category_class_00773.sql,1,s1_category_class,2002,Jewelry,mens watch,Jewelry,gold,Jewelry,consignment,Electronics,audio,Books,reference,Electronics,televisions,3775
+s1_category_class_00774.sql,1,s1_category_class,2002,Books,computers,Sports,fitness,Electronics,stereo,Sports,basketball,Jewelry,costume,Home,lighting,3691
+s1_category_class_00775.sql,1,s1_category_class,2002,Home,curtains/drapes,Books,mystery,Home,kids,Electronics,scanners,Home,lighting,Jewelry,gold,3429
+s1_category_class_00776.sql,1,s1_category_class,2002,Sports,tennis,Home,curtains/drapes,Sports,pools,Home,decor,Women,fragrances,Electronics,portable,3371
+s1_category_class_00777.sql,1,s1_category_class,2002,Women,fragrances,Electronics,televisions,Sports,tennis,Books,computers,Home,flatware,Home,glassware,3287
+s1_category_class_00778.sql,1,s1_category_class,2002,Electronics,scanners,Jewelry,rings,Electronics,dvd/vcr players,Home,bedding,Sports,pools,Electronics,audio,4533
+s1_category_class_00779.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Jewelry,loose stones,Books,reference,Books,parenting,Home,bedding,Jewelry,earings,3271
+s1_category_class_00780.sql,1,s1_category_class,2002,Books,reference,Electronics,karoke,Jewelry,bracelets,Men,sports-apparel,Sports,guns,Home,tables,3137
+s1_category_class_00781.sql,1,s1_category_class,2002,Jewelry,bracelets,Sports,tennis,Women,fragrances,Home,glassware,Home,bedding,Books,fiction,2898
+s1_category_class_00782.sql,1,s1_category_class,2002,Home,bedding,Jewelry,estate,Sports,basketball,Home,lighting,Sports,golf,Home,tables,3527
+s1_category_class_00783.sql,1,s1_category_class,2002,Jewelry,costume,Electronics,stereo,Jewelry,pendants,Sports,baseball,Sports,basketball,Jewelry,earings,3711
+s1_category_class_00784.sql,1,s1_category_class,2002,Books,reference,Jewelry,costume,Home,bedding,Sports,golf,Home,mattresses,Home,glassware,3386
+s1_category_class_00785.sql,1,s1_category_class,2002,Home,decor,Electronics,karoke,Women,fragrances,Jewelry,estate,Jewelry,mens watch,Sports,baseball,3260
+s1_category_class_00786.sql,1,s1_category_class,2002,Books,arts,Electronics,stereo,Electronics,karoke,Jewelry,rings,Jewelry,pendants,Sports,golf,3946
+s1_category_class_00787.sql,1,s1_category_class,2002,Jewelry,loose stones,Jewelry,bracelets,Jewelry,consignment,Jewelry,gold,Books,parenting,Books,business,2631
+s1_category_class_00788.sql,1,s1_category_class,2002,Jewelry,womens watch,Electronics,stereo,Women,fragrances,Sports,tennis,Books,parenting,Sports,baseball,3233
+s1_category_class_00789.sql,1,s1_category_class,2002,Home,bedding,Electronics,stereo,Sports,basketball,Home,kids,Home,glassware,Sports,tennis,4073
+s1_category_class_00790.sql,1,s1_category_class,2002,Jewelry,rings,Jewelry,estate,Men,sports-apparel,Sports,tennis,Women,fragrances,Sports,basketball,2461
+s1_category_class_00791.sql,1,s1_category_class,2002,Home,lighting,Sports,pools,Home,curtains/drapes,Jewelry,bracelets,Women,fragrances,Jewelry,costume,2925
+s1_category_class_00792.sql,1,s1_category_class,2002,Books,computers,Books,mystery,Jewelry,earings,Electronics,stereo,Home,glassware,Books,reference,3257
+s1_category_class_00793.sql,1,s1_category_class,2002,Electronics,memory,Electronics,portable,Jewelry,costume,Women,fragrances,Books,reference,Books,business,3140
+s1_category_class_00794.sql,1,s1_category_class,2002,Home,lighting,Jewelry,womens watch,Sports,pools,Jewelry,estate,Jewelry,pendants,Home,kids,3228
+s1_category_class_00795.sql,1,s1_category_class,2002,Home,flatware,Electronics,memory,Home,tables,Electronics,wireless,Men,sports-apparel,Sports,basketball,3710
+s1_category_class_00796.sql,1,s1_category_class,2002,Books,reference,Women,fragrances,Jewelry,pendants,Home,decor,Sports,baseball,Books,fiction,2639
+s1_category_class_00797.sql,1,s1_category_class,2002,Jewelry,loose stones,Books,arts,Men,sports-apparel,Electronics,karoke,Jewelry,gold,Sports,fitness,2918
+s1_category_class_00798.sql,1,s1_category_class,2002,Books,fiction,Sports,camping,Men,sports-apparel,Jewelry,pendants,Home,mattresses,Home,lighting,2777
+s1_category_class_00799.sql,1,s1_category_class,2002,Home,kids,Women,fragrances,Home,glassware,Books,computers,Jewelry,bracelets,Jewelry,womens watch,2750
+s1_category_class_00800.sql,1,s1_category_class,2002,Electronics,wireless,Books,fiction,Women,fragrances,Sports,fishing,Electronics,portable,Men,sports-apparel,2992
+s1_category_class_00801.sql,1,s1_category_class,2002,Electronics,televisions,Home,flatware,Jewelry,womens watch,Sports,tennis,Sports,fishing,Men,sports-apparel,3358
+s1_category_class_00802.sql,1,s1_category_class,2002,Sports,fishing,Electronics,scanners,Sports,football,Home,curtains/drapes,Sports,golf,Sports,camping,3779
+s1_category_class_00803.sql,1,s1_category_class,2002,Electronics,televisions,Electronics,dvd/vcr players,Home,glassware,Sports,baseball,Women,fragrances,Books,arts,3711
+s1_category_class_00804.sql,1,s1_category_class,2002,Women,fragrances,Sports,baseball,Electronics,dvd/vcr players,Sports,football,Books,mystery,Home,curtains/drapes,3238
+s1_category_class_00805.sql,1,s1_category_class,2002,Sports,baseball,Books,fiction,Women,fragrances,Electronics,stereo,Men,sports-apparel,Jewelry,gold,2701
+s1_category_class_00806.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,memory,Home,curtains/drapes,Women,fragrances,Electronics,stereo,Jewelry,pendants,3270
+s1_category_class_00807.sql,1,s1_category_class,2002,Sports,archery,Books,mystery,Electronics,karoke,Electronics,audio,Home,mattresses,Home,lighting,4108
+s1_category_class_00808.sql,1,s1_category_class,2002,Home,glassware,Men,sports-apparel,Home,curtains/drapes,Jewelry,womens watch,Electronics,stereo,Books,fiction,3247
+s1_category_class_00809.sql,1,s1_category_class,2002,Home,tables,Sports,baseball,Electronics,wireless,Sports,basketball,Books,computers,Men,sports-apparel,3268
+s1_category_class_00810.sql,1,s1_category_class,2002,Books,parenting,Electronics,memory,Women,fragrances,Electronics,dvd/vcr players,Sports,guns,Sports,camping,3496
+s1_category_class_00811.sql,1,s1_category_class,2002,Electronics,portable,Sports,tennis,Electronics,karoke,Home,curtains/drapes,Books,computers,Jewelry,gold,3820
+s1_category_class_00812.sql,1,s1_category_class,2002,Home,decor,Home,bedding,Electronics,scanners,Books,fiction,Women,fragrances,Jewelry,pendants,3125
+s1_category_class_00813.sql,1,s1_category_class,2002,Electronics,portable,Books,mystery,Jewelry,costume,Books,science,Books,parenting,Sports,guns,3008
+s1_category_class_00814.sql,1,s1_category_class,2002,Books,fiction,Jewelry,rings,Jewelry,womens watch,Home,mattresses,Home,glassware,Sports,fitness,3167
+s1_category_class_00815.sql,1,s1_category_class,2002,Books,science,Sports,pools,Jewelry,earings,Books,fiction,Books,computers,Men,sports-apparel,2343
+s1_category_class_00816.sql,1,s1_category_class,2002,Jewelry,mens watch,Jewelry,bracelets,Sports,pools,Sports,tennis,Jewelry,pendants,Sports,baseball,3311
+s1_category_class_00817.sql,1,s1_category_class,2002,Books,business,Electronics,wireless,Jewelry,rings,Home,decor,Jewelry,loose stones,Electronics,dvd/vcr players,3787
+s1_category_class_00818.sql,1,s1_category_class,2002,Home,tables,Men,sports-apparel,Jewelry,bracelets,Sports,tennis,Sports,fitness,Jewelry,pendants,2958
+s1_category_class_00819.sql,1,s1_category_class,2002,Women,fragrances,Home,lighting,Jewelry,loose stones,Electronics,stereo,Home,glassware,Electronics,memory,3671
+s1_category_class_00820.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Sports,golf,Jewelry,gold,Electronics,audio,Women,fragrances,Jewelry,estate,3667
+s1_category_class_00821.sql,1,s1_category_class,2002,Electronics,karoke,Jewelry,pendants,Men,sports-apparel,Home,lighting,Electronics,portable,Women,fragrances,3152
+s1_category_class_00822.sql,1,s1_category_class,2002,Home,bedding,Sports,tennis,Books,mystery,Home,curtains/drapes,Jewelry,pendants,Jewelry,mens watch,3197
+s1_category_class_00823.sql,1,s1_category_class,2002,Sports,camping,Electronics,dvd/vcr players,Home,bedding,Sports,golf,Jewelry,mens watch,Jewelry,consignment,3780
+s1_category_class_00824.sql,1,s1_category_class,2002,Electronics,wireless,Books,parenting,Home,tables,Jewelry,pendants,Women,fragrances,Electronics,portable,3372
+s1_category_class_00825.sql,1,s1_category_class,2002,Home,decor,Electronics,stereo,Women,fragrances,Sports,fitness,Sports,camping,Electronics,wireless,3797
+s1_category_class_00826.sql,1,s1_category_class,2002,Books,computers,Books,mystery,Sports,camping,Electronics,wireless,Jewelry,gold,Home,flatware,3221
+s1_category_class_00827.sql,1,s1_category_class,2002,Jewelry,estate,Home,decor,Electronics,karoke,Sports,golf,Books,parenting,Jewelry,gold,3483
+s1_category_class_00828.sql,1,s1_category_class,2002,Men,sports-apparel,Home,bedding,Home,flatware,Electronics,scanners,Books,science,Home,curtains/drapes,3133
+s1_category_class_00829.sql,1,s1_category_class,2002,Jewelry,mens watch,Books,parenting,Sports,pools,Home,bedding,Jewelry,loose stones,Women,fragrances,2642
+s1_category_class_00830.sql,1,s1_category_class,2002,Home,decor,Jewelry,gold,Sports,fishing,Electronics,dvd/vcr players,Sports,fitness,Books,reference,3621
+s1_category_class_00831.sql,1,s1_category_class,2002,Books,parenting,Books,reference,Jewelry,consignment,Jewelry,mens watch,Home,glassware,Electronics,dvd/vcr players,3387
+s1_category_class_00832.sql,1,s1_category_class,2002,Jewelry,mens watch,Men,sports-apparel,Home,glassware,Sports,baseball,Jewelry,estate,Jewelry,womens watch,2821
+s1_category_class_00833.sql,1,s1_category_class,2002,Electronics,audio,Jewelry,earings,Sports,baseball,Home,curtains/drapes,Electronics,karoke,Sports,pools,4190
+s1_category_class_00834.sql,1,s1_category_class,2002,Jewelry,pendants,Jewelry,consignment,Women,fragrances,Sports,fishing,Books,computers,Books,fiction,2524
+s1_category_class_00835.sql,1,s1_category_class,2002,Home,bedding,Jewelry,bracelets,Sports,fitness,Sports,golf,Books,reference,Home,kids,3298
+s1_category_class_00836.sql,1,s1_category_class,2002,Home,tables,Jewelry,mens watch,Jewelry,pendants,Home,glassware,Sports,fitness,Electronics,memory,3706
+s1_category_class_00837.sql,1,s1_category_class,2002,Women,fragrances,Books,science,Home,bedding,Sports,golf,Books,fiction,Jewelry,costume,2663
+s1_category_class_00838.sql,1,s1_category_class,2002,Sports,archery,Women,fragrances,Jewelry,estate,Jewelry,gold,Books,science,Books,parenting,2411
+s1_category_class_00839.sql,1,s1_category_class,2002,Jewelry,estate,Sports,tennis,Sports,golf,Home,curtains/drapes,Electronics,wireless,Sports,camping,3768
+s1_category_class_00840.sql,1,s1_category_class,2002,Men,sports-apparel,Books,parenting,Books,computers,Books,arts,Home,bedding,Sports,guns,2424
+s1_category_class_00841.sql,1,s1_category_class,2002,Books,parenting,Sports,camping,Books,science,Home,tables,Sports,golf,Electronics,televisions,3528
+s1_category_class_00842.sql,1,s1_category_class,2002,Home,curtains/drapes,Women,fragrances,Jewelry,womens watch,Sports,camping,Home,glassware,Jewelry,estate,2899
+s1_category_class_00843.sql,1,s1_category_class,2002,Electronics,televisions,Home,glassware,Jewelry,gold,Books,computers,Women,fragrances,Sports,fishing,3174
+s1_category_class_00844.sql,1,s1_category_class,2002,Men,sports-apparel,Sports,camping,Women,fragrances,Sports,guns,Sports,archery,Electronics,dvd/vcr players,2960
+s1_category_class_00845.sql,1,s1_category_class,2002,Sports,basketball,Men,sports-apparel,Home,lighting,Women,fragrances,Books,arts,Books,computers,2252
+s1_category_class_00846.sql,1,s1_category_class,2002,Sports,fishing,Men,sports-apparel,Books,computers,Sports,baseball,Jewelry,womens watch,Jewelry,loose stones,2652
+s1_category_class_00847.sql,1,s1_category_class,2002,Women,fragrances,Sports,golf,Books,fiction,Electronics,scanners,Books,mystery,Electronics,portable,3217
+s1_category_class_00848.sql,1,s1_category_class,2002,Home,bedding,Electronics,karoke,Sports,camping,Sports,pools,Electronics,wireless,Electronics,dvd/vcr players,4634
+s1_category_class_00849.sql,1,s1_category_class,2002,Sports,pools,Books,business,Electronics,dvd/vcr players,Sports,football,Women,fragrances,Jewelry,pendants,3156
+s1_category_class_00850.sql,1,s1_category_class,2002,Home,glassware,Sports,basketball,Men,sports-apparel,Home,lighting,Electronics,portable,Sports,golf,3429
+s1_category_class_00851.sql,1,s1_category_class,2002,Home,glassware,Electronics,audio,Sports,archery,Home,decor,Men,sports-apparel,Electronics,televisions,3933
+s1_category_class_00852.sql,1,s1_category_class,2002,Electronics,memory,Jewelry,pendants,Men,sports-apparel,Jewelry,earings,Home,glassware,Books,computers,3016
+s1_category_class_00853.sql,1,s1_category_class,2002,Home,bedding,Jewelry,womens watch,Home,curtains/drapes,Electronics,dvd/vcr players,Sports,fishing,Electronics,stereo,4306
+s1_category_class_00854.sql,1,s1_category_class,2002,Books,mystery,Sports,pools,Books,computers,Books,science,Sports,guns,Jewelry,pendants,2787
+s1_category_class_00855.sql,1,s1_category_class,2002,Home,kids,Sports,basketball,Sports,golf,Sports,camping,Electronics,stereo,Sports,tennis,4012
+s1_category_class_00856.sql,1,s1_category_class,2002,Books,fiction,Women,fragrances,Books,science,Jewelry,bracelets,Home,decor,Sports,tennis,2641
+s1_category_class_00857.sql,1,s1_category_class,2002,Jewelry,bracelets,Electronics,stereo,Sports,football,Home,lighting,Sports,fishing,Sports,baseball,3821
+s1_category_class_00858.sql,1,s1_category_class,2002,Electronics,stereo,Women,fragrances,Sports,golf,Home,glassware,Electronics,wireless,Electronics,scanners,4172
+s1_category_class_00859.sql,1,s1_category_class,2002,Sports,pools,Jewelry,pendants,Sports,fishing,Home,bedding,Jewelry,estate,Sports,golf,3417
+s1_category_class_00860.sql,1,s1_category_class,2002,Men,sports-apparel,Home,glassware,Jewelry,estate,Electronics,dvd/vcr players,Electronics,wireless,Home,bedding,3757
+s1_category_class_00861.sql,1,s1_category_class,2002,Books,computers,Electronics,scanners,Home,bedding,Women,fragrances,Jewelry,costume,Books,business,2902
+s1_category_class_00862.sql,1,s1_category_class,2002,Jewelry,pendants,Men,sports-apparel,Jewelry,earings,Sports,fishing,Books,business,Sports,camping,2649
+s1_category_class_00863.sql,1,s1_category_class,2002,Jewelry,consignment,Books,fiction,Jewelry,pendants,Home,mattresses,Books,science,Jewelry,bracelets,2887
+s1_category_class_00864.sql,1,s1_category_class,2002,Electronics,stereo,Jewelry,costume,Sports,tennis,Home,curtains/drapes,Sports,archery,Home,decor,3923
+s1_category_class_00865.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,womens watch,Home,lighting,Books,mystery,Electronics,karoke,Jewelry,costume,3070
+s1_category_class_00866.sql,1,s1_category_class,2002,Electronics,televisions,Women,fragrances,Home,flatware,Books,mystery,Jewelry,bracelets,Men,sports-apparel,2672
+s1_category_class_00867.sql,1,s1_category_class,2002,Home,decor,Home,curtains/drapes,Home,mattresses,Women,fragrances,Electronics,stereo,Jewelry,consignment,3438
+s1_category_class_00868.sql,1,s1_category_class,2002,Home,lighting,Books,reference,Home,curtains/drapes,Home,kids,Sports,tennis,Women,fragrances,2896
+s1_category_class_00869.sql,1,s1_category_class,2002,Home,curtains/drapes,Sports,pools,Jewelry,gold,Sports,tennis,Women,fragrances,Jewelry,mens watch,2865
+s1_category_class_00870.sql,1,s1_category_class,2002,Jewelry,rings,Women,fragrances,Sports,pools,Electronics,karoke,Home,glassware,Men,sports-apparel,2935
+s1_category_class_00871.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,wireless,Home,tables,Home,mattresses,Women,fragrances,Jewelry,womens watch,2892
+s1_category_class_00872.sql,1,s1_category_class,2002,Electronics,audio,Sports,archery,Jewelry,mens watch,Books,fiction,Home,lighting,Books,reference,3432
+s1_category_class_00873.sql,1,s1_category_class,2002,Home,decor,Men,sports-apparel,Home,curtains/drapes,Home,glassware,Electronics,scanners,Jewelry,gold,3275
+s1_category_class_00874.sql,1,s1_category_class,2002,Sports,golf,Electronics,stereo,Books,computers,Books,mystery,Sports,archery,Men,sports-apparel,3127
+s1_category_class_00875.sql,1,s1_category_class,2002,Sports,camping,Electronics,karoke,Women,fragrances,Electronics,televisions,Men,sports-apparel,Books,computers,3156
+s1_category_class_00876.sql,1,s1_category_class,2002,Jewelry,consignment,Electronics,dvd/vcr players,Electronics,scanners,Electronics,wireless,Books,parenting,Sports,tennis,4254
+s1_category_class_00877.sql,1,s1_category_class,2002,Electronics,portable,Sports,golf,Jewelry,bracelets,Sports,basketball,Home,flatware,Home,bedding,3746
+s1_category_class_00878.sql,1,s1_category_class,2002,Jewelry,womens watch,Jewelry,rings,Books,fiction,Electronics,portable,Home,glassware,Home,decor,3420
+s1_category_class_00879.sql,1,s1_category_class,2002,Electronics,karoke,Women,fragrances,Books,computers,Jewelry,rings,Electronics,scanners,Home,decor,3433
+s1_category_class_00880.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,televisions,Books,business,Sports,camping,Electronics,stereo,Books,mystery,3425
+s1_category_class_00881.sql,1,s1_category_class,2002,Books,business,Women,fragrances,Books,parenting,Men,sports-apparel,Jewelry,rings,Jewelry,womens watch,2005
+s1_category_class_00882.sql,1,s1_category_class,2002,Electronics,karoke,Home,flatware,Home,kids,Women,fragrances,Sports,tennis,Jewelry,mens watch,3318
+s1_category_class_00883.sql,1,s1_category_class,2002,Jewelry,bracelets,Jewelry,earings,Sports,fishing,Men,sports-apparel,Books,computers,Books,parenting,2472
+s1_category_class_00884.sql,1,s1_category_class,2002,Jewelry,loose stones,Men,sports-apparel,Jewelry,rings,Women,fragrances,Home,flatware,Books,parenting,2097
+s1_category_class_00885.sql,1,s1_category_class,2002,Electronics,scanners,Jewelry,gold,Sports,pools,Home,flatware,Electronics,stereo,Home,tables,4051
+s1_category_class_00886.sql,1,s1_category_class,2002,Electronics,scanners,Sports,fishing,Home,flatware,Home,bedding,Books,science,Sports,tennis,3622
+s1_category_class_00887.sql,1,s1_category_class,2002,Electronics,wireless,Books,mystery,Books,fiction,Home,mattresses,Jewelry,gold,Sports,archery,3306
+s1_category_class_00888.sql,1,s1_category_class,2002,Home,flatware,Sports,fishing,Women,fragrances,Home,glassware,Books,science,Sports,football,2838
+s1_category_class_00889.sql,1,s1_category_class,2002,Sports,football,Women,fragrances,Books,fiction,Jewelry,rings,Sports,camping,Men,sports-apparel,2228
+s1_category_class_00890.sql,1,s1_category_class,2002,Sports,tennis,Home,bedding,Jewelry,costume,Electronics,dvd/vcr players,Women,fragrances,Men,sports-apparel,3016
+s1_category_class_00891.sql,1,s1_category_class,2002,Books,mystery,Sports,camping,Jewelry,estate,Electronics,memory,Electronics,karoke,Sports,golf,3884
+s1_category_class_00892.sql,1,s1_category_class,2002,Sports,tennis,Sports,golf,Sports,camping,Sports,guns,Electronics,portable,Electronics,dvd/vcr players,4151
+s1_category_class_00893.sql,1,s1_category_class,2002,Electronics,televisions,Books,reference,Women,fragrances,Home,mattresses,Jewelry,bracelets,Sports,fitness,3190
+s1_category_class_00894.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,loose stones,Sports,baseball,Electronics,portable,Electronics,dvd/vcr players,Sports,camping,3546
+s1_category_class_00895.sql,1,s1_category_class,2002,Electronics,scanners,Sports,guns,Sports,baseball,Books,parenting,Jewelry,consignment,Men,sports-apparel,2998
+s1_category_class_00896.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,mens watch,Home,lighting,Sports,basketball,Books,mystery,Electronics,wireless,3114
+s1_category_class_00897.sql,1,s1_category_class,2002,Electronics,audio,Electronics,karoke,Sports,tennis,Jewelry,rings,Jewelry,womens watch,Sports,basketball,4168
+s1_category_class_00898.sql,1,s1_category_class,2002,Sports,fitness,Home,mattresses,Books,parenting,Women,fragrances,Jewelry,rings,Sports,basketball,2801
+s1_category_class_00899.sql,1,s1_category_class,2002,Women,fragrances,Sports,fishing,Home,mattresses,Sports,basketball,Sports,archery,Electronics,stereo,3573
+s1_category_class_00900.sql,1,s1_category_class,2002,Books,computers,Sports,golf,Electronics,karoke,Jewelry,consignment,Home,kids,Sports,fitness,3622
+s1_category_class_00901.sql,1,s1_category_class,2002,Home,glassware,Books,fiction,Home,bedding,Sports,fishing,Electronics,dvd/vcr players,Electronics,televisions,4198
+s1_category_class_00902.sql,1,s1_category_class,2002,Sports,archery,Sports,fishing,Electronics,stereo,Jewelry,pendants,Electronics,wireless,Jewelry,bracelets,4126
+s1_category_class_00903.sql,1,s1_category_class,2002,Men,sports-apparel,Electronics,portable,Sports,basketball,Electronics,memory,Books,computers,Books,fiction,3252
+s1_category_class_00904.sql,1,s1_category_class,2002,Jewelry,pendants,Home,tables,Jewelry,womens watch,Sports,baseball,Electronics,scanners,Books,arts,3458
+s1_category_class_00905.sql,1,s1_category_class,2002,Books,reference,Men,sports-apparel,Jewelry,mens watch,Jewelry,loose stones,Electronics,portable,Women,fragrances,2410
+s1_category_class_00906.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Women,fragrances,Books,parenting,Home,decor,Sports,basketball,Jewelry,bracelets,3266
+s1_category_class_00907.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Sports,tennis,Women,fragrances,Jewelry,gold,Sports,fitness,Sports,fishing,3372
+s1_category_class_00908.sql,1,s1_category_class,2002,Jewelry,pendants,Books,parenting,Home,mattresses,Men,sports-apparel,Books,computers,Jewelry,gold,2462
+s1_category_class_00909.sql,1,s1_category_class,2002,Electronics,stereo,Men,sports-apparel,Home,bedding,Electronics,memory,Sports,tennis,Electronics,dvd/vcr players,4251
+s1_category_class_00910.sql,1,s1_category_class,2002,Home,mattresses,Home,tables,Sports,pools,Books,reference,Jewelry,mens watch,Books,science,3070
+s1_category_class_00911.sql,1,s1_category_class,2002,Jewelry,costume,Women,fragrances,Home,tables,Home,bedding,Home,kids,Men,sports-apparel,2590
+s1_category_class_00912.sql,1,s1_category_class,2002,Sports,football,Home,decor,Sports,basketball,Home,kids,Women,fragrances,Jewelry,mens watch,2974
+s1_category_class_00913.sql,1,s1_category_class,2002,Men,sports-apparel,Home,kids,Electronics,televisions,Women,fragrances,Electronics,dvd/vcr players,Books,parenting,3195
+s1_category_class_00914.sql,1,s1_category_class,2002,Sports,baseball,Electronics,scanners,Jewelry,gold,Home,lighting,Electronics,stereo,Men,sports-apparel,3618
+s1_category_class_00915.sql,1,s1_category_class,2002,Books,science,Men,sports-apparel,Electronics,televisions,Home,tables,Home,decor,Sports,guns,3230
+s1_category_class_00916.sql,1,s1_category_class,2002,Jewelry,mens watch,Electronics,portable,Electronics,stereo,Electronics,memory,Women,fragrances,Sports,camping,3903
+s1_category_class_00917.sql,1,s1_category_class,2002,Electronics,stereo,Jewelry,bracelets,Home,glassware,Books,parenting,Electronics,portable,Women,fragrances,3491
+s1_category_class_00918.sql,1,s1_category_class,2002,Jewelry,loose stones,Electronics,dvd/vcr players,Sports,pools,Home,tables,Jewelry,bracelets,Books,reference,3532
+s1_category_class_00919.sql,1,s1_category_class,2002,Electronics,audio,Electronics,wireless,Home,kids,Jewelry,consignment,Home,decor,Home,bedding,4192
+s1_category_class_00920.sql,1,s1_category_class,2002,Sports,guns,Women,fragrances,Home,tables,Electronics,wireless,Books,fiction,Jewelry,consignment,3060
+s1_category_class_00921.sql,1,s1_category_class,2002,Sports,golf,Sports,baseball,Women,fragrances,Home,curtains/drapes,Jewelry,gold,Home,decor,3003
+s1_category_class_00922.sql,1,s1_category_class,2002,Women,fragrances,Electronics,wireless,Sports,pools,Home,bedding,Jewelry,costume,Books,fiction,3151
+s1_category_class_00923.sql,1,s1_category_class,2002,Jewelry,consignment,Electronics,dvd/vcr players,Jewelry,mens watch,Electronics,stereo,Home,lighting,Sports,archery,4151
+s1_category_class_00924.sql,1,s1_category_class,2002,Electronics,audio,Women,fragrances,Electronics,televisions,Jewelry,loose stones,Sports,football,Books,reference,3457
+s1_category_class_00925.sql,1,s1_category_class,2002,Jewelry,rings,Sports,golf,Home,bedding,Electronics,wireless,Jewelry,costume,Electronics,televisions,4093
+s1_category_class_00926.sql,1,s1_category_class,2002,Books,parenting,Jewelry,pendants,Electronics,wireless,Books,fiction,Women,fragrances,Books,science,2708
+s1_category_class_00927.sql,1,s1_category_class,2002,Electronics,memory,Men,sports-apparel,Jewelry,consignment,Sports,football,Books,mystery,Jewelry,womens watch,2928
+s1_category_class_00928.sql,1,s1_category_class,2002,Books,fiction,Home,decor,Sports,guns,Books,business,Books,parenting,Sports,baseball,2875
+s1_category_class_00929.sql,1,s1_category_class,2002,Men,sports-apparel,Jewelry,womens watch,Home,bedding,Women,fragrances,Jewelry,costume,Electronics,wireless,2809
+s1_category_class_00930.sql,1,s1_category_class,2002,Books,business,Jewelry,mens watch,Jewelry,rings,Jewelry,consignment,Women,fragrances,Sports,tennis,2583
+s1_category_class_00931.sql,1,s1_category_class,2002,Men,sports-apparel,Women,fragrances,Home,bedding,Books,parenting,Sports,camping,Books,arts,2212
+s1_category_class_00932.sql,1,s1_category_class,2002,Jewelry,earings,Home,flatware,Men,sports-apparel,Electronics,scanners,Home,kids,Electronics,portable,3397
+s1_category_class_00933.sql,1,s1_category_class,2002,Home,bedding,Men,sports-apparel,Jewelry,estate,Home,glassware,Books,fiction,Sports,baseball,2836
+s1_category_class_00934.sql,1,s1_category_class,2002,Men,sports-apparel,Women,fragrances,Jewelry,loose stones,Electronics,portable,Books,mystery,Electronics,stereo,2910
+s1_category_class_00935.sql,1,s1_category_class,2002,Books,reference,Electronics,karoke,Sports,baseball,Women,fragrances,Jewelry,mens watch,Jewelry,loose stones,3007
+s1_category_class_00936.sql,1,s1_category_class,2002,Electronics,televisions,Electronics,audio,Men,sports-apparel,Home,tables,Jewelry,costume,Electronics,memory,4104
+s1_category_class_00937.sql,1,s1_category_class,2002,Jewelry,bracelets,Books,business,Books,reference,Women,fragrances,Men,sports-apparel,Jewelry,gold,2002
+s1_category_class_00938.sql,1,s1_category_class,2002,Sports,guns,Electronics,scanners,Jewelry,gold,Electronics,audio,Home,bedding,Jewelry,pendants,3954
+s1_category_class_00939.sql,1,s1_category_class,2002,Electronics,portable,Jewelry,costume,Books,reference,Electronics,stereo,Men,sports-apparel,Books,mystery,3250
+s1_category_class_00940.sql,1,s1_category_class,2002,Women,fragrances,Home,glassware,Sports,guns,Sports,basketball,Home,lighting,Electronics,audio,3506
+s1_category_class_00941.sql,1,s1_category_class,2002,Women,fragrances,Books,business,Books,computers,Jewelry,womens watch,Men,sports-apparel,Electronics,dvd/vcr players,2542
+s1_category_class_00942.sql,1,s1_category_class,2002,Sports,archery,Jewelry,costume,Electronics,dvd/vcr players,Sports,golf,Sports,fitness,Women,fragrances,3448
+s1_category_class_00943.sql,1,s1_category_class,2002,Men,sports-apparel,Sports,tennis,Sports,football,Books,fiction,Women,fragrances,Home,decor,2416
+s1_category_class_00944.sql,1,s1_category_class,2002,Jewelry,gold,Men,sports-apparel,Jewelry,bracelets,Books,computers,Home,kids,Sports,baseball,2649
+s1_category_class_00945.sql,1,s1_category_class,2002,Sports,football,Jewelry,earings,Men,sports-apparel,Books,fiction,Sports,tennis,Electronics,karoke,3082
+s1_category_class_00946.sql,1,s1_category_class,2002,Home,tables,Books,science,Electronics,karoke,Jewelry,rings,Electronics,audio,Men,sports-apparel,3554
+s1_category_class_00947.sql,1,s1_category_class,2002,Electronics,portable,Women,fragrances,Sports,golf,Jewelry,consignment,Jewelry,pendants,Men,sports-apparel,2733
+s1_category_class_00948.sql,1,s1_category_class,2002,Sports,pools,Electronics,dvd/vcr players,Women,fragrances,Electronics,televisions,Men,sports-apparel,Electronics,stereo,3834
+s1_category_class_00949.sql,1,s1_category_class,2002,Jewelry,gold,Sports,fitness,Home,tables,Jewelry,pendants,Electronics,dvd/vcr players,Books,science,3522
+s1_category_class_00950.sql,1,s1_category_class,2002,Home,glassware,Home,curtains/drapes,Home,bedding,Men,sports-apparel,Jewelry,consignment,Electronics,wireless,3376
+s1_category_class_00951.sql,1,s1_category_class,2002,Jewelry,gold,Jewelry,mens watch,Jewelry,pendants,Books,mystery,Sports,fitness,Sports,guns,2922
+s1_category_class_00952.sql,1,s1_category_class,2002,Sports,fitness,Sports,golf,Electronics,stereo,Electronics,karoke,Men,sports-apparel,Sports,baseball,3897
+s1_category_class_00953.sql,1,s1_category_class,2002,Women,fragrances,Jewelry,estate,Jewelry,consignment,Jewelry,womens watch,Jewelry,pendants,Sports,tennis,2730
+s1_category_class_00954.sql,1,s1_category_class,2002,Electronics,scanners,Electronics,wireless,Sports,tennis,Sports,baseball,Sports,golf,Jewelry,consignment,4099
+s1_category_class_00955.sql,1,s1_category_class,2002,Jewelry,earings,Electronics,karoke,Electronics,audio,Home,curtains/drapes,Jewelry,loose stones,Home,mattresses,4030
+s1_category_class_00956.sql,1,s1_category_class,2002,Sports,golf,Books,fiction,Home,curtains/drapes,Women,fragrances,Electronics,televisions,Sports,guns,3233
+s1_category_class_00957.sql,1,s1_category_class,2002,Electronics,wireless,Books,computers,Sports,fitness,Home,mattresses,Home,tables,Home,lighting,3661
+s1_category_class_00958.sql,1,s1_category_class,2002,Sports,tennis,Home,kids,Men,sports-apparel,Books,computers,Jewelry,costume,Women,fragrances,2370
+s1_category_class_00959.sql,1,s1_category_class,2002,Electronics,karoke,Sports,archery,Home,bedding,Sports,baseball,Jewelry,loose stones,Sports,basketball,3826
+s1_category_class_00960.sql,1,s1_category_class,2002,Jewelry,costume,Jewelry,bracelets,Home,glassware,Home,bedding,Sports,fishing,Electronics,audio,3868
+s1_category_class_00961.sql,1,s1_category_class,2002,Electronics,stereo,Women,fragrances,Home,kids,Sports,camping,Books,fiction,Home,lighting,3245
+s1_category_class_00962.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Home,bedding,Electronics,televisions,Jewelry,consignment,Books,computers,Home,curtains/drapes,4052
+s1_category_class_00963.sql,1,s1_category_class,2002,Home,curtains/drapes,Books,reference,Jewelry,womens watch,Home,bedding,Sports,basketball,Men,sports-apparel,2868
+s1_category_class_00964.sql,1,s1_category_class,2002,Jewelry,costume,Sports,pools,Sports,baseball,Home,curtains/drapes,Books,mystery,Books,parenting,3053
+s1_category_class_00965.sql,1,s1_category_class,2002,Books,reference,Sports,golf,Women,fragrances,Electronics,karoke,Electronics,wireless,Home,kids,3603
+s1_category_class_00966.sql,1,s1_category_class,2002,Jewelry,womens watch,Jewelry,gold,Home,glassware,Women,fragrances,Sports,archery,Home,bedding,2926
+s1_category_class_00967.sql,1,s1_category_class,2002,Books,arts,Sports,football,Sports,tennis,Books,fiction,Home,kids,Books,computers,2873
+s1_category_class_00968.sql,1,s1_category_class,2002,Home,curtains/drapes,Sports,golf,Books,mystery,Jewelry,gold,Men,sports-apparel,Sports,basketball,2803
+s1_category_class_00969.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Electronics,scanners,Men,sports-apparel,Women,fragrances,Home,mattresses,Sports,baseball,3337
+s1_category_class_00970.sql,1,s1_category_class,2002,Home,kids,Women,fragrances,Sports,archery,Sports,baseball,Home,tables,Sports,tennis,3132
+s1_category_class_00971.sql,1,s1_category_class,2002,Women,fragrances,Sports,fitness,Books,computers,Electronics,wireless,Sports,camping,Men,sports-apparel,2713
+s1_category_class_00972.sql,1,s1_category_class,2002,Jewelry,mens watch,Home,tables,Electronics,audio,Men,sports-apparel,Home,kids,Jewelry,bracelets,3309
+s1_category_class_00973.sql,1,s1_category_class,2002,Jewelry,costume,Sports,football,Jewelry,pendants,Electronics,scanners,Home,mattresses,Jewelry,estate,3494
+s1_category_class_00974.sql,1,s1_category_class,2002,Books,mystery,Jewelry,loose stones,Men,sports-apparel,Sports,archery,Sports,guns,Jewelry,gold,2506
+s1_category_class_00975.sql,1,s1_category_class,2002,Home,tables,Sports,football,Books,computers,Jewelry,costume,Sports,basketball,Home,bedding,3291
+s1_category_class_00976.sql,1,s1_category_class,2002,Sports,fitness,Men,sports-apparel,Jewelry,consignment,Books,business,Sports,golf,Home,mattresses,2813
+s1_category_class_00977.sql,1,s1_category_class,2002,Home,bedding,Home,kids,Books,science,Jewelry,consignment,Sports,basketball,Electronics,televisions,3666
+s1_category_class_00978.sql,1,s1_category_class,2002,Home,mattresses,Jewelry,costume,Sports,tennis,Books,reference,Books,fiction,Electronics,portable,3333
+s1_category_class_00979.sql,1,s1_category_class,2002,Men,sports-apparel,Home,decor,Home,glassware,Home,kids,Jewelry,womens watch,Electronics,audio,3448
+s1_category_class_00980.sql,1,s1_category_class,2002,Electronics,dvd/vcr players,Home,curtains/drapes,Books,science,Sports,basketball,Electronics,memory,Sports,camping,4055
+s1_category_class_00981.sql,1,s1_category_class,2002,Books,fiction,Home,curtains/drapes,Jewelry,pendants,Home,bedding,Home,mattresses,Electronics,portable,3529
+s1_category_class_00982.sql,1,s1_category_class,2002,Home,flatware,Electronics,scanners,Sports,baseball,Electronics,stereo,Jewelry,gold,Books,science,3831
+s1_category_class_00983.sql,1,s1_category_class,2002,Sports,fitness,Jewelry,costume,Jewelry,consignment,Jewelry,mens watch,Books,mystery,Jewelry,rings,2918
+s1_category_class_00984.sql,1,s1_category_class,2002,Home,curtains/drapes,Home,tables,Jewelry,costume,Jewelry,pendants,Books,arts,Sports,basketball,3233
+s1_category_class_00985.sql,1,s1_category_class,2002,Electronics,memory,Sports,golf,Jewelry,gold,Sports,basketball,Men,sports-apparel,Electronics,portable,3544
+s1_category_class_00986.sql,1,s1_category_class,2002,Sports,golf,Home,curtains/drapes,Books,computers,Jewelry,bracelets,Jewelry,consignment,Electronics,scanners,3473
+s1_category_class_00987.sql,1,s1_category_class,2002,Women,fragrances,Sports,football,Jewelry,consignment,Electronics,stereo,Books,computers,Electronics,scanners,3424
+s1_category_class_00988.sql,1,s1_category_class,2002,Electronics,stereo,Sports,baseball,Home,mattresses,Electronics,portable,Electronics,wireless,Sports,camping,4494
+s1_category_class_00989.sql,1,s1_category_class,2002,Home,glassware,Electronics,portable,Home,tables,Men,sports-apparel,Jewelry,earings,Books,computers,3049
+s1_category_class_00990.sql,1,s1_category_class,2002,Men,sports-apparel,Home,lighting,Sports,pools,Sports,tennis,Jewelry,rings,Books,parenting,2771
+s1_category_class_00991.sql,1,s1_category_class,2002,Home,bedding,Jewelry,bracelets,Sports,guns,Books,computers,Women,fragrances,Home,decor,2790
+s1_category_class_00992.sql,1,s1_category_class,2002,Books,computers,Sports,fitness,Books,science,Jewelry,gold,Women,fragrances,Jewelry,rings,2404
+s1_category_class_00993.sql,1,s1_category_class,2002,Home,curtains/drapes,Books,arts,Electronics,televisions,Home,bedding,Sports,baseball,Books,computers,3534
+s1_category_class_00994.sql,1,s1_category_class,2002,Electronics,scanners,Jewelry,consignment,Jewelry,pendants,Electronics,televisions,Electronics,wireless,Jewelry,mens watch,4226
+s1_category_class_00995.sql,1,s1_category_class,2002,Men,sports-apparel,Women,fragrances,Electronics,audio,Electronics,memory,Sports,basketball,Electronics,televisions,3754
+s1_category_class_00996.sql,1,s1_category_class,2002,Men,sports-apparel,Books,mystery,Sports,tennis,Electronics,audio,Sports,basketball,Sports,pools,3347
+s1_category_class_00997.sql,1,s1_category_class,2002,Books,business,Jewelry,womens watch,Jewelry,costume,Books,mystery,Home,kids,Sports,guns,2873
+s1_category_class_00998.sql,1,s1_category_class,2002,Books,reference,Home,bedding,Jewelry,consignment,Electronics,memory,Sports,fishing,Jewelry,rings,3464
+s1_category_class_00999.sql,1,s1_category_class,2002,Electronics,stereo,Jewelry,costume,Home,tables,Electronics,wireless,Sports,camping,Electronics,memory,4480

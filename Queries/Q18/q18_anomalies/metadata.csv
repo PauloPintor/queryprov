@@ -1,0 +1,1051 @@
+file,n_rows,scenario,label,year,gen,es,m1,m2,m3,m4,m5,m6,s1,s2,s3,s4,s5,s6,s7
+s1_demographic_00000.sql,9119,s1_demographic,1,2002,F,2 yr Degree,3,4,5,7,9,11,IN,VA,MO,NE,IL,NC,KY
+s1_demographic_00001.sql,8707,s1_demographic,1,2002,F,Secondary,4,5,6,7,8,11,KY,IA,TN,TX,OK,NC,IL
+s1_demographic_00002.sql,7079,s1_demographic,1,2002,F,4 yr Degree,1,7,8,9,10,12,AR,IA,MO,WI,IN,NC,CO
+s1_demographic_00003.sql,8082,s1_demographic,1,2002,M,College,1,2,6,8,10,12,CO,IL,PA,MO,NC,GA,IA
+s1_demographic_00004.sql,9460,s1_demographic,1,2002,F,2 yr Degree,1,3,4,5,6,8,AR,MO,PA,TX,NC,IL,TN
+s1_demographic_00005.sql,8899,s1_demographic,1,2002,M,Primary,2,3,4,5,6,12,AR,WI,CA,IA,NC,TX,AL
+s1_demographic_00006.sql,10398,s1_demographic,1,2002,M,Primary,1,2,4,5,6,10,KY,NC,WV,TN,GA,CO,TX
+s1_demographic_00007.sql,8181,s1_demographic,1,2002,F,4 yr Degree,2,6,7,10,11,12,MS,NC,NE,CO,VA,GA,WI
+s1_demographic_00008.sql,9652,s1_demographic,1,2002,F,Secondary,1,2,7,8,10,11,VA,WI,TN,IA,TX,NE,GA
+s1_demographic_00009.sql,7974,s1_demographic,1,2002,M,College,1,3,5,8,10,12,VA,PA,AR,MS,KY,WI,IA
+s1_demographic_00010.sql,8680,s1_demographic,1,2002,M,4 yr Degree,1,2,4,5,7,12,AR,GA,IN,NM,TX,TN,ID
+s1_demographic_00011.sql,9112,s1_demographic,1,2002,M,Primary,1,3,4,6,7,9,TX,NY,MO,MS,NE,KY,TN
+s1_demographic_00012.sql,8307,s1_demographic,1,2002,F,4 yr Degree,3,4,6,7,9,11,NE,NM,IA,MO,TX,MS,NC
+s1_demographic_00013.sql,9194,s1_demographic,1,2002,M,4 yr Degree,2,3,4,7,9,11,NE,VA,WV,TX,IL,OH,MS
+s1_demographic_00014.sql,6853,s1_demographic,1,2002,F,2 yr Degree,1,3,4,7,11,12,NM,NJ,MS,IA,TX,OK,WV
+s1_demographic_00015.sql,10686,s1_demographic,1,2002,F,2 yr Degree,1,3,5,9,10,11,NY,IL,IA,TX,KY,NC,NE
+s1_demographic_00016.sql,6768,s1_demographic,1,2002,F,Secondary,2,4,6,7,9,10,MO,KY,GA,WV,NM,TN,OK
+s1_demographic_00017.sql,8429,s1_demographic,1,2002,F,4 yr Degree,1,4,6,10,11,12,IA,TX,OK,NC,CA,NJ,IN
+s1_demographic_00018.sql,5331,s1_demographic,1,2002,M,4 yr Degree,1,2,6,10,11,12,MS,PA,NJ,CO,ID,CA,NC
+s1_demographic_00019.sql,9517,s1_demographic,1,2002,F,2 yr Degree,1,3,5,6,9,11,IA,TX,NM,NY,GA,WV,NC
+s1_demographic_00020.sql,9267,s1_demographic,1,2002,M,4 yr Degree,1,5,7,8,10,11,GA,TX,KY,OK,MS,PA,NM
+s1_demographic_00021.sql,9539,s1_demographic,1,2002,F,Secondary,4,6,7,8,9,10,AL,NC,AR,NE,TX,GA,KY
+s1_demographic_00022.sql,9682,s1_demographic,1,2002,M,4 yr Degree,1,3,5,6,8,9,TX,IL,WV,IA,MO,IN,OH
+s1_demographic_00023.sql,8091,s1_demographic,1,2002,F,Secondary,3,6,7,8,11,12,IA,CA,VA,TX,OK,NE,TN
+s1_demographic_00024.sql,9530,s1_demographic,1,2002,F,Unknown,1,3,4,6,8,10,CA,TX,KY,ID,WV,VA,NC
+s1_demographic_00025.sql,8451,s1_demographic,1,2002,F,Unknown,3,5,7,10,11,12,CO,MO,TX,AL,AR,GA,WI
+s1_demographic_00026.sql,9577,s1_demographic,1,2002,M,Primary,1,2,7,9,10,11,VA,TX,IL,TN,WV,AR,IA
+s1_demographic_00027.sql,8499,s1_demographic,1,2002,F,Unknown,2,4,7,8,9,11,IN,NC,IA,WI,VA,MO,GA
+s1_demographic_00028.sql,9980,s1_demographic,1,2002,M,Primary,1,4,5,6,9,12,KY,TX,MO,CA,NC,OH,AR
+s1_demographic_00029.sql,7393,s1_demographic,1,2002,F,4 yr Degree,1,4,5,6,9,11,VA,TN,AL,MS,GA,IA,IL
+s1_demographic_00030.sql,6562,s1_demographic,1,2002,F,Secondary,1,2,4,7,8,10,NY,ID,NJ,AL,VA,CA,GA
+s1_demographic_00031.sql,9043,s1_demographic,1,2002,M,4 yr Degree,1,3,4,5,8,11,PA,TX,CO,GA,IN,NC,IA
+s1_demographic_00032.sql,7113,s1_demographic,1,2002,M,4 yr Degree,1,2,3,8,10,11,AL,KY,IL,NJ,IN,CO,GA
+s1_demographic_00033.sql,9033,s1_demographic,1,2002,F,Secondary,3,7,9,10,11,12,TX,IA,CA,MO,IN,NE,KY
+s1_demographic_00034.sql,9711,s1_demographic,1,2002,F,Unknown,3,5,6,7,8,11,TX,AL,NC,GA,CA,NE,IA
+s1_demographic_00035.sql,5184,s1_demographic,1,2002,F,Secondary,2,3,5,9,10,12,CO,NY,CA,NM,IN,IA,AR
+s1_demographic_00036.sql,8517,s1_demographic,1,2002,F,2 yr Degree,1,5,7,8,10,12,CO,CA,IN,OK,GA,MO,TX
+s1_demographic_00037.sql,9356,s1_demographic,1,2002,F,Secondary,1,2,3,5,7,11,TX,IN,OK,VA,PA,GA,WV
+s1_demographic_00038.sql,9107,s1_demographic,1,2002,F,Secondary,4,7,8,9,10,11,TX,AL,KY,TN,GA,IN,MS
+s1_demographic_00039.sql,8099,s1_demographic,1,2002,F,Secondary,3,6,8,9,10,12,NJ,OH,AR,MS,IN,TX,TN
+s1_demographic_00040.sql,10131,s1_demographic,1,2002,F,Unknown,2,4,5,8,10,11,KY,IA,TX,IN,OK,NC,TN
+s1_demographic_00041.sql,6857,s1_demographic,1,2002,F,2 yr Degree,2,5,6,7,11,12,OH,KY,MS,WV,IN,VA,NC
+s1_demographic_00042.sql,10267,s1_demographic,1,2002,F,Secondary,2,6,7,9,10,11,GA,OK,TX,KY,AR,NC,VA
+s1_demographic_00043.sql,10218,s1_demographic,1,2002,M,4 yr Degree,1,6,7,8,9,11,TX,AR,NE,WI,IA,VA,KY
+s1_demographic_00044.sql,7413,s1_demographic,1,2002,F,Unknown,1,3,4,5,9,10,CA,IN,VA,KY,AR,MO,ID
+s1_demographic_00045.sql,7123,s1_demographic,1,2002,M,4 yr Degree,2,4,7,9,11,12,WI,MO,VA,GA,NJ,NE,OK
+s1_demographic_00046.sql,8683,s1_demographic,1,2002,F,Secondary,1,2,3,6,7,12,KY,TN,TX,OH,IL,IN,WV
+s1_demographic_00047.sql,9636,s1_demographic,1,2002,M,College,2,3,8,9,10,11,VA,PA,TX,NE,WI,KY,NC
+s1_demographic_00048.sql,8945,s1_demographic,1,2002,F,2 yr Degree,2,4,5,9,10,11,IN,IL,OH,KY,TX,TN,WV
+s1_demographic_00049.sql,9233,s1_demographic,1,2002,F,4 yr Degree,2,4,7,9,10,12,GA,OK,MO,TX,AR,IN,VA
+s1_demographic_00050.sql,8300,s1_demographic,1,2002,F,Unknown,4,7,8,10,11,12,TX,KY,NC,PA,NE,AR,IL
+s1_demographic_00051.sql,8567,s1_demographic,1,2002,M,College,2,3,4,5,7,12,TX,TN,VA,PA,WI,AL,NC
+s1_demographic_00052.sql,10818,s1_demographic,1,2002,F,Secondary,1,5,6,7,10,12,NC,TX,AR,TN,GA,IL,OH
+s1_demographic_00053.sql,8482,s1_demographic,1,2002,M,4 yr Degree,1,3,7,8,10,11,TX,WI,WV,OK,OH,NC,MO
+s1_demographic_00054.sql,9885,s1_demographic,1,2002,F,4 yr Degree,3,4,6,7,9,12,OK,TX,NC,IN,MO,TN,GA
+s1_demographic_00055.sql,8953,s1_demographic,1,2002,F,2 yr Degree,3,5,6,8,10,11,VA,KY,AR,OK,TX,NM,NY
+s1_demographic_00056.sql,9820,s1_demographic,1,2002,F,Unknown,4,6,7,9,11,12,KY,CA,VA,NC,WI,GA,TX
+s1_demographic_00057.sql,6172,s1_demographic,1,2002,F,Unknown,1,2,5,7,8,10,NE,IA,OK,PA,OH,IN,NJ
+s1_demographic_00058.sql,7626,s1_demographic,1,2002,M,4 yr Degree,2,4,6,8,9,11,MO,TX,NC,TN,AL,CO,NM
+s1_demographic_00059.sql,8857,s1_demographic,1,2002,F,Secondary,1,6,7,9,10,12,TX,MO,TN,IA,PA,VA,WV
+s1_demographic_00060.sql,8570,s1_demographic,1,2002,F,Unknown,2,3,7,8,10,12,ID,AR,TX,VA,KY,OK,WI
+s1_demographic_00061.sql,7101,s1_demographic,1,2002,M,4 yr Degree,2,4,6,9,11,12,ID,TN,TX,PA,NM,CA,IN
+s1_demographic_00062.sql,7787,s1_demographic,1,2002,M,Primary,1,3,4,8,9,11,OK,WI,TX,NM,NY,IL,GA
+s1_demographic_00063.sql,8006,s1_demographic,1,2002,M,4 yr Degree,1,4,6,7,11,12,OK,TX,MO,CO,IL,WI,NC
+s1_demographic_00064.sql,8689,s1_demographic,1,2002,F,2 yr Degree,2,3,4,8,10,12,TX,VA,NE,OK,AR,IL,NY
+s1_demographic_00065.sql,9838,s1_demographic,1,2002,M,Primary,1,2,3,6,7,11,NE,TX,ID,KY,VA,GA,AR
+s1_demographic_00066.sql,8767,s1_demographic,1,2002,F,Unknown,2,3,4,5,6,8,OH,NM,TN,IA,TX,NE,NC
+s1_demographic_00067.sql,7416,s1_demographic,1,2002,M,Primary,1,5,6,7,10,11,WV,IN,IA,KY,NC,GA,NJ
+s1_demographic_00068.sql,8357,s1_demographic,1,2002,F,2 yr Degree,1,2,3,9,10,12,MO,PA,VA,NE,OH,TX,AL
+s1_demographic_00069.sql,8975,s1_demographic,1,2002,F,Unknown,3,5,7,8,10,12,AL,GA,TN,WV,CO,TX,IL
+s1_demographic_00070.sql,10994,s1_demographic,1,2002,F,2 yr Degree,4,5,6,7,9,10,TN,GA,VA,TX,NY,AR,IA
+s1_demographic_00071.sql,9594,s1_demographic,1,2002,M,Primary,2,3,5,6,8,11,NC,IL,IA,IN,TX,OH,AL
+s1_demographic_00072.sql,9370,s1_demographic,1,2002,M,4 yr Degree,1,2,6,7,9,10,NE,TX,NY,CO,VA,NC,IL
+s1_demographic_00073.sql,8129,s1_demographic,1,2002,F,4 yr Degree,1,3,4,6,10,12,OK,AR,OH,IN,GA,VA,WV
+s1_demographic_00074.sql,6903,s1_demographic,1,2002,F,Secondary,1,4,5,7,8,12,IL,NC,IA,NM,WI,AR,TN
+s1_demographic_00075.sql,8619,s1_demographic,1,2002,F,Unknown,2,3,5,7,8,12,GA,KY,NC,CA,IN,AR,VA
+s1_demographic_00076.sql,7407,s1_demographic,1,2002,F,2 yr Degree,1,3,4,5,11,12,NC,WV,VA,IL,NE,IA,OH
+s1_demographic_00077.sql,9718,s1_demographic,1,2002,F,2 yr Degree,3,7,9,10,11,12,TX,IA,VA,ID,IN,OH,KY
+s1_demographic_00078.sql,6799,s1_demographic,1,2002,F,2 yr Degree,2,3,4,6,9,11,IN,NE,OK,TN,AL,PA,KY
+s1_demographic_00079.sql,8959,s1_demographic,1,2002,M,College,3,4,5,6,8,10,MO,VA,MS,IL,NC,ID,TX
+s1_demographic_00080.sql,8635,s1_demographic,1,2002,M,College,2,3,5,6,10,11,IN,CA,KY,TX,IA,IL,OH
+s1_demographic_00081.sql,9973,s1_demographic,1,2002,M,College,1,2,4,5,10,11,IA,KY,PA,GA,NM,VA,TX
+s1_demographic_00082.sql,9683,s1_demographic,1,2002,M,Primary,3,4,7,8,11,12,IA,MS,NY,VA,ID,TX,NE
+s1_demographic_00083.sql,8968,s1_demographic,1,2002,M,Primary,4,5,9,10,11,12,TX,IN,GA,TN,IL,MS,NY
+s1_demographic_00084.sql,9629,s1_demographic,1,2002,M,Primary,5,6,7,10,11,12,WI,KY,VA,TX,TN,OK,IN
+s1_demographic_00085.sql,9454,s1_demographic,1,2002,F,Unknown,1,2,3,4,6,8,NY,TX,IL,NE,IA,KY,VA
+s1_demographic_00086.sql,9350,s1_demographic,1,2002,M,Primary,1,2,3,4,8,12,VA,KY,WV,IN,AL,WI,TX
+s1_demographic_00087.sql,7027,s1_demographic,1,2002,F,4 yr Degree,2,3,6,7,11,12,OK,IN,WI,MS,NC,TN,IA
+s1_demographic_00088.sql,8084,s1_demographic,1,2002,F,Unknown,5,7,8,10,11,12,CO,NE,GA,WI,PA,TX,AL
+s1_demographic_00089.sql,8827,s1_demographic,1,2002,F,Unknown,1,4,5,6,7,12,TN,NY,GA,IL,TX,MO,AL
+s1_demographic_00090.sql,9537,s1_demographic,1,2002,M,4 yr Degree,1,5,7,10,11,12,TN,TX,AR,CA,IL,GA,OK
+s1_demographic_00091.sql,8331,s1_demographic,1,2002,F,Unknown,6,7,9,10,11,12,CO,ID,TX,TN,AL,IN,GA
+s1_demographic_00092.sql,6080,s1_demographic,1,2002,F,Unknown,1,2,4,5,7,10,NE,PA,IN,VA,OK,WI,CO
+s1_demographic_00093.sql,8068,s1_demographic,1,2002,F,4 yr Degree,1,2,6,9,11,12,AR,TX,NM,WV,AL,GA,KY
+s1_demographic_00094.sql,7360,s1_demographic,1,2002,F,Secondary,1,2,4,5,7,11,IA,NM,OK,GA,NY,VA,AR
+s1_demographic_00095.sql,7809,s1_demographic,1,2002,M,College,1,5,7,8,9,12,TN,KY,OK,NY,WV,TX,ID
+s1_demographic_00096.sql,6276,s1_demographic,1,2002,M,College,2,3,8,9,10,11,CA,ID,IA,WV,NE,CO,GA
+s1_demographic_00097.sql,8000,s1_demographic,1,2002,F,2 yr Degree,2,4,6,8,10,11,CO,CA,IL,AR,IA,OK,TX
+s1_demographic_00098.sql,9570,s1_demographic,1,2002,F,2 yr Degree,4,7,8,9,11,12,IA,TX,IL,MS,NC,KY,CO
+s1_demographic_00099.sql,8505,s1_demographic,1,2002,F,Secondary,3,4,5,10,11,12,VA,OK,TN,KY,MO,AL,GA
+s1_demographic_00100.sql,6090,s1_demographic,1,2002,F,Secondary,3,4,6,7,10,12,AL,IA,MS,WI,CO,NM,NC
+s1_demographic_00101.sql,8862,s1_demographic,1,2002,F,4 yr Degree,1,2,3,5,8,11,TN,MO,WV,IA,NC,VA,TX
+s1_demographic_00102.sql,8825,s1_demographic,1,2002,F,Secondary,1,3,5,6,7,11,GA,NC,CA,VA,NY,TN,MO
+s1_demographic_00103.sql,6347,s1_demographic,1,2002,M,4 yr Degree,2,4,7,9,10,12,IL,OK,AL,PA,MO,IN,WV
+s1_demographic_00104.sql,10053,s1_demographic,1,2002,M,Primary,2,3,5,6,8,11,AR,AL,OH,IA,MO,TX,VA
+s1_demographic_00105.sql,8648,s1_demographic,1,2002,F,2 yr Degree,2,6,7,8,10,12,OH,TX,IL,WI,IN,NY,NE
+s1_demographic_00106.sql,10037,s1_demographic,1,2002,M,Primary,3,6,8,10,11,12,IL,KY,NC,NY,TX,OH,GA
+s1_demographic_00107.sql,8930,s1_demographic,1,2002,F,2 yr Degree,4,5,6,8,11,12,TN,MS,TX,IL,NC,KY,WI
+s1_demographic_00108.sql,7333,s1_demographic,1,2002,M,4 yr Degree,1,2,3,7,10,12,AL,MO,MS,ID,AR,NE,IL
+s1_demographic_00109.sql,8995,s1_demographic,1,2002,M,College,2,4,9,10,11,12,TX,IA,VA,KY,CA,AL,CO
+s1_demographic_00110.sql,8762,s1_demographic,1,2002,F,4 yr Degree,1,3,4,6,7,12,NM,PA,TN,NE,OK,TX,VA
+s1_demographic_00111.sql,8596,s1_demographic,1,2002,M,Primary,1,5,6,8,11,12,TN,MS,GA,NC,OK,IL,AR
+s1_demographic_00112.sql,8640,s1_demographic,1,2002,F,2 yr Degree,1,2,3,4,6,8,IN,CA,VA,NC,TN,IA,GA
+s1_demographic_00113.sql,7922,s1_demographic,1,2002,F,2 yr Degree,1,4,8,9,11,12,GA,OH,NE,IN,NJ,NC,VA
+s1_demographic_00114.sql,7304,s1_demographic,1,2002,F,4 yr Degree,2,5,7,10,11,12,ID,IL,VA,IN,KY,MS,MO
+s1_demographic_00115.sql,11139,s1_demographic,1,2002,M,Primary,1,2,6,8,11,12,VA,IL,NC,TX,IA,OK,GA
+s1_demographic_00116.sql,10134,s1_demographic,1,2002,M,4 yr Degree,1,2,3,7,9,12,VA,KY,OK,TX,MO,IA,AL
+s1_demographic_00117.sql,7453,s1_demographic,1,2002,F,Secondary,2,5,6,10,11,12,NC,AR,TN,MO,MS,CO,NE
+s1_demographic_00118.sql,7935,s1_demographic,1,2002,M,4 yr Degree,4,6,9,10,11,12,NE,WI,TX,MO,MS,ID,OH
+s1_demographic_00119.sql,6062,s1_demographic,1,2002,M,Primary,2,3,4,6,8,9,WI,CA,NC,VA,CO,NJ,NY
+s1_demographic_00120.sql,8248,s1_demographic,1,2002,F,Unknown,3,4,7,10,11,12,GA,PA,KY,VA,WV,IN,TN
+s1_demographic_00121.sql,9414,s1_demographic,1,2002,F,Unknown,2,3,7,8,10,11,KY,WI,VA,MO,CO,IL,TX
+s1_demographic_00122.sql,9168,s1_demographic,1,2002,M,4 yr Degree,1,4,5,6,10,12,GA,WI,MS,OK,TX,OH,IA
+s1_demographic_00123.sql,9255,s1_demographic,1,2002,M,College,1,2,4,6,9,11,TN,TX,CO,OH,VA,GA,IA
+s1_demographic_00124.sql,8089,s1_demographic,1,2002,F,Secondary,2,5,6,7,9,12,OK,NC,PA,AR,TX,WV,MO
+s1_demographic_00125.sql,7958,s1_demographic,1,2002,M,4 yr Degree,2,3,4,5,6,11,IN,KY,IA,NJ,GA,IL,VA
+s1_demographic_00126.sql,9556,s1_demographic,1,2002,M,4 yr Degree,2,5,6,7,8,10,NC,TX,TN,GA,AR,MO,PA
+s1_demographic_00127.sql,10269,s1_demographic,1,2002,F,Secondary,2,6,9,10,11,12,TX,GA,IN,VA,OK,NE,NC
+s1_demographic_00128.sql,10413,s1_demographic,1,2002,M,4 yr Degree,5,6,7,8,10,12,MS,TX,WI,IN,VA,TN,IA
+s1_demographic_00129.sql,9299,s1_demographic,1,2002,M,College,2,3,4,8,9,11,TX,GA,TN,IL,MS,AL,AR
+s1_demographic_00130.sql,8438,s1_demographic,1,2002,M,Primary,1,3,4,5,7,9,NC,KY,GA,MO,ID,IA,MS
+s1_demographic_00131.sql,7740,s1_demographic,1,2002,F,Unknown,1,2,3,5,9,10,OH,VA,NE,GA,NY,OK,IL
+s1_demographic_00132.sql,9223,s1_demographic,1,2002,F,4 yr Degree,1,5,6,7,8,12,KY,TX,TN,AR,GA,AL,MO
+s1_demographic_00133.sql,10320,s1_demographic,1,2002,F,2 yr Degree,2,5,6,7,8,10,MS,MO,TX,IA,IL,GA,VA
+s1_demographic_00134.sql,7613,s1_demographic,1,2002,F,Unknown,1,3,5,8,9,12,OK,IL,TN,WI,OH,KY,NE
+s1_demographic_00135.sql,7571,s1_demographic,1,2002,F,Secondary,3,4,7,8,9,10,AR,IN,GA,WV,TN,KY,CA
+s1_demographic_00136.sql,11037,s1_demographic,1,2002,M,Primary,2,5,6,8,9,10,MO,TX,ID,KY,VA,GA,IL
+s1_demographic_00137.sql,7741,s1_demographic,1,2002,F,Unknown,1,2,3,4,10,11,TN,MO,KY,NE,VA,IA,IL
+s1_demographic_00138.sql,9799,s1_demographic,1,2002,M,4 yr Degree,2,3,4,5,8,12,OK,KY,NE,GA,TX,WI,PA
+s1_demographic_00139.sql,9415,s1_demographic,1,2002,F,Secondary,3,6,7,8,10,12,TX,KY,OK,GA,NE,TN,MO
+s1_demographic_00140.sql,7064,s1_demographic,1,2002,M,4 yr Degree,1,2,4,7,8,12,TN,IL,WV,OH,GA,PA,IN
+s1_demographic_00141.sql,8123,s1_demographic,1,2002,F,Secondary,1,3,4,5,8,9,TN,IA,CO,TX,AL,OH,MO
+s1_demographic_00142.sql,6994,s1_demographic,1,2002,M,Primary,5,6,7,9,10,12,WV,IL,NE,NY,MO,AL,VA
+s1_demographic_00143.sql,7135,s1_demographic,1,2002,F,2 yr Degree,1,2,6,10,11,12,NJ,TX,IL,KY,OK,WI,NC
+s1_demographic_00144.sql,6954,s1_demographic,1,2002,M,Primary,1,2,6,8,9,12,MO,ID,NE,NM,TX,NJ,AL
+s1_demographic_00145.sql,6856,s1_demographic,1,2002,M,College,1,5,6,7,9,10,OK,TX,CO,WI,WV,AL,AR
+s1_demographic_00146.sql,6555,s1_demographic,1,2002,F,4 yr Degree,1,2,4,7,8,11,AL,WI,CA,WV,IL,VA,NE
+s1_demographic_00147.sql,7351,s1_demographic,1,2002,M,College,3,5,7,8,10,12,NY,CO,IA,TX,TN,OH,NM
+s1_demographic_00148.sql,7741,s1_demographic,1,2002,F,Secondary,2,4,6,8,9,11,IN,MS,MO,NE,VA,KY,PA
+s1_demographic_00149.sql,7246,s1_demographic,1,2002,F,4 yr Degree,2,3,6,8,9,11,MO,NE,WI,IA,MS,OK,KY
+s1_demographic_00150.sql,8238,s1_demographic,1,2002,F,Secondary,2,4,6,8,10,11,PA,TN,OK,AL,KY,NC,TX
+s1_demographic_00151.sql,7796,s1_demographic,1,2002,M,4 yr Degree,1,2,8,9,10,11,IL,OH,TX,TN,CO,CA,NC
+s1_demographic_00152.sql,6805,s1_demographic,1,2002,M,4 yr Degree,2,5,6,7,8,9,GA,IA,NC,CA,OK,NM,AR
+s1_demographic_00153.sql,9315,s1_demographic,1,2002,F,2 yr Degree,4,5,7,10,11,12,NY,KY,NC,CO,PA,TX,VA
+s1_demographic_00154.sql,8181,s1_demographic,1,2002,F,2 yr Degree,3,5,6,8,9,10,NE,TN,NY,MS,GA,WI,MO
+s1_demographic_00155.sql,8646,s1_demographic,1,2002,M,4 yr Degree,1,4,5,9,10,12,IA,GA,CO,IL,AL,NE,VA
+s1_demographic_00156.sql,8153,s1_demographic,1,2002,F,2 yr Degree,3,5,8,9,11,12,CO,GA,NC,VA,NY,KY,PA
+s1_demographic_00157.sql,10774,s1_demographic,1,2002,M,College,1,6,7,9,10,11,TN,GA,KY,IN,IA,TX,MO
+s1_demographic_00158.sql,9684,s1_demographic,1,2002,F,Secondary,1,2,5,7,8,9,TX,TN,VA,NY,OK,GA,IN
+s1_demographic_00159.sql,10199,s1_demographic,1,2002,M,Primary,1,2,3,5,7,12,GA,MS,OK,ID,AL,TX,VA
+s1_demographic_00160.sql,9407,s1_demographic,1,2002,M,Primary,2,3,5,7,10,12,NE,TX,KY,WV,VA,IL,NM
+s1_demographic_00161.sql,9115,s1_demographic,1,2002,F,2 yr Degree,1,2,5,8,9,12,NC,TX,PA,OK,GA,TN,NE
+s1_demographic_00162.sql,8853,s1_demographic,1,2002,F,2 yr Degree,1,4,5,6,9,11,GA,NC,TN,AR,KY,IL,IA
+s1_demographic_00163.sql,9476,s1_demographic,1,2002,M,Primary,1,2,3,8,9,10,OK,CA,OH,TX,IL,KY,AR
+s1_demographic_00164.sql,7676,s1_demographic,1,2002,M,4 yr Degree,1,4,6,7,9,12,NE,CA,NC,IL,KY,IA,NY
+s1_demographic_00165.sql,5849,s1_demographic,1,2002,F,Secondary,1,2,4,5,6,9,NJ,VA,MS,TN,WI,NY,NM
+s1_demographic_00166.sql,7841,s1_demographic,1,2002,F,Unknown,4,5,6,7,10,11,IN,CO,GA,TX,ID,CA,NM
+s1_demographic_00167.sql,8325,s1_demographic,1,2002,M,Primary,1,5,8,9,11,12,AL,GA,WV,PA,IA,TX,MO
+s1_demographic_00168.sql,8301,s1_demographic,1,2002,M,4 yr Degree,1,2,3,4,10,11,NM,IA,TX,IN,IL,GA,ID
+s1_demographic_00169.sql,8438,s1_demographic,1,2002,M,4 yr Degree,2,3,6,8,9,11,TX,TN,CA,VA,AL,OK,MS
+s1_demographic_00170.sql,9881,s1_demographic,1,2002,M,4 yr Degree,4,5,7,8,9,10,TX,AL,VA,IL,OK,NC,AR
+s1_demographic_00171.sql,6123,s1_demographic,1,2002,F,2 yr Degree,3,6,7,8,9,10,OK,CO,NY,WV,WI,GA,ID
+s1_demographic_00172.sql,5840,s1_demographic,1,2002,M,College,4,5,6,10,11,12,CO,AL,KY,OK,CA,NM,IA
+s1_demographic_00173.sql,7673,s1_demographic,1,2002,F,2 yr Degree,1,2,4,5,6,10,MO,AL,NC,NJ,KY,TX,PA
+s1_demographic_00174.sql,9214,s1_demographic,1,2002,F,Unknown,3,6,7,8,10,12,WI,IL,VA,TX,PA,CA,TN
+s1_demographic_00175.sql,8969,s1_demographic,1,2002,M,College,2,4,5,7,11,12,CO,AL,TX,GA,ID,NC,KY
+s1_demographic_00176.sql,8347,s1_demographic,1,2002,F,Secondary,1,2,6,10,11,12,VA,WI,IA,PA,TX,NE,NM
+s1_demographic_00177.sql,8715,s1_demographic,1,2002,F,Unknown,4,5,8,10,11,12,TX,NY,IN,VA,WV,IA,MO
+s1_demographic_00178.sql,9717,s1_demographic,1,2002,F,Secondary,1,2,5,8,11,12,IA,AR,TX,KY,VA,WI,IL
+s1_demographic_00179.sql,8611,s1_demographic,1,2002,M,College,3,4,5,8,10,11,IN,KY,NY,IA,OK,TX,TN
+s1_demographic_00180.sql,8015,s1_demographic,1,2002,F,Secondary,4,5,6,7,8,11,OK,GA,MS,AL,TX,IA,IN
+s1_demographic_00181.sql,10824,s1_demographic,1,2002,M,Primary,2,3,4,6,9,10,KY,IA,TX,TN,VA,GA,IN
+s1_demographic_00182.sql,10806,s1_demographic,1,2002,F,2 yr Degree,3,7,9,10,11,12,NM,GA,TX,TN,VA,NE,KY
+s1_demographic_00183.sql,7683,s1_demographic,1,2002,M,4 yr Degree,2,4,8,10,11,12,WI,NY,VA,PA,GA,WV,AR
+s1_demographic_00184.sql,6308,s1_demographic,1,2002,F,4 yr Degree,1,2,3,5,8,10,NE,IL,AL,AR,NY,OH,MO
+s1_demographic_00185.sql,8941,s1_demographic,1,2002,F,Unknown,1,3,4,8,9,12,NE,IA,NM,AL,TX,OH,GA
+s1_demographic_00186.sql,7973,s1_demographic,1,2002,F,Secondary,3,4,6,7,11,12,IL,VA,GA,IN,WV,ID,TX
+s1_demographic_00187.sql,10146,s1_demographic,1,2002,F,Unknown,1,2,5,6,9,11,IL,KY,MS,IA,GA,TX,CO
+s1_demographic_00188.sql,9299,s1_demographic,1,2002,M,4 yr Degree,1,2,3,5,7,11,OH,IN,TX,MS,IL,IA,KY
+s1_demographic_00189.sql,7249,s1_demographic,1,2002,M,4 yr Degree,1,3,4,5,8,12,NE,VA,MS,WI,OH,NY,IL
+s1_demographic_00190.sql,9017,s1_demographic,1,2002,F,Secondary,2,4,6,8,11,12,OH,KY,GA,MS,TX,TN,NY
+s1_demographic_00191.sql,9113,s1_demographic,1,2002,M,4 yr Degree,3,4,5,6,7,11,IL,IA,CO,AR,MO,GA,TX
+s1_demographic_00192.sql,8579,s1_demographic,1,2002,F,4 yr Degree,3,5,6,7,10,12,MO,AL,IA,NE,TX,KY,OH
+s1_demographic_00193.sql,7592,s1_demographic,1,2002,M,Primary,1,3,4,6,8,12,CA,AL,TN,NC,OH,PA,MS
+s1_demographic_00194.sql,9078,s1_demographic,1,2002,M,College,1,4,7,8,11,12,WV,TX,AR,IA,VA,IL,TN
+s1_demographic_00195.sql,7985,s1_demographic,1,2002,F,2 yr Degree,1,2,3,4,9,10,CO,WI,TN,KY,GA,OH,NE
+s1_demographic_00196.sql,9334,s1_demographic,1,2002,M,College,2,4,8,9,11,12,WI,GA,IN,TX,NC,VA,CO
+s1_demographic_00197.sql,7958,s1_demographic,1,2002,F,Secondary,1,2,3,4,6,7,WV,TX,NE,CO,NC,PA,KY
+s1_demographic_00198.sql,7499,s1_demographic,1,2002,F,4 yr Degree,1,2,7,9,11,12,WV,KY,IA,OK,GA,MO,NE
+s1_demographic_00199.sql,6008,s1_demographic,1,2002,F,2 yr Degree,2,4,5,6,9,12,MS,CA,IN,IL,PA,TN,OH
+s1_demographic_00200.sql,8823,s1_demographic,1,2002,F,Secondary,1,2,4,7,8,11,AL,MO,VA,AR,NE,IN,TX
+s1_demographic_00201.sql,9168,s1_demographic,1,2002,M,4 yr Degree,5,6,7,9,10,12,WI,TN,NC,AL,IA,TX,ID
+s1_demographic_00202.sql,9406,s1_demographic,1,2002,F,Secondary,1,4,5,7,10,11,TX,MS,NC,NY,AL,TN,KY
+s1_demographic_00203.sql,8596,s1_demographic,1,2002,F,Secondary,5,7,8,9,11,12,CA,AL,NC,VA,KY,IL,MO
+s1_demographic_00204.sql,6708,s1_demographic,1,2002,M,College,2,5,6,7,8,9,CA,CO,KY,AL,WI,IN,VA
+s1_demographic_00205.sql,7318,s1_demographic,1,2002,F,Secondary,1,4,7,9,10,11,MS,MO,GA,CA,IL,AL,IN
+s1_demographic_00206.sql,9237,s1_demographic,1,2002,M,4 yr Degree,1,4,5,7,11,12,IL,TN,TX,GA,WI,AR,OH
+s1_demographic_00207.sql,9287,s1_demographic,1,2002,M,4 yr Degree,1,5,7,9,10,12,TN,TX,WI,IA,OH,MS,WV
+s1_demographic_00208.sql,8214,s1_demographic,1,2002,F,2 yr Degree,1,4,5,7,9,12,TX,WV,KY,VA,NE,CA,IL
+s1_demographic_00209.sql,9325,s1_demographic,1,2002,M,Primary,5,7,8,10,11,12,MS,MO,NC,GA,IA,VA,IN
+s1_demographic_00210.sql,8281,s1_demographic,1,2002,F,4 yr Degree,1,3,4,9,11,12,IN,TX,IA,NY,ID,KY,OH
+s1_demographic_00211.sql,8889,s1_demographic,1,2002,F,4 yr Degree,2,3,4,5,8,12,AL,MS,TX,TN,MO,GA,CA
+s1_demographic_00212.sql,10017,s1_demographic,1,2002,M,4 yr Degree,2,4,5,7,9,11,IA,KY,TX,GA,AL,WV,IN
+s1_demographic_00213.sql,8587,s1_demographic,1,2002,M,4 yr Degree,1,4,5,6,8,11,IN,GA,VA,AL,OH,TN,NE
+s1_demographic_00214.sql,8177,s1_demographic,1,2002,F,2 yr Degree,3,6,7,8,10,12,TN,MO,AR,VA,AL,GA,NM
+s1_demographic_00215.sql,10934,s1_demographic,1,2002,M,4 yr Degree,1,4,5,7,8,10,GA,WV,MS,KY,IA,TX,NE
+s1_demographic_00216.sql,7601,s1_demographic,1,2002,M,4 yr Degree,3,5,6,7,10,11,NE,VA,OK,CO,NY,NC,MO
+s1_demographic_00217.sql,8896,s1_demographic,1,2002,M,4 yr Degree,1,2,4,8,9,12,VA,GA,KY,OK,IL,WV,NE
+s1_demographic_00218.sql,10780,s1_demographic,1,2002,F,Unknown,1,2,3,6,9,10,WI,KY,GA,TX,OK,IN,IA
+s1_demographic_00219.sql,9185,s1_demographic,1,2002,M,4 yr Degree,4,5,6,8,9,12,NC,TX,TN,GA,ID,OH,IA
+s1_demographic_00220.sql,8304,s1_demographic,1,2002,F,2 yr Degree,1,2,4,9,10,11,PA,GA,IA,NE,AR,MO,KY
+s1_demographic_00221.sql,8324,s1_demographic,1,2002,M,4 yr Degree,1,2,3,5,11,12,TX,KY,OH,NM,TN,MO,IN
+s1_demographic_00222.sql,6752,s1_demographic,1,2002,F,2 yr Degree,3,4,8,10,11,12,OK,GA,NM,WI,ID,IA,TN
+s1_demographic_00223.sql,9529,s1_demographic,1,2002,F,4 yr Degree,1,3,5,9,11,12,TX,NY,GA,MO,VA,OH,IN
+s1_demographic_00224.sql,8057,s1_demographic,1,2002,M,Primary,2,3,7,8,10,11,VA,AR,MS,IL,WV,IA,NY
+s1_demographic_00225.sql,8292,s1_demographic,1,2002,M,Primary,1,4,5,7,10,11,GA,MS,NC,VA,KY,NJ,AL
+s1_demographic_00226.sql,5431,s1_demographic,1,2002,M,College,3,5,6,8,9,12,IN,OH,AR,AL,NY,WI,MO
+s1_demographic_00227.sql,7794,s1_demographic,1,2002,F,Secondary,2,3,4,5,10,12,VA,WV,PA,GA,AR,NM,IL
+s1_demographic_00228.sql,10383,s1_demographic,1,2002,F,Secondary,3,5,7,9,10,11,TX,NC,TN,GA,VA,AL,NE
+s1_demographic_00229.sql,8048,s1_demographic,1,2002,F,2 yr Degree,1,2,7,10,11,12,TX,PA,NM,IL,OH,VA,KY
+s1_demographic_00230.sql,9947,s1_demographic,1,2002,M,Primary,4,5,7,9,10,12,TN,NE,NC,TX,OH,MO,IN
+s1_demographic_00231.sql,7608,s1_demographic,1,2002,F,Secondary,1,3,7,8,10,11,IA,NM,OH,TX,VA,ID,CO
+s1_demographic_00232.sql,7882,s1_demographic,1,2002,M,College,1,2,4,5,11,12,PA,IL,IN,NC,VA,NY,TN
+s1_demographic_00233.sql,10153,s1_demographic,1,2002,F,4 yr Degree,1,4,9,10,11,12,VA,KY,TX,NE,GA,IA,IL
+s1_demographic_00234.sql,9469,s1_demographic,1,2002,M,Primary,2,7,8,10,11,12,KY,TX,MS,IN,GA,MO,AL
+s1_demographic_00235.sql,7515,s1_demographic,1,2002,M,College,2,3,6,9,11,12,TN,MS,NY,IA,TX,OH,NE
+s1_demographic_00236.sql,9659,s1_demographic,1,2002,F,2 yr Degree,2,4,6,7,9,10,GA,IA,TX,TN,PA,CA,NC
+s1_demographic_00237.sql,6746,s1_demographic,1,2002,M,4 yr Degree,3,4,5,6,8,10,CA,NY,TN,PA,MO,VA,WV
+s1_demographic_00238.sql,5850,s1_demographic,1,2002,M,4 yr Degree,2,3,4,5,8,12,WI,OK,CO,MO,AL,IL,PA
+s1_demographic_00239.sql,8353,s1_demographic,1,2002,F,4 yr Degree,1,2,4,5,8,11,GA,MS,AL,TX,VA,NY,IA
+s1_demographic_00240.sql,8496,s1_demographic,1,2002,F,4 yr Degree,1,5,6,8,9,10,GA,MS,ID,IN,NY,IA,TX
+s1_demographic_00241.sql,9040,s1_demographic,1,2002,M,4 yr Degree,4,6,7,8,11,12,WV,AR,TX,TN,NM,IN,KY
+s1_demographic_00242.sql,8956,s1_demographic,1,2002,M,Primary,1,5,6,8,9,12,KY,IL,PA,NE,TX,IA,NY
+s1_demographic_00243.sql,8703,s1_demographic,1,2002,F,Unknown,2,3,5,6,7,9,OK,AR,TX,OH,VA,CO,PA
+s1_demographic_00244.sql,5692,s1_demographic,1,2002,M,College,3,6,7,8,9,11,MS,PA,KY,WI,NE,NM,OK
+s1_demographic_00245.sql,9106,s1_demographic,1,2002,F,2 yr Degree,2,4,5,9,10,12,GA,IL,WV,TN,AL,CO,TX
+s1_demographic_00246.sql,8563,s1_demographic,1,2002,F,4 yr Degree,2,6,7,8,11,12,TX,IA,NE,NJ,OH,GA,MS
+s1_demographic_00247.sql,7484,s1_demographic,1,2002,M,College,1,3,7,9,10,12,VA,NY,AL,CA,TN,MO,IN
+s1_demographic_00248.sql,6787,s1_demographic,1,2002,F,Secondary,2,4,5,7,9,11,WV,KY,AR,IA,NE,OH,IL
+s1_demographic_00249.sql,8012,s1_demographic,1,2002,F,2 yr Degree,1,2,4,8,9,10,OK,NC,TX,KY,NE,WV,NM
+s1_demographic_00250.sql,9056,s1_demographic,1,2002,F,Secondary,1,2,3,4,10,11,IA,VA,GA,KY,WI,MS,NC
+s1_demographic_00251.sql,7316,s1_demographic,1,2002,M,4 yr Degree,1,2,4,5,7,12,KY,MS,TN,GA,NC,OK,MO
+s1_demographic_00252.sql,7878,s1_demographic,1,2002,F,4 yr Degree,3,5,6,7,9,12,TN,NM,CA,ID,GA,TX,OH
+s1_demographic_00253.sql,9726,s1_demographic,1,2002,M,4 yr Degree,2,3,4,5,9,10,TX,AL,IN,GA,NE,CA,MO
+s1_demographic_00254.sql,9112,s1_demographic,1,2002,F,Secondary,1,5,7,9,10,11,IL,PA,AR,NC,TX,WV,IN
+s1_demographic_00255.sql,9395,s1_demographic,1,2002,F,2 yr Degree,1,2,8,9,10,12,GA,TN,IN,PA,KY,TX,AR
+s1_demographic_00256.sql,8728,s1_demographic,1,2002,M,4 yr Degree,2,5,6,7,8,12,TX,NC,NE,OK,CA,AR,MO
+s1_demographic_00257.sql,7474,s1_demographic,1,2002,F,4 yr Degree,1,2,3,4,10,12,OK,CO,IN,VA,NY,MO,TN
+s1_demographic_00258.sql,7963,s1_demographic,1,2002,F,4 yr Degree,1,3,4,5,7,10,OK,GA,CO,NE,IA,MS,VA
+s1_demographic_00259.sql,8692,s1_demographic,1,2002,M,4 yr Degree,3,4,5,6,7,9,OH,NC,PA,AL,NY,TX,KY
+s1_demographic_00260.sql,9049,s1_demographic,1,2002,M,College,2,3,6,8,11,12,TX,MO,GA,IA,IN,OH,CA
+s1_demographic_00261.sql,8123,s1_demographic,1,2002,F,Unknown,1,4,8,9,11,12,GA,CO,WV,TX,MO,TN,IL
+s1_demographic_00262.sql,8649,s1_demographic,1,2002,F,2 yr Degree,2,3,5,7,8,10,WI,TX,IN,IA,IL,AL,NY
+s1_demographic_00263.sql,8592,s1_demographic,1,2002,F,4 yr Degree,1,2,3,5,7,8,MO,IA,TX,KY,NM,OK,NE
+s1_demographic_00264.sql,9048,s1_demographic,1,2002,F,4 yr Degree,1,3,4,5,7,12,TN,TX,MS,IA,NC,VA,NM
+s1_demographic_00265.sql,7175,s1_demographic,1,2002,M,Primary,1,2,3,5,10,12,CO,CA,WV,VA,GA,NE,ID
+s1_demographic_00266.sql,6757,s1_demographic,1,2002,F,Secondary,2,5,7,9,10,11,TN,GA,MO,IA,CA,CO,WV
+s1_demographic_00267.sql,7851,s1_demographic,1,2002,M,Primary,1,4,6,8,9,12,OK,OH,IL,AL,MS,NC,CA
+s1_demographic_00268.sql,5534,s1_demographic,1,2002,M,4 yr Degree,1,2,3,4,5,12,WI,NM,IL,KY,TN,CO,MS
+s1_demographic_00269.sql,6680,s1_demographic,1,2002,F,2 yr Degree,4,6,7,9,10,11,NC,NY,PA,IL,IN,OH,MS
+s1_demographic_00270.sql,8761,s1_demographic,1,2002,M,Primary,2,5,6,9,10,11,KY,NY,TN,IA,WV,TX,OH
+s1_demographic_00271.sql,8352,s1_demographic,1,2002,F,4 yr Degree,2,4,5,7,9,11,TX,GA,OK,AR,VA,WI,MO
+s1_demographic_00272.sql,11564,s1_demographic,1,2002,M,College,3,7,8,9,10,12,GA,IN,KY,MS,NC,TX,VA
+s1_demographic_00273.sql,9253,s1_demographic,1,2002,F,Unknown,1,4,5,6,11,12,GA,TN,AR,WV,CA,KY,TX
+s1_demographic_00274.sql,6990,s1_demographic,1,2002,M,4 yr Degree,2,3,5,7,11,12,AR,NE,TN,IA,CA,AL,WI
+s1_demographic_00275.sql,8802,s1_demographic,1,2002,F,4 yr Degree,4,5,6,8,10,11,TX,IL,VA,AL,NE,NC,IA
+s1_demographic_00276.sql,9404,s1_demographic,1,2002,M,Primary,1,2,5,6,9,12,NC,CO,WV,VA,TX,IN,IL
+s1_demographic_00277.sql,6846,s1_demographic,1,2002,F,Unknown,1,2,3,8,9,12,MO,KY,IN,ID,NM,NC,AL
+s1_demographic_00278.sql,9234,s1_demographic,1,2002,F,4 yr Degree,2,3,5,7,9,12,GA,NC,MS,IN,CO,TX,AR
+s1_demographic_00279.sql,9346,s1_demographic,1,2002,F,2 yr Degree,2,5,6,7,9,10,TX,TN,WV,VA,IL,NC,OK
+s1_demographic_00280.sql,8794,s1_demographic,1,2002,F,Secondary,1,3,5,8,9,10,AL,CA,WV,NE,TX,TN,NC
+s1_demographic_00281.sql,8275,s1_demographic,1,2002,M,College,3,6,8,9,10,11,IA,AL,GA,IL,PA,WI,VA
+s1_demographic_00282.sql,9645,s1_demographic,1,2002,F,4 yr Degree,1,2,3,5,8,10,IN,KY,OH,NC,VA,TX,MS
+s1_demographic_00283.sql,10674,s1_demographic,1,2002,M,College,1,2,5,7,8,10,CO,TX,GA,VA,TN,NC,NE
+s1_demographic_00284.sql,7989,s1_demographic,1,2002,F,2 yr Degree,1,2,7,8,11,12,PA,TX,CO,MS,NE,VA,AL
+s1_demographic_00285.sql,8050,s1_demographic,1,2002,F,Secondary,1,4,7,10,11,12,NM,NY,CA,WV,GA,MS,TX
+s1_demographic_00286.sql,7148,s1_demographic,1,2002,F,2 yr Degree,1,3,5,6,9,12,KY,TN,OH,WI,IL,MS,IA
+s1_demographic_00287.sql,7241,s1_demographic,1,2002,F,Unknown,1,2,7,9,11,12,CA,VA,MS,WV,TN,KY,IL
+s1_demographic_00288.sql,7071,s1_demographic,1,2002,F,4 yr Degree,1,4,5,9,10,11,AR,IN,NJ,TN,GA,VA,MO
+s1_demographic_00289.sql,6130,s1_demographic,1,2002,M,Primary,2,6,8,9,10,11,CA,WV,MS,TN,OK,IL,NY
+s1_demographic_00290.sql,6305,s1_demographic,1,2002,M,Primary,5,6,7,9,10,12,NM,NC,MS,NE,IL,AL,WV
+s1_demographic_00291.sql,9210,s1_demographic,1,2002,F,Unknown,2,3,4,5,10,12,IL,CO,AR,GA,TX,IN,MS
+s1_demographic_00292.sql,7602,s1_demographic,1,2002,F,Secondary,3,4,5,7,8,9,KY,MO,AL,IN,OH,VA,IA
+s1_demographic_00293.sql,9470,s1_demographic,1,2002,M,4 yr Degree,1,5,6,7,11,12,IN,OK,MS,GA,TX,AL,NC
+s1_demographic_00294.sql,7446,s1_demographic,1,2002,F,2 yr Degree,2,4,5,6,9,10,WI,VA,MS,NE,TN,KY,OK
+s1_demographic_00295.sql,8870,s1_demographic,1,2002,F,Secondary,2,3,6,9,10,12,OK,AR,TX,NM,VA,NC,IN
+s1_demographic_00296.sql,8641,s1_demographic,1,2002,F,Unknown,1,2,6,8,10,11,NY,IL,IN,TX,AL,WI,MO
+s1_demographic_00297.sql,7240,s1_demographic,1,2002,F,4 yr Degree,1,2,3,7,9,11,NC,IA,IN,IL,PA,OK,MO
+s1_demographic_00298.sql,10293,s1_demographic,1,2002,F,2 yr Degree,5,6,8,9,10,12,IA,VA,PA,TX,NE,GA,IN
+s1_demographic_00299.sql,10708,s1_demographic,1,2002,M,College,1,2,3,4,7,12,TX,VA,OK,CA,KY,GA,AR
+s1_demographic_00300.sql,8834,s1_demographic,1,2002,F,Secondary,1,3,6,9,10,12,TX,WI,NC,OK,NY,VA,NE
+s1_demographic_00301.sql,9937,s1_demographic,1,2002,M,College,1,2,3,4,7,9,IA,GA,OH,TX,MS,VA,WV
+s1_demographic_00302.sql,10277,s1_demographic,1,2002,M,Primary,2,3,4,9,11,12,NE,OH,NC,TX,AR,GA,VA
+s1_demographic_00303.sql,8265,s1_demographic,1,2002,M,Primary,4,5,6,8,11,12,AR,MS,NC,MO,IA,ID,VA
+s1_demographic_00304.sql,7400,s1_demographic,1,2002,F,Secondary,1,3,5,10,11,12,TN,IN,KY,IL,IA,CO,AR
+s1_demographic_00305.sql,8010,s1_demographic,1,2002,F,2 yr Degree,2,5,7,8,10,11,VA,TN,NE,MS,IL,IA,AL
+s1_demographic_00306.sql,10400,s1_demographic,1,2002,F,2 yr Degree,2,3,6,7,9,12,VA,IA,AR,MS,NE,GA,TX
+s1_demographic_00307.sql,7517,s1_demographic,1,2002,F,Secondary,1,2,5,6,7,10,OH,NC,NY,IA,VA,WI,MS
+s1_demographic_00308.sql,7765,s1_demographic,1,2002,M,College,6,7,8,9,10,11,GA,NY,PA,TX,WV,OK,MS
+s1_demographic_00309.sql,9112,s1_demographic,1,2002,M,College,2,4,5,7,9,10,GA,TN,KY,MO,WI,TX,WV
+s1_demographic_00310.sql,7334,s1_demographic,1,2002,M,4 yr Degree,3,4,5,6,10,12,OH,AR,VA,IN,CA,WI,PA
+s1_demographic_00311.sql,8566,s1_demographic,1,2002,F,4 yr Degree,1,5,7,8,11,12,WV,TX,KY,MO,WI,NC,PA
+s1_demographic_00312.sql,6981,s1_demographic,1,2002,M,Primary,4,6,7,9,11,12,OK,IL,OH,CO,AR,NE,AL
+s1_demographic_00313.sql,9821,s1_demographic,1,2002,M,4 yr Degree,1,2,3,7,9,12,IA,TX,GA,VA,CA,TN,IN
+s1_demographic_00314.sql,8042,s1_demographic,1,2002,F,Unknown,1,2,5,7,10,11,NC,MO,AR,NJ,IL,IA,GA
+s1_demographic_00315.sql,9805,s1_demographic,1,2002,F,Unknown,2,3,5,7,8,12,PA,VA,TN,IA,OK,TX,KY
+s1_demographic_00316.sql,9581,s1_demographic,1,2002,F,Unknown,2,3,4,6,7,8,KY,OK,NY,PA,TX,AL,GA
+s1_demographic_00317.sql,7425,s1_demographic,1,2002,M,College,2,3,5,7,8,12,MO,AL,GA,WI,PA,KY,NY
+s1_demographic_00318.sql,7445,s1_demographic,1,2002,F,4 yr Degree,1,4,6,9,10,12,WI,MO,GA,CA,IA,NC,KY
+s1_demographic_00319.sql,8261,s1_demographic,1,2002,M,Primary,1,4,5,7,11,12,OK,NC,OH,PA,IA,VA,WV
+s1_demographic_00320.sql,10670,s1_demographic,1,2002,M,4 yr Degree,1,3,4,6,7,8,AR,GA,KY,TX,VA,IA,MS
+s1_demographic_00321.sql,8995,s1_demographic,1,2002,F,2 yr Degree,2,3,4,7,10,11,KY,MS,ID,NY,NC,TX,TN
+s1_demographic_00322.sql,7833,s1_demographic,1,2002,M,College,1,3,4,8,9,10,PA,NC,MO,CO,GA,AR,IN
+s1_demographic_00323.sql,7436,s1_demographic,1,2002,M,College,1,4,5,7,11,12,VA,KY,MS,OK,WV,IA,OH
+s1_demographic_00324.sql,9220,s1_demographic,1,2002,M,4 yr Degree,1,2,4,5,6,11,AL,NC,GA,MS,TX,NE,IL
+s1_demographic_00325.sql,7080,s1_demographic,1,2002,F,Unknown,2,3,9,10,11,12,OH,MO,IL,TN,KY,NE,CO
+s1_demographic_00326.sql,9718,s1_demographic,1,2002,M,Primary,1,2,3,4,7,11,VA,NC,IN,ID,OH,IL,TX
+s1_demographic_00327.sql,8303,s1_demographic,1,2002,F,2 yr Degree,1,3,4,7,9,10,KY,CA,VA,IL,MS,TN,NE
+s1_demographic_00328.sql,9431,s1_demographic,1,2002,F,4 yr Degree,4,7,8,10,11,12,CO,TX,PA,IL,NC,KY,VA
+s1_demographic_00329.sql,9819,s1_demographic,1,2002,F,4 yr Degree,1,3,4,7,8,9,IL,GA,TX,MS,MO,CO,KY
+s1_demographic_00330.sql,9742,s1_demographic,1,2002,F,Secondary,1,2,7,8,9,12,GA,NC,KY,NE,TX,PA,MS
+s1_demographic_00331.sql,8393,s1_demographic,1,2002,M,4 yr Degree,2,3,4,6,7,9,TX,MO,NM,AR,NC,OH,CO
+s1_demographic_00332.sql,8775,s1_demographic,1,2002,F,4 yr Degree,1,5,7,9,11,12,ID,GA,TX,IL,TN,MO,IA
+s1_demographic_00333.sql,9582,s1_demographic,1,2002,F,2 yr Degree,1,2,3,10,11,12,VA,GA,NJ,IA,NY,TN,TX
+s1_demographic_00334.sql,10301,s1_demographic,1,2002,M,Primary,1,3,4,5,9,11,TX,NC,IA,CA,KY,MO,VA
+s1_demographic_00335.sql,9276,s1_demographic,1,2002,M,4 yr Degree,2,4,5,7,10,12,TX,AR,IL,TN,ID,IA,VA
+s1_demographic_00336.sql,8309,s1_demographic,1,2002,F,2 yr Degree,2,4,6,9,10,12,VA,IL,AR,MS,IA,OH,GA
+s1_demographic_00337.sql,8915,s1_demographic,1,2002,F,Secondary,1,3,6,8,10,12,IN,TX,NY,CA,NC,GA,WV
+s1_demographic_00338.sql,10121,s1_demographic,1,2002,F,Unknown,1,2,3,8,9,12,IN,MS,TX,AL,KY,VA,NC
+s1_demographic_00339.sql,9885,s1_demographic,1,2002,M,4 yr Degree,2,4,5,7,8,9,MO,OH,NE,TX,NC,WI,GA
+s1_demographic_00340.sql,8906,s1_demographic,1,2002,F,Unknown,1,6,7,8,9,10,KY,TN,MS,OH,GA,CA,IA
+s1_demographic_00341.sql,6599,s1_demographic,1,2002,M,College,4,5,8,9,11,12,VA,MS,AL,IL,AR,IA,WV
+s1_demographic_00342.sql,8292,s1_demographic,1,2002,F,4 yr Degree,1,4,5,6,8,9,TX,MS,GA,VA,NY,NM,IA
+s1_demographic_00343.sql,8796,s1_demographic,1,2002,F,4 yr Degree,1,2,3,4,5,6,TX,ID,OK,NM,GA,MO,VA
+s1_demographic_00344.sql,9351,s1_demographic,1,2002,F,Unknown,3,5,7,9,10,11,TX,PA,MO,NY,IA,VA,IN
+s1_demographic_00345.sql,9655,s1_demographic,1,2002,F,Unknown,1,2,4,5,6,11,KY,NE,GA,VA,IL,NJ,TX
+s1_demographic_00346.sql,8785,s1_demographic,1,2002,F,4 yr Degree,2,3,5,8,10,11,OK,MS,IN,VA,TN,TX,AL
+s1_demographic_00347.sql,9851,s1_demographic,1,2002,M,Primary,4,6,7,8,10,12,AR,IN,TX,VA,GA,NM,CO
+s1_demographic_00348.sql,9550,s1_demographic,1,2002,M,Primary,2,3,4,6,8,12,NE,KY,AL,NJ,VA,TX,TN
+s1_demographic_00349.sql,6009,s1_demographic,1,2002,F,4 yr Degree,1,3,5,7,8,11,MS,ID,IL,VA,NJ,NC,NM
+s1_state_00000.sql,4552,s1_state,1,2002,M,Secondary,3,4,5,7,11,12,MN,AK,FL,CT,SC,KS,UT
+s1_state_00001.sql,4452,s1_state,1,2002,F,Advanced Degree,1,4,5,7,10,11,MT,LA,OR,KS,WA,ME,SD
+s1_state_00002.sql,3745,s1_state,1,2002,M,Unknown,1,2,6,7,8,12,RI,ND,MN,MI,SD,NV,AZ
+s1_state_00003.sql,4826,s1_state,1,2002,F,College,3,4,8,9,10,11,KS,MI,ND,RI,FL,OR,SC
+s1_state_00004.sql,4636,s1_state,1,2002,M,Advanced Degree,1,6,7,8,9,11,MT,SC,FL,OR,KS,MI,NV
+s1_state_00005.sql,4169,s1_state,1,2002,F,Primary,1,2,4,5,9,12,KS,UT,FL,MN,SD,SC,LA
+s1_state_00006.sql,4382,s1_state,1,2002,F,Advanced Degree,1,2,7,9,10,12,FL,NH,SD,WA,KS,UT,SC
+s1_state_00007.sql,5144,s1_state,1,2002,M,Secondary,2,3,4,5,8,12,FL,WA,OR,SD,KS,MT,MN
+s1_state_00008.sql,3396,s1_state,1,2002,M,2 yr Degree,1,2,4,7,8,12,MI,UT,SC,MT,RI,AK,ND
+s1_state_00009.sql,4311,s1_state,1,2002,F,College,1,2,4,8,9,12,KS,ME,WY,MN,FL,OR,WA
+s1_state_00010.sql,5306,s1_state,1,2002,F,Advanced Degree,4,7,8,9,11,12,MN,SD,ND,MT,FL,MI,AK
+s1_state_00011.sql,3351,s1_state,1,2002,M,Secondary,1,3,7,8,9,10,WA,MD,MI,FL,SD,LA,DE
+s1_state_00012.sql,4949,s1_state,1,2002,F,Advanced Degree,2,3,4,6,9,12,RI,KS,MN,OR,MI,MT,FL
+s1_state_00013.sql,4234,s1_state,1,2002,M,2 yr Degree,1,4,5,7,10,11,MT,UT,KS,ND,MI,MD,LA
+s1_state_00014.sql,4062,s1_state,1,2002,F,College,1,4,7,8,9,10,SC,OR,KS,MA,ND,MN,MD
+s1_state_00015.sql,5955,s1_state,1,2002,M,Advanced Degree,1,2,4,5,6,10,MI,SD,SC,FL,MN,KS,ND
+s1_state_00016.sql,5113,s1_state,1,2002,F,College,3,6,8,9,10,12,MN,LA,KS,AK,SC,WA,FL
+s1_state_00017.sql,4988,s1_state,1,2002,M,Unknown,2,3,4,8,10,12,SD,MI,MN,SC,HI,KS,OR
+s1_state_00018.sql,5003,s1_state,1,2002,F,Primary,4,7,8,9,10,12,MI,KS,UT,SC,MN,MT,SD
+s1_state_00019.sql,4684,s1_state,1,2002,F,Primary,2,7,8,9,10,11,MT,MI,FL,WA,OR,SD,SC
+s1_state_00020.sql,3792,s1_state,1,2002,M,Unknown,1,4,6,9,11,12,KS,FL,VT,WA,SD,UT,RI
+s1_state_00021.sql,5479,s1_state,1,2002,F,College,1,4,6,8,9,12,MN,MT,SD,KS,MI,ND,WA
+s1_state_00022.sql,3485,s1_state,1,2002,M,2 yr Degree,1,3,4,5,9,10,MI,WA,FL,SC,AZ,MD,MA
+s1_state_00023.sql,3881,s1_state,1,2002,F,Primary,1,3,5,7,8,10,NH,MN,WA,MT,ND,SD,ME
+s1_state_00024.sql,4931,s1_state,1,2002,M,2 yr Degree,2,3,5,7,10,12,FL,MT,ND,LA,KS,MI,MA
+s1_state_00025.sql,4202,s1_state,1,2002,M,Unknown,1,2,3,5,9,11,MT,FL,UT,OR,SD,MN,LA
+s1_state_00026.sql,4000,s1_state,1,2002,M,2 yr Degree,1,2,3,5,6,12,ND,FL,MN,MT,WY,SC,OR
+s1_state_00027.sql,5592,s1_state,1,2002,M,Unknown,1,4,8,9,10,12,KS,MI,MT,MN,WY,SC,SD
+s1_state_00028.sql,5065,s1_state,1,2002,M,Advanced Degree,1,3,4,6,8,11,KS,RI,MT,MI,SC,SD,MN
+s1_state_00029.sql,4177,s1_state,1,2002,F,College,5,6,7,9,11,12,MN,ND,OR,MA,MD,MI,MT
+s1_state_00030.sql,4909,s1_state,1,2002,F,Primary,1,2,6,7,8,9,KS,MI,WA,SD,MD,FL,WY
+s1_state_00031.sql,4171,s1_state,1,2002,F,Advanced Degree,3,4,5,8,9,11,KS,MN,MD,LA,SC,CT,ND
+s1_state_00032.sql,4707,s1_state,1,2002,F,Advanced Degree,1,3,6,7,8,12,NV,SC,ND,FL,MN,WA,AK
+s1_state_00033.sql,3469,s1_state,1,2002,M,2 yr Degree,2,4,8,9,10,12,NV,AZ,MA,ND,SD,LA,MN
+s1_state_00034.sql,3773,s1_state,1,2002,F,Primary,3,4,5,6,8,11,NH,KS,SC,MA,AK,MT,ME
+s1_state_00035.sql,3474,s1_state,1,2002,F,Primary,1,2,6,8,9,10,SD,MI,CT,ND,WA,AZ,ME
+s1_state_00036.sql,4071,s1_state,1,2002,M,Unknown,1,2,5,6,9,11,MD,FL,VT,MI,KS,MN,ND
+s1_state_00037.sql,5397,s1_state,1,2002,M,Secondary,2,3,9,10,11,12,SD,SC,LA,FL,KS,WA,MN
+s1_state_00038.sql,4820,s1_state,1,2002,M,2 yr Degree,1,3,4,8,9,12,FL,SD,MI,MA,UT,MN,ND
+s1_state_00039.sql,3206,s1_state,1,2002,M,Advanced Degree,3,7,9,10,11,12,WY,SC,AK,WA,SD,LA,MI
+s1_state_00040.sql,4622,s1_state,1,2002,M,2 yr Degree,2,5,7,8,10,11,KS,WY,FL,MI,UT,AK,MN
+s1_state_00041.sql,4538,s1_state,1,2002,F,Primary,3,4,8,9,10,11,LA,KS,SD,ND,DC,MN,WA
+s1_state_00042.sql,4491,s1_state,1,2002,M,2 yr Degree,1,2,4,6,7,8,FL,SD,VT,ND,MI,KS,OR
+s1_state_00043.sql,4754,s1_state,1,2002,F,Primary,3,4,5,9,11,12,SC,AK,KS,OR,WA,MT,ND
+s1_state_00044.sql,6152,s1_state,1,2002,F,College,3,5,6,8,10,12,SD,AZ,FL,MI,MN,ND,LA
+s1_state_00045.sql,5101,s1_state,1,2002,F,Primary,1,4,5,7,10,11,MN,WA,KS,SD,LA,ND,OR
+s1_state_00046.sql,4755,s1_state,1,2002,F,College,1,2,3,4,5,11,VT,WA,LA,MT,MI,ND,MN
+s1_state_00047.sql,3569,s1_state,1,2002,F,Advanced Degree,2,4,5,6,10,11,WY,MD,LA,MT,KS,MN,MA
+s1_state_00048.sql,4153,s1_state,1,2002,M,Unknown,3,6,7,8,9,10,MI,OR,MD,SC,LA,MT,KS
+s1_state_00049.sql,4006,s1_state,1,2002,F,Advanced Degree,1,6,7,8,11,12,SD,ND,MD,MI,UT,OR,VT
+s1_state_00050.sql,4133,s1_state,1,2002,F,College,1,3,4,5,8,9,MN,AZ,KS,MD,WY,VT,MT
+s1_state_00051.sql,4037,s1_state,1,2002,M,Unknown,5,7,8,9,10,11,MN,SD,ND,SC,KS,WY,AK
+s1_state_00052.sql,4619,s1_state,1,2002,M,Unknown,2,4,5,6,10,12,FL,SC,MT,SD,KS,VT,OR
+s1_state_00053.sql,4319,s1_state,1,2002,M,Advanced Degree,2,3,4,5,9,10,MA,VT,FL,ND,MN,KS,UT
+s1_state_00054.sql,3649,s1_state,1,2002,M,Secondary,3,5,7,10,11,12,MT,KS,OR,NV,VT,RI,MN
+s1_state_00055.sql,3437,s1_state,1,2002,F,College,7,8,9,10,11,12,MD,NH,SC,OR,MN,SD,ND
+s1_state_00056.sql,4507,s1_state,1,2002,F,College,2,3,4,5,6,7,MI,WA,MN,KS,FL,MA,ME
+s1_state_00057.sql,3747,s1_state,1,2002,M,Advanced Degree,2,3,6,9,10,12,MA,SC,MI,NV,KS,FL,SD
+s1_state_00058.sql,4018,s1_state,1,2002,M,2 yr Degree,1,3,4,5,7,11,ND,MN,MD,FL,NV,LA,WA
+s1_state_00059.sql,5292,s1_state,1,2002,F,Advanced Degree,2,3,4,9,10,12,SD,KS,WA,RI,MN,SC,FL
+s1_state_00060.sql,3729,s1_state,1,2002,F,Advanced Degree,1,2,3,4,5,6,MD,SD,LA,WA,MT,MN,OR
+s1_state_00061.sql,4972,s1_state,1,2002,M,Secondary,1,2,3,5,7,12,KS,FL,WY,MT,LA,MI,WA
+s1_state_00062.sql,4886,s1_state,1,2002,F,Primary,4,5,6,9,11,12,FL,ND,AK,KS,MI,UT,LA
+s1_state_00063.sql,4264,s1_state,1,2002,M,Unknown,2,3,6,8,9,10,MT,KS,LA,MI,SD,AK,MD
+s1_state_00064.sql,3345,s1_state,1,2002,M,Unknown,1,4,5,7,8,12,MI,ME,WA,OR,FL,AZ,SC
+s1_state_00065.sql,3630,s1_state,1,2002,M,Advanced Degree,1,4,5,8,10,11,SD,LA,MN,NV,MD,NH,ND
+s1_state_00066.sql,4470,s1_state,1,2002,M,Advanced Degree,2,3,4,6,8,9,FL,AK,LA,ND,VT,MI,KS
+s1_state_00067.sql,4464,s1_state,1,2002,M,2 yr Degree,3,5,6,10,11,12,SC,ND,FL,MI,MA,MN,SD
+s1_state_00068.sql,5020,s1_state,1,2002,F,Advanced Degree,1,2,5,6,7,12,MT,SD,KS,LA,MN,FL,DC
+s1_state_00069.sql,3197,s1_state,1,2002,F,College,2,4,7,10,11,12,ME,MN,MD,MT,SD,ND,NV
+s1_state_00070.sql,2521,s1_state,1,2002,M,Advanced Degree,2,4,9,10,11,12,OR,AZ,SD,WA,AK,UT,KS
+s1_state_00071.sql,4252,s1_state,1,2002,M,2 yr Degree,1,2,3,6,9,12,LA,MI,MN,FL,NH,MD,NV
+s1_state_00072.sql,4413,s1_state,1,2002,M,Secondary,1,2,4,6,10,11,KS,MI,NV,SC,VT,SD,OR
+s1_state_00073.sql,5210,s1_state,1,2002,M,Secondary,2,4,6,8,11,12,MN,SD,AK,FL,MD,MI,KS
+s1_state_00074.sql,3942,s1_state,1,2002,F,Advanced Degree,1,2,6,7,9,10,FL,NV,MN,ME,MT,WY,UT
+s1_state_00075.sql,4253,s1_state,1,2002,F,Advanced Degree,1,4,6,9,10,11,ME,FL,MN,OR,ND,KS,CT
+s1_state_00076.sql,5615,s1_state,1,2002,M,Advanced Degree,1,4,5,6,9,10,SD,KS,MT,SC,ND,FL,MN
+s1_state_00077.sql,4336,s1_state,1,2002,M,Advanced Degree,3,4,7,8,10,12,AK,MN,SC,KS,OR,MA,LA
+s1_state_00078.sql,2619,s1_state,1,2002,M,Advanced Degree,1,2,6,7,8,9,AZ,MD,SC,WY,LA,FL,NH
+s1_state_00079.sql,3369,s1_state,1,2002,F,Advanced Degree,1,2,3,4,8,11,MI,SD,AK,MA,MD,ND,OR
+s1_state_00080.sql,4954,s1_state,1,2002,M,Secondary,2,3,4,5,10,11,MN,KS,WA,MT,DC,SD,MI
+s1_state_00081.sql,5606,s1_state,1,2002,F,College,1,3,4,6,8,10,SD,KS,ME,MT,FL,MN,UT
+s1_state_00082.sql,2519,s1_state,1,2002,F,Advanced Degree,2,3,4,6,9,11,CT,ND,MD,NH,HI,OR,FL
+s1_state_00083.sql,4281,s1_state,1,2002,M,Unknown,1,3,5,8,9,12,ND,KS,ME,AK,SC,MI,FL
+s1_state_00084.sql,5120,s1_state,1,2002,M,2 yr Degree,1,2,3,8,9,11,WA,VT,LA,FL,KS,SD,MI
+s1_state_00085.sql,4810,s1_state,1,2002,M,2 yr Degree,1,6,7,8,9,12,OR,MN,NV,LA,MI,MT,UT
+s1_state_00086.sql,4398,s1_state,1,2002,M,Advanced Degree,3,4,6,7,10,12,WA,OR,KS,WY,MN,SD,ND
+s1_state_00087.sql,4731,s1_state,1,2002,F,Primary,1,4,6,7,8,12,MN,OR,LA,SC,MI,MD,KS
+s1_state_00088.sql,4509,s1_state,1,2002,F,College,1,5,9,10,11,12,MA,OR,SC,WA,MI,KS,SD
+s1_state_00089.sql,3584,s1_state,1,2002,F,College,3,6,9,10,11,12,ND,MT,MN,NV,CT,WA,LA
+s1_state_00090.sql,5449,s1_state,1,2002,F,Advanced Degree,4,5,6,7,11,12,FL,ME,LA,SD,MI,MT,KS
+s1_state_00091.sql,3901,s1_state,1,2002,M,Advanced Degree,1,2,3,5,11,12,KS,AZ,NH,FL,SC,MN,ME
+s1_state_00092.sql,5007,s1_state,1,2002,F,College,3,4,5,6,10,11,MI,KS,LA,ND,UT,MN,VT
+s1_state_00093.sql,4443,s1_state,1,2002,M,Secondary,1,3,5,6,10,12,MN,SD,WY,MD,MI,LA,ME
+s1_state_00094.sql,3111,s1_state,1,2002,M,Unknown,3,4,8,10,11,12,MT,SD,WA,SC,NV,FL,UT
+s1_state_00095.sql,4487,s1_state,1,2002,M,Advanced Degree,1,2,4,7,9,11,MN,MA,SC,KS,FL,WA,WY
+s1_state_00096.sql,3503,s1_state,1,2002,M,Secondary,1,7,8,10,11,12,ME,FL,AK,MT,SD,NV,ND
+s1_state_00097.sql,3028,s1_state,1,2002,M,2 yr Degree,2,4,5,9,10,11,MT,SC,UT,OR,MI,WA,RI
+s1_state_00098.sql,4048,s1_state,1,2002,F,Primary,3,4,5,8,9,10,ND,MI,ME,MD,FL,MN,MA
+s1_state_00099.sql,4491,s1_state,1,2002,F,Advanced Degree,5,7,8,9,10,11,FL,OR,KS,MA,MD,MI,UT
+s1_state_00100.sql,2780,s1_state,1,2002,M,Unknown,3,5,6,7,9,10,LA,MI,ME,UT,SD,AZ,SC
+s1_state_00101.sql,3848,s1_state,1,2002,M,Secondary,1,3,4,5,9,10,FL,OR,SD,AK,MT,ND,SC
+s1_state_00102.sql,4518,s1_state,1,2002,F,College,2,4,5,7,11,12,LA,MT,MN,UT,SC,ND,FL
+s1_state_00103.sql,5049,s1_state,1,2002,M,Unknown,2,4,8,10,11,12,KS,LA,AZ,MN,MT,SD,MI
+s1_state_00104.sql,4274,s1_state,1,2002,M,2 yr Degree,2,4,8,9,11,12,AK,MI,MA,SD,WY,KS,MN
+s1_state_00105.sql,4035,s1_state,1,2002,M,Advanced Degree,3,4,6,9,11,12,WA,LA,SD,MI,ND,SC,MD
+s1_state_00106.sql,3172,s1_state,1,2002,F,Advanced Degree,1,2,5,6,10,11,UT,HI,SD,MD,LA,MT,MI
+s1_state_00107.sql,4051,s1_state,1,2002,M,Secondary,1,3,5,9,10,11,ND,MT,MD,MN,LA,SC,AZ
+s1_state_00108.sql,4639,s1_state,1,2002,M,2 yr Degree,3,5,7,8,11,12,KS,AK,MN,SC,WA,SD,LA
+s1_state_00109.sql,4041,s1_state,1,2002,M,Advanced Degree,3,7,9,10,11,12,LA,MI,UT,SC,RI,MN,ND
+s1_state_00110.sql,4591,s1_state,1,2002,F,Advanced Degree,1,2,3,6,8,11,WY,MT,MN,KS,AK,ND,MI
+s1_state_00111.sql,3861,s1_state,1,2002,M,Unknown,2,3,4,5,6,9,KS,RI,MN,ME,AZ,MI,WA
+s1_state_00112.sql,3925,s1_state,1,2002,M,Secondary,1,4,7,8,9,12,KS,ND,FL,MD,MT,MI,NH
+s1_state_00113.sql,3078,s1_state,1,2002,M,Advanced Degree,3,4,5,6,8,10,MN,AK,MD,NH,UT,OR,LA
+s1_state_00114.sql,4797,s1_state,1,2002,F,Advanced Degree,2,5,6,7,9,11,WA,WY,AK,KS,MT,ND,MI
+s1_state_00115.sql,5321,s1_state,1,2002,F,Primary,1,3,6,9,10,12,NH,MN,MI,FL,SD,KS,MT
+s1_state_00116.sql,4080,s1_state,1,2002,M,2 yr Degree,1,2,3,6,7,10,KS,AZ,MN,NV,SC,ND,SD
+s1_state_00117.sql,4656,s1_state,1,2002,F,Primary,2,3,4,5,10,11,KS,MN,ND,OR,MT,AK,UT
+s1_state_00118.sql,3711,s1_state,1,2002,M,Advanced Degree,1,3,4,5,6,8,MN,MT,AZ,SD,NH,LA,AK
+s1_state_00119.sql,3865,s1_state,1,2002,M,Advanced Degree,1,2,3,5,9,10,MN,ME,KS,WA,FL,MA,MT
+s1_state_00120.sql,6053,s1_state,1,2002,F,Advanced Degree,5,7,8,9,11,12,KS,MT,WA,FL,ND,SC,MI
+s1_state_00121.sql,3423,s1_state,1,2002,F,Primary,1,4,5,7,8,11,MN,MD,SD,MT,ND,ME,NV
+s1_state_00122.sql,4744,s1_state,1,2002,M,Advanced Degree,3,4,5,7,10,12,KS,SC,LA,OR,MI,NH,ND
+s1_state_00123.sql,5772,s1_state,1,2002,F,College,1,5,6,7,8,11,FL,SC,MI,NV,KS,MN,SD
+s1_state_00124.sql,4514,s1_state,1,2002,M,2 yr Degree,1,2,3,9,10,12,CT,KS,RI,MN,MT,SD,ND
+s1_state_00125.sql,4774,s1_state,1,2002,M,2 yr Degree,2,3,6,7,9,10,KS,LA,ND,SC,UT,FL,MT
+s1_state_00126.sql,4765,s1_state,1,2002,M,Secondary,4,7,8,10,11,12,KS,NV,WA,FL,SC,MN,SD
+s1_state_00127.sql,3420,s1_state,1,2002,F,Advanced Degree,4,5,6,7,10,11,SD,LA,WA,MI,NV,ME,AZ
+s1_state_00128.sql,4739,s1_state,1,2002,F,Advanced Degree,1,4,5,7,8,10,OR,MN,CT,FL,AZ,SD,MI
+s1_state_00129.sql,4478,s1_state,1,2002,M,2 yr Degree,1,2,3,4,5,11,OR,ME,SC,KS,LA,WA,MI
+s1_state_00130.sql,5728,s1_state,1,2002,M,2 yr Degree,1,5,7,9,10,11,ME,KS,ND,SD,MN,FL,MI
+s1_state_00131.sql,4943,s1_state,1,2002,M,Secondary,3,5,7,8,11,12,ND,FL,KS,MT,MI,SC,AZ
+s1_state_00132.sql,3903,s1_state,1,2002,M,Unknown,1,2,3,6,7,8,MN,MD,FL,ND,WY,OR,MT
+s1_state_00133.sql,3466,s1_state,1,2002,M,Unknown,3,6,9,10,11,12,VT,AK,MI,MT,ND,UT,LA
+s1_state_00134.sql,4445,s1_state,1,2002,M,Unknown,2,3,5,6,7,10,LA,MI,FL,MD,SD,KS,SC
+s1_state_00135.sql,4733,s1_state,1,2002,F,Primary,5,6,7,10,11,12,UT,OR,AZ,MI,KS,MD,SD
+s1_state_00136.sql,4818,s1_state,1,2002,F,College,3,5,6,7,8,10,MN,AK,KS,ND,AZ,FL,WY
+s1_state_00137.sql,4714,s1_state,1,2002,M,2 yr Degree,3,4,5,7,8,12,MN,OR,MT,KS,SC,ND,MD
+s1_state_00138.sql,4265,s1_state,1,2002,M,2 yr Degree,2,5,6,7,9,11,MN,KS,SD,NV,ND,UT,WA
+s1_state_00139.sql,4198,s1_state,1,2002,M,2 yr Degree,4,5,6,7,8,9,OR,VT,MI,KS,UT,NV,MT
+s1_state_00140.sql,5076,s1_state,1,2002,M,Advanced Degree,2,3,7,8,11,12,UT,LA,MI,KS,NV,MT,MN
+s1_state_00141.sql,4198,s1_state,1,2002,F,Primary,1,2,8,10,11,12,WY,FL,NH,KS,OR,ND,ME
+s1_state_00142.sql,3426,s1_state,1,2002,M,Secondary,1,5,6,7,10,12,AZ,LA,UT,MD,MN,FL,ND
+s1_state_00143.sql,5566,s1_state,1,2002,M,Secondary,1,3,5,7,8,9,MN,SC,LA,MI,KS,MT,WY
+s1_state_00144.sql,5307,s1_state,1,2002,M,Advanced Degree,2,3,4,5,9,10,SC,LA,FL,KS,NV,MI,MN
+s1_state_00145.sql,5177,s1_state,1,2002,M,Secondary,2,3,5,7,9,12,KS,MN,MI,FL,MT,WA,NV
+s1_state_00146.sql,3531,s1_state,1,2002,M,Secondary,2,3,5,6,11,12,SC,WA,KS,MD,NH,ND,AK
+s1_state_00147.sql,5863,s1_state,1,2002,F,Advanced Degree,4,6,7,9,10,11,LA,FL,MI,SC,ND,KS,MN
+s1_state_00148.sql,4680,s1_state,1,2002,M,2 yr Degree,2,3,5,8,9,11,MN,MD,FL,MI,ND,WY,WA
+s1_state_00149.sql,5760,s1_state,1,2002,F,College,5,6,8,9,10,12,OR,KS,MN,MT,MI,LA,UT
+s1_state_00150.sql,3372,s1_state,1,2002,M,Unknown,1,3,4,5,6,12,UT,NH,MN,ND,WA,FL,MT
+s1_state_00151.sql,5281,s1_state,1,2002,M,2 yr Degree,2,5,7,9,10,11,LA,WA,KS,MI,MN,OR,SD
+s1_state_00152.sql,3030,s1_state,1,2002,M,Secondary,1,2,4,9,10,12,SC,OR,LA,WA,AK,FL,NV
+s1_state_00153.sql,4221,s1_state,1,2002,F,Primary,2,3,4,6,8,11,OR,WA,MI,AZ,MT,SC,FL
+s1_state_00154.sql,5220,s1_state,1,2002,M,Unknown,1,4,5,6,7,11,MN,KS,MT,FL,SD,WA,LA
+s1_state_00155.sql,4924,s1_state,1,2002,M,Secondary,1,5,7,9,10,12,MI,WA,MN,LA,FL,AZ,KS
+s1_state_00156.sql,4430,s1_state,1,2002,M,2 yr Degree,1,4,5,8,10,11,FL,LA,SC,OR,WA,ND,MI
+s1_state_00157.sql,3065,s1_state,1,2002,F,Advanced Degree,2,3,4,7,8,9,NH,AZ,WY,ND,MD,LA,KS
+s1_state_00158.sql,4471,s1_state,1,2002,F,Primary,1,2,7,9,10,11,SD,KS,MA,MT,MN,LA,FL
+s1_state_00159.sql,6134,s1_state,1,2002,M,Advanced Degree,1,2,4,6,7,12,MI,MT,KS,FL,MN,LA,ND
+s1_state_00160.sql,5047,s1_state,1,2002,M,Secondary,1,6,7,8,9,12,MN,MI,VT,KS,MT,OR,FL
+s1_state_00161.sql,4762,s1_state,1,2002,F,Primary,2,4,6,9,11,12,MI,LA,SD,WY,AZ,KS,MT
+s1_state_00162.sql,4574,s1_state,1,2002,M,Secondary,1,2,4,5,7,12,FL,OR,MD,MN,MI,LA,SC
+s1_state_00163.sql,4405,s1_state,1,2002,F,College,1,2,3,4,5,9,ND,AK,MI,NH,AZ,FL,KS
+s1_state_00164.sql,5721,s1_state,1,2002,M,Unknown,1,2,3,6,7,8,MD,SD,MN,MT,KS,MI,FL
+s1_state_00165.sql,2656,s1_state,1,2002,M,2 yr Degree,1,3,6,7,9,11,UT,MA,WY,WA,OR,MN,AK
+s1_state_00166.sql,2939,s1_state,1,2002,F,Advanced Degree,1,3,4,5,10,12,ND,MD,LA,OR,VT,SD,WY
+s1_state_00167.sql,5030,s1_state,1,2002,F,College,4,5,7,8,9,12,SD,SC,MI,KS,LA,FL,OR
+s1_state_00168.sql,5020,s1_state,1,2002,M,Secondary,1,3,4,6,10,11,KS,MT,FL,SC,MI,VT,MN
+s1_state_00169.sql,3060,s1_state,1,2002,F,College,1,5,6,7,11,12,MN,OR,AZ,MD,FL,NV,UT
+s1_state_00170.sql,5020,s1_state,1,2002,F,Primary,2,5,6,8,10,11,MN,MI,LA,MD,MT,OR,KS
+s1_state_00171.sql,5945,s1_state,1,2002,M,Secondary,1,3,4,9,10,12,SD,OR,KS,FL,MN,LA,MT
+s1_state_00172.sql,3294,s1_state,1,2002,M,Secondary,1,2,3,5,7,9,ME,MN,NH,UT,ND,FL,SD
+s1_state_00173.sql,3225,s1_state,1,2002,M,Secondary,3,4,5,6,8,12,MT,UT,NV,MN,ME,SD,OR
+s1_state_00174.sql,4629,s1_state,1,2002,F,Primary,2,3,9,10,11,12,MT,AK,KS,MN,WY,UT,MI
+s1_state_00175.sql,4111,s1_state,1,2002,M,Secondary,1,3,6,7,8,10,CT,SD,KS,MD,MN,OR,SC
+s1_state_00176.sql,2834,s1_state,1,2002,M,Unknown,4,6,8,10,11,12,NH,AZ,MI,LA,FL,OR,CT
+s1_state_00177.sql,3053,s1_state,1,2002,M,Secondary,2,4,5,6,9,12,MD,ND,MT,WY,SD,MI,NH
+s1_state_00178.sql,3882,s1_state,1,2002,F,Advanced Degree,4,7,8,9,11,12,MN,ND,SC,LA,WY,FL,MD
+s1_state_00179.sql,4308,s1_state,1,2002,M,2 yr Degree,2,4,6,9,10,11,MN,WY,LA,MT,KS,FL,CT
+s1_state_00180.sql,3321,s1_state,1,2002,F,Advanced Degree,3,4,6,7,8,9,AZ,MA,MT,MI,WY,NV,SD
+s1_state_00181.sql,3180,s1_state,1,2002,M,Unknown,3,5,6,8,10,12,WA,WY,MN,FL,AZ,AK,LA
+s1_state_00182.sql,4628,s1_state,1,2002,F,Primary,1,2,5,6,10,11,AK,MT,SD,KS,MI,SC,NH
+s1_state_00183.sql,3717,s1_state,1,2002,M,Advanced Degree,2,5,6,7,8,11,KS,FL,MD,WA,MA,ND,SC
+s1_state_00184.sql,4347,s1_state,1,2002,M,Secondary,1,3,4,5,7,9,WY,MI,UT,SC,KS,ND,WA
+s1_state_00185.sql,3882,s1_state,1,2002,M,Unknown,4,5,7,10,11,12,KS,LA,ND,MT,MD,SD,HI
+s1_state_00186.sql,4521,s1_state,1,2002,F,Primary,1,2,4,5,6,8,MT,MN,OR,MI,VT,KS,SC
+s1_state_00187.sql,4667,s1_state,1,2002,M,Advanced Degree,2,5,6,7,8,12,KS,MI,SD,WA,FL,OR,ND
+s1_state_00188.sql,3849,s1_state,1,2002,M,Secondary,1,2,6,9,10,12,AZ,LA,ND,AK,SD,WA,KS
+s1_state_00189.sql,4059,s1_state,1,2002,F,Primary,1,3,4,6,8,9,MA,KS,FL,LA,MI,OR,VT
+s1_state_00190.sql,4377,s1_state,1,2002,F,College,1,2,5,8,9,11,FL,MN,NH,MD,LA,MI,MA
+s1_state_00191.sql,3278,s1_state,1,2002,F,Primary,2,3,5,6,7,8,VT,MN,SD,SC,ME,LA,UT
+s1_state_00192.sql,5139,s1_state,1,2002,F,College,1,2,3,5,9,12,WA,WY,OR,KS,LA,SD,MN
+s1_state_00193.sql,4393,s1_state,1,2002,M,2 yr Degree,1,3,7,8,10,11,SC,MT,KS,MN,MD,ND,AZ
+s1_state_00194.sql,3123,s1_state,1,2002,M,Advanced Degree,1,5,7,9,10,11,MI,SC,LA,OR,AZ,MN,MD
+s1_state_00195.sql,4571,s1_state,1,2002,F,Primary,1,4,6,8,9,12,KS,MI,MN,WY,FL,MA,SD
+s1_state_00196.sql,2756,s1_state,1,2002,M,Unknown,1,6,8,9,10,11,MA,NH,MT,OR,WY,MI,WA
+s1_state_00197.sql,4120,s1_state,1,2002,F,Advanced Degree,1,2,4,5,9,10,FL,MD,ND,VT,AZ,LA,KS
+s1_state_00198.sql,4887,s1_state,1,2002,F,Advanced Degree,2,4,5,6,7,8,LA,MI,ND,SC,OR,SD,FL
+s1_state_00199.sql,4242,s1_state,1,2002,F,Advanced Degree,2,3,6,10,11,12,MN,KS,MI,AK,ME,ND,MA
+s1_state_00200.sql,5989,s1_state,1,2002,F,Advanced Degree,5,6,7,8,11,12,AK,MN,MT,FL,KS,MI,SC
+s1_state_00201.sql,3161,s1_state,1,2002,M,Unknown,3,5,8,9,10,11,WA,UT,KS,LA,FL,ND,WY
+s1_state_00202.sql,3642,s1_state,1,2002,M,2 yr Degree,1,2,5,7,8,9,MI,WY,SD,MN,AZ,WA,AK
+s1_state_00203.sql,3387,s1_state,1,2002,F,Primary,2,3,4,5,7,8,KS,OR,SC,WA,AK,CT,NV
+s1_state_00204.sql,3680,s1_state,1,2002,M,2 yr Degree,2,4,6,9,10,11,UT,MT,SC,MI,WY,WA,FL
+s1_state_00205.sql,6061,s1_state,1,2002,F,College,3,5,6,8,9,10,MI,MT,WY,FL,KS,SD,MN
+s1_state_00206.sql,5351,s1_state,1,2002,M,Secondary,1,2,3,5,10,11,MI,KS,SD,AK,WA,ND,LA
+s1_state_00207.sql,3996,s1_state,1,2002,M,2 yr Degree,1,4,7,8,10,11,MN,VT,AK,MI,FL,ND,NV
+s1_state_00208.sql,3117,s1_state,1,2002,M,2 yr Degree,2,5,6,8,11,12,NV,MN,ND,UT,MI,SC,NH
+s1_state_00209.sql,3950,s1_state,1,2002,F,College,2,4,6,7,8,10,MT,VT,SC,SD,UT,ND,MN
+s1_state_00210.sql,3487,s1_state,1,2002,F,Advanced Degree,1,3,5,6,8,9,UT,MN,MI,OR,WA,CT,AZ
+s1_state_00211.sql,4762,s1_state,1,2002,F,Primary,5,6,7,9,10,11,MI,SD,MN,KS,NV,WY,UT
+s1_state_00212.sql,4418,s1_state,1,2002,M,2 yr Degree,1,3,5,6,10,11,KS,AK,WY,MD,FL,LA,MI
+s1_state_00213.sql,4178,s1_state,1,2002,M,Advanced Degree,2,3,6,7,10,11,KS,MI,OR,MT,MD,RI,MN
+s1_state_00214.sql,5394,s1_state,1,2002,F,Primary,1,5,6,7,9,11,KS,LA,WA,FL,ME,SC,MI
+s1_state_00215.sql,5206,s1_state,1,2002,M,Unknown,1,2,5,6,8,12,MN,LA,SD,KS,WY,UT,MI
+s1_state_00216.sql,5025,s1_state,1,2002,M,Advanced Degree,2,4,5,6,7,8,FL,KS,LA,NV,MI,CT,MN
+s1_state_00217.sql,4569,s1_state,1,2002,M,Advanced Degree,1,2,5,8,9,10,AZ,ND,VT,MI,MN,KS,SD
+s1_state_00218.sql,5211,s1_state,1,2002,F,College,1,4,5,7,8,12,MN,WA,FL,KS,OR,MD,MT
+s1_state_00219.sql,4728,s1_state,1,2002,M,2 yr Degree,1,3,4,5,11,12,MT,MI,MN,SD,OR,WY,NV
+s1_state_00220.sql,3712,s1_state,1,2002,M,Secondary,1,4,5,7,8,10,MN,ND,AZ,AK,KS,OR,VT
+s1_state_00221.sql,4259,s1_state,1,2002,M,Advanced Degree,1,7,8,9,10,12,KS,WY,ND,FL,UT,SC,AK
+s1_state_00222.sql,4952,s1_state,1,2002,M,Unknown,3,8,9,10,11,12,MN,MT,KS,MI,NV,SD,SC
+s1_state_00223.sql,5461,s1_state,1,2002,F,College,5,6,7,8,10,11,MI,MN,KS,SD,MD,LA,AZ
+s1_state_00224.sql,3102,s1_state,1,2002,M,Secondary,3,5,8,10,11,12,VT,WA,OR,LA,MI,NV,SC
+s1_state_00225.sql,4451,s1_state,1,2002,M,2 yr Degree,2,3,5,6,9,10,KS,SC,LA,ND,AK,MT,SD
+s1_state_00226.sql,5218,s1_state,1,2002,M,Unknown,2,3,7,9,10,12,MI,MT,KS,SC,LA,WY,MN
+s1_state_00227.sql,5035,s1_state,1,2002,F,College,2,3,5,6,10,12,ND,MI,AZ,FL,MD,MN,KS
+s1_state_00228.sql,5551,s1_state,1,2002,F,Primary,1,2,4,7,10,11,SC,FL,MI,OR,KS,SD,WA
+s1_state_00229.sql,5325,s1_state,1,2002,F,Primary,2,3,4,5,9,12,FL,SD,MI,ND,KS,MN,MD
+s1_state_00230.sql,4024,s1_state,1,2002,M,Unknown,1,2,3,7,8,11,CT,FL,MN,OR,WA,NH,KS
+s1_state_00231.sql,4673,s1_state,1,2002,F,Primary,3,4,6,7,9,10,FL,KS,MI,WA,AK,MN,VT
+s1_state_00232.sql,4130,s1_state,1,2002,M,Advanced Degree,1,4,5,6,9,11,NH,ND,MT,WA,MI,WY,MN
+s1_state_00233.sql,5087,s1_state,1,2002,F,College,1,5,8,9,10,11,ND,AK,SD,KS,OR,LA,WA
+s1_state_00234.sql,3926,s1_state,1,2002,M,Unknown,1,4,6,7,10,11,LA,SD,VT,KS,AZ,MT,NH
+s1_state_00235.sql,2320,s1_state,1,2002,M,2 yr Degree,2,3,7,8,9,10,SD,ME,MA,OR,ND,AK,WY
+s1_state_00236.sql,4104,s1_state,1,2002,M,Secondary,1,3,4,5,11,12,ND,KS,ME,OR,MI,MD,LA
+s1_state_00237.sql,4543,s1_state,1,2002,F,Advanced Degree,1,3,4,5,9,11,MD,AK,SD,MT,FL,KS,LA
+s1_state_00238.sql,3937,s1_state,1,2002,F,College,3,4,5,6,11,12,VT,MI,SC,LA,KS,AZ,WA
+s1_state_00239.sql,5514,s1_state,1,2002,M,2 yr Degree,2,3,4,6,8,9,WA,KS,MI,NV,ND,MN,FL
+s1_state_00240.sql,4030,s1_state,1,2002,M,Secondary,3,4,5,7,8,11,LA,ND,MN,WY,ME,SD,SC
+s1_state_00241.sql,4461,s1_state,1,2002,M,Advanced Degree,1,6,7,9,10,11,MN,WA,KS,AK,WY,UT,MI
+s1_state_00242.sql,5194,s1_state,1,2002,M,Advanced Degree,2,4,5,6,7,11,MI,FL,MT,KS,MN,LA,UT
+s1_state_00243.sql,4308,s1_state,1,2002,F,Advanced Degree,3,4,6,7,10,12,VT,MN,MI,ND,WA,MT,OR
+s1_state_00244.sql,4887,s1_state,1,2002,M,Advanced Degree,1,2,5,9,11,12,WA,WY,KS,FL,MI,LA,MN
+s1_state_00245.sql,5341,s1_state,1,2002,M,Secondary,1,3,4,7,8,10,MI,KS,MN,FL,OR,ND,LA
+s1_state_00246.sql,5691,s1_state,1,2002,F,College,3,5,6,8,9,12,MT,KS,MN,MI,WY,AK,LA
+s1_state_00247.sql,4824,s1_state,1,2002,M,2 yr Degree,1,3,6,9,10,11,KS,MN,FL,WY,WA,UT,SD
+s1_state_00248.sql,5595,s1_state,1,2002,M,Unknown,1,2,3,4,7,12,LA,MN,SC,MT,VT,SD,KS
+s1_state_00249.sql,5105,s1_state,1,2002,F,Advanced Degree,1,5,7,8,10,12,ME,MI,SC,MN,WA,SD,FL
+s1_state_00250.sql,4518,s1_state,1,2002,F,College,1,4,5,6,7,8,UT,FL,MT,MI,ND,ME,AK
+s1_state_00251.sql,5143,s1_state,1,2002,F,Advanced Degree,2,3,4,5,10,11,MT,ND,MI,FL,MN,SD,NV
+s1_state_00252.sql,3934,s1_state,1,2002,F,Advanced Degree,1,3,7,8,11,12,MA,MI,KS,WY,ME,SD,UT
+s1_state_00253.sql,5806,s1_state,1,2002,F,Primary,2,3,6,8,10,11,SC,OR,SD,KS,ND,FL,MI
+s1_state_00254.sql,4159,s1_state,1,2002,F,Advanced Degree,1,3,5,6,11,12,KS,CT,SC,MN,MT,SD,LA
+s1_state_00255.sql,5040,s1_state,1,2002,M,2 yr Degree,5,7,9,10,11,12,ME,ND,OR,MN,KS,SD,FL
+s1_state_00256.sql,5333,s1_state,1,2002,M,Secondary,2,3,4,6,7,11,MN,OR,KS,LA,ND,FL,MI
+s1_state_00257.sql,3123,s1_state,1,2002,F,Primary,1,4,5,6,8,9,SD,FL,SC,OR,AK,DE,WA
+s1_state_00258.sql,5190,s1_state,1,2002,F,Advanced Degree,1,2,3,4,5,12,FL,MI,AK,MN,NV,KS,WA
+s1_state_00259.sql,2907,s1_state,1,2002,M,Unknown,1,2,5,8,9,11,KS,MA,LA,WA,AK,OR,ND
+s1_state_00260.sql,5128,s1_state,1,2002,F,College,1,2,4,10,11,12,FL,MI,RI,LA,MN,ND,KS
+s1_state_00261.sql,4210,s1_state,1,2002,F,Advanced Degree,1,2,7,8,9,12,NH,UT,KS,ME,MI,SD,ND
+s1_state_00262.sql,3107,s1_state,1,2002,F,Primary,2,5,6,8,9,11,AK,LA,HI,MD,MI,SC,FL
+s1_state_00263.sql,4737,s1_state,1,2002,M,Unknown,1,4,6,9,11,12,NV,LA,KS,MN,FL,MT,OR
+s1_state_00264.sql,4579,s1_state,1,2002,F,College,3,5,6,7,9,10,SC,MA,MT,KS,FL,ND,MN
+s1_state_00265.sql,4961,s1_state,1,2002,F,College,4,5,6,7,8,10,SD,FL,LA,WA,MN,KS,OR
+s1_state_00266.sql,3975,s1_state,1,2002,F,Primary,2,3,6,7,8,12,MN,VT,LA,MA,MT,FL,SD
+s1_state_00267.sql,4275,s1_state,1,2002,M,2 yr Degree,1,3,5,8,9,11,MI,MT,NH,SD,MD,KS,AZ
+s1_state_00268.sql,4123,s1_state,1,2002,M,Advanced Degree,2,4,6,9,11,12,ME,SD,KS,UT,MI,MT,SC
+s1_state_00269.sql,4374,s1_state,1,2002,F,Primary,2,7,8,10,11,12,UT,KS,MI,ME,MD,WY,FL
+s1_state_00270.sql,4280,s1_state,1,2002,M,Secondary,2,5,6,7,8,11,WA,MN,KS,SD,SC,ME,NH
+s1_state_00271.sql,4198,s1_state,1,2002,F,Advanced Degree,1,2,6,9,10,11,MI,OR,MN,WY,UT,FL,NH
+s1_state_00272.sql,5047,s1_state,1,2002,F,Advanced Degree,2,3,6,8,10,12,MN,KS,SC,LA,ND,WA,MI
+s1_state_00273.sql,3468,s1_state,1,2002,M,Unknown,1,2,5,7,9,11,MA,NH,LA,OR,AK,MT,KS
+s1_state_00274.sql,5371,s1_state,1,2002,M,Advanced Degree,1,3,4,5,7,11,UT,FL,KS,MN,MI,ND,WY
+s1_state_00275.sql,4127,s1_state,1,2002,F,College,2,6,7,8,9,11,SD,KS,MI,OR,MD,WY,ND
+s1_state_00276.sql,4911,s1_state,1,2002,F,Advanced Degree,1,4,7,9,10,12,MN,WA,KS,MI,AK,ME,MT
+s1_state_00277.sql,4948,s1_state,1,2002,M,2 yr Degree,2,4,6,7,10,12,MI,FL,MN,KS,WY,MT,AK
+s1_state_00278.sql,3311,s1_state,1,2002,F,Advanced Degree,1,3,4,7,9,12,MI,AK,DE,VT,KS,AZ,MT
+s1_state_00279.sql,5044,s1_state,1,2002,F,Primary,1,2,9,10,11,12,MN,KS,AZ,ME,MI,SD,FL
+s1_state_00280.sql,5207,s1_state,1,2002,M,Secondary,1,6,8,9,10,12,SD,KS,MD,NV,MI,MN,LA
+s1_state_00281.sql,4306,s1_state,1,2002,F,College,1,2,3,6,8,11,NH,MN,SD,MT,AZ,CT,FL
+s1_state_00282.sql,3757,s1_state,1,2002,M,Unknown,1,3,6,9,10,12,ND,MT,WA,OR,SD,FL,AK
+s1_state_00283.sql,4287,s1_state,1,2002,M,2 yr Degree,1,2,4,6,10,12,KS,MI,MT,FL,NV,MD,SC
+s1_state_00284.sql,4013,s1_state,1,2002,M,Secondary,1,2,4,7,10,11,SC,MT,WA,OR,MN,LA,ND
+s1_state_00285.sql,5218,s1_state,1,2002,M,Unknown,1,4,8,9,11,12,UT,MT,SC,MN,FL,KS,MI
+s1_state_00286.sql,4015,s1_state,1,2002,M,Unknown,3,4,5,6,10,11,MT,SC,WY,UT,KS,MD,MN
+s1_state_00287.sql,4466,s1_state,1,2002,M,Advanced Degree,1,2,5,8,9,11,MI,ND,SC,MN,HI,KS,FL
+s1_state_00288.sql,3151,s1_state,1,2002,M,Unknown,2,7,8,9,10,12,MN,AZ,UT,CT,NV,ND,SD
+s1_state_00289.sql,4580,s1_state,1,2002,M,Secondary,1,2,3,9,10,11,MD,LA,WY,MA,KS,MI,MN
+s1_state_00290.sql,4304,s1_state,1,2002,M,2 yr Degree,3,4,7,8,10,11,UT,FL,MI,LA,KS,OR,AZ
+s1_state_00291.sql,5023,s1_state,1,2002,F,College,2,3,7,8,9,12,SC,SD,ND,OR,KS,MN,MI
+s1_state_00292.sql,3934,s1_state,1,2002,M,Advanced Degree,2,6,8,9,10,12,MT,FL,MI,KS,MA,WA,NH
+s1_state_00293.sql,2775,s1_state,1,2002,M,Advanced Degree,2,6,8,10,11,12,LA,SD,SC,VT,AK,WY,WA
+s1_state_00294.sql,3825,s1_state,1,2002,M,Unknown,2,6,7,8,9,10,MT,KS,MN,SC,AZ,VT,ND
+s1_state_00295.sql,4060,s1_state,1,2002,M,Secondary,1,2,3,4,8,10,SC,MN,OR,AK,UT,SD,LA
+s1_state_00296.sql,3767,s1_state,1,2002,M,2 yr Degree,4,5,6,9,10,12,MT,MN,KS,NV,AZ,CT,LA
+s1_state_00297.sql,3912,s1_state,1,2002,F,College,1,4,6,8,10,11,SD,SC,LA,ME,UT,WA,MT
+s1_state_00298.sql,4469,s1_state,1,2002,M,Secondary,4,5,6,8,11,12,LA,FL,MN,MT,MD,KS,VT
+s1_state_00299.sql,5952,s1_state,1,2002,M,2 yr Degree,3,4,5,10,11,12,MI,SD,KS,MN,OR,FL,MT
+s1_state_00300.sql,3999,s1_state,1,2002,F,Primary,1,3,4,5,6,12,SD,LA,SC,MT,WA,FL,NH
+s1_state_00301.sql,4274,s1_state,1,2002,M,Secondary,3,5,6,9,10,11,SD,MD,MN,LA,MI,VT,MT
+s1_state_00302.sql,4670,s1_state,1,2002,F,Advanced Degree,1,2,5,8,10,12,AK,NV,KS,SD,ND,MN,LA
+s1_state_00303.sql,5239,s1_state,1,2002,M,Secondary,1,5,8,9,11,12,MI,WA,KS,VT,MT,MN,FL
+s1_state_00304.sql,4359,s1_state,1,2002,M,Unknown,2,3,5,8,10,12,MI,AK,KS,NH,WA,SC,MN
+s1_state_00305.sql,3612,s1_state,1,2002,F,College,4,5,6,7,8,11,WA,AK,KS,SD,AZ,MN,MD
+s1_state_00306.sql,4119,s1_state,1,2002,M,Unknown,2,3,4,9,11,12,NV,MT,OR,WY,MN,SD,ND
+s1_state_00307.sql,3048,s1_state,1,2002,M,Unknown,2,5,8,9,10,11,WA,NH,SD,UT,OR,AZ,KS
+s1_state_00308.sql,4230,s1_state,1,2002,F,Advanced Degree,1,4,6,7,11,12,UT,SC,AK,OR,KS,MT,ND
+s1_state_00309.sql,4928,s1_state,1,2002,M,Unknown,1,2,6,7,10,11,KS,SD,LA,MN,MI,ND,AK
+s1_state_00310.sql,3263,s1_state,1,2002,M,Unknown,3,5,6,7,9,11,ND,ME,SD,FL,UT,LA,MI
+s1_state_00311.sql,4122,s1_state,1,2002,F,Advanced Degree,6,7,8,9,11,12,MA,WY,UT,MN,KS,ND,LA
+s1_state_00312.sql,5071,s1_state,1,2002,F,Primary,1,3,5,9,10,11,WA,MN,KS,UT,SD,OR,FL
+s1_state_00313.sql,3491,s1_state,1,2002,F,College,2,4,7,8,9,12,WY,ND,SC,AK,LA,MI,UT
+s1_state_00314.sql,3467,s1_state,1,2002,F,Primary,1,2,6,8,9,12,VT,OR,MA,WY,WA,FL,KS
+s1_state_00315.sql,4586,s1_state,1,2002,M,Secondary,2,4,6,7,8,12,MN,UT,AK,SD,MI,KS,WY
+s1_state_00316.sql,4197,s1_state,1,2002,M,Unknown,1,6,7,8,9,10,FL,VT,MI,KS,MN,ND,CT
+s1_state_00317.sql,3117,s1_state,1,2002,F,College,1,3,6,9,10,11,MA,WA,NV,MT,SC,MN,FL
+s1_state_00318.sql,4169,s1_state,1,2002,M,2 yr Degree,2,6,8,9,10,11,AK,RI,MN,UT,KS,MI,OR
+s1_state_00319.sql,2966,s1_state,1,2002,F,Advanced Degree,3,4,5,6,10,11,ND,NH,WY,SD,MT,LA,MD
+s1_state_00320.sql,4651,s1_state,1,2002,F,Primary,1,2,6,7,10,12,MD,KS,MN,ND,SD,SC,WA
+s1_state_00321.sql,5564,s1_state,1,2002,F,Primary,1,2,4,7,10,12,MI,SD,ND,SC,KS,MN,MT
+s1_state_00322.sql,4735,s1_state,1,2002,F,College,1,2,3,6,7,8,ND,KS,UT,MT,SD,MA,MN
+s1_state_00323.sql,3929,s1_state,1,2002,F,Advanced Degree,2,3,5,8,9,11,NV,KS,SD,MT,RI,LA,OR
+s1_state_00324.sql,3293,s1_state,1,2002,M,Unknown,1,3,6,7,8,12,SD,MI,NV,VT,ND,SC,AZ
+s1_state_00325.sql,5750,s1_state,1,2002,F,Advanced Degree,2,3,4,5,6,7,KS,AK,LA,FL,MI,SD,MT
+s1_state_00326.sql,5066,s1_state,1,2002,M,2 yr Degree,2,4,5,8,9,12,FL,MI,ND,SD,LA,SC,KS
+s1_state_00327.sql,4965,s1_state,1,2002,M,Secondary,1,3,5,6,8,12,FL,SD,AZ,MI,WY,LA,MN
+s1_state_00328.sql,3865,s1_state,1,2002,M,Advanced Degree,2,3,8,10,11,12,KS,WA,MD,MN,MT,OR,SC
+s1_state_00329.sql,5328,s1_state,1,2002,F,Advanced Degree,1,3,4,5,6,12,KS,SC,MI,SD,MN,MT,WA
+s1_state_00330.sql,4809,s1_state,1,2002,F,Primary,1,4,7,10,11,12,KS,SD,MN,WA,LA,OR,MT
+s1_state_00331.sql,4558,s1_state,1,2002,M,2 yr Degree,5,6,8,10,11,12,MI,MN,SC,MT,LA,WA,UT
+s1_state_00332.sql,2865,s1_state,1,2002,M,Unknown,5,8,9,10,11,12,HI,ND,MI,RI,VT,WY,MN
+s1_state_00333.sql,3895,s1_state,1,2002,F,Advanced Degree,1,4,5,6,8,10,SD,MT,FL,NH,MN,LA,WY
+s1_state_00334.sql,4851,s1_state,1,2002,M,Advanced Degree,3,5,6,7,10,12,FL,AK,SD,SC,MI,MN,WA
+s1_state_00335.sql,4234,s1_state,1,2002,M,Unknown,1,2,3,9,10,12,SD,WA,MI,ND,LA,AK,MT
+s1_state_00336.sql,5309,s1_state,1,2002,F,Primary,5,6,7,8,11,12,OR,MI,KS,SD,MN,WY,SC
+s1_state_00337.sql,4236,s1_state,1,2002,M,Advanced Degree,1,2,3,4,9,12,FL,LA,AK,SD,SC,KS,MD
+s1_state_00338.sql,3501,s1_state,1,2002,M,Unknown,2,6,7,8,10,11,SD,NV,MT,SC,MN,WY,CT
+s1_state_00339.sql,5964,s1_state,1,2002,M,Secondary,1,2,6,8,11,12,WA,KS,LA,FL,MT,MN,SD
+s1_state_00340.sql,4840,s1_state,1,2002,M,Unknown,3,6,8,9,11,12,MT,FL,UT,MI,KS,AK,MN
+s1_state_00341.sql,4771,s1_state,1,2002,F,College,1,2,5,6,7,12,KS,MN,MI,ME,MT,SD,WA
+s1_state_00342.sql,4517,s1_state,1,2002,F,Primary,1,3,4,5,9,12,MT,SC,KS,OR,LA,AZ,SD
+s1_state_00343.sql,3988,s1_state,1,2002,M,Advanced Degree,3,5,6,7,8,11,HI,SC,KS,MT,UT,MN,LA
+s1_state_00344.sql,3704,s1_state,1,2002,M,Advanced Degree,4,6,7,10,11,12,MN,WA,SC,VT,LA,MT,NV
+s1_state_00345.sql,5898,s1_state,1,2002,M,Advanced Degree,1,3,4,6,9,12,FL,MT,MI,SD,KS,MN,LA
+s1_state_00346.sql,5263,s1_state,1,2002,M,Secondary,2,3,7,8,11,12,MI,LA,MN,SD,ND,SC,FL
+s1_state_00347.sql,4067,s1_state,1,2002,F,Primary,3,5,6,7,10,11,ME,MI,MT,LA,MN,UT,SD
+s1_state_00348.sql,4653,s1_state,1,2002,F,Advanced Degree,2,4,7,8,10,11,MN,MI,MD,KS,AK,OR,MT
+s1_state_00349.sql,3114,s1_state,1,2002,F,Advanced Degree,3,5,7,8,9,11,LA,RI,MN,WY,VT,OR,MI
+s1_mix_00000.sql,5118,s1_mix,1,2002,M,College,1,3,5,7,11,12,SC,KS,OR,RI,SD,MI,MN
+s1_mix_00001.sql,4585,s1_mix,1,2002,M,College,1,2,5,6,8,12,LA,FL,KS,RI,AK,MT,MN
+s1_mix_00002.sql,5037,s1_mix,1,2002,M,4 yr Degree,2,5,6,8,9,12,MT,KS,MI,SD,FL,UT,LA
+s1_mix_00003.sql,2979,s1_mix,1,2002,M,4 yr Degree,3,4,7,8,11,12,OR,MT,SD,DE,ND,HI,VT
+s1_mix_00004.sql,5089,s1_mix,1,2002,M,College,3,5,6,7,11,12,SD,LA,KS,NV,MN,FL,MI
+s1_mix_00005.sql,2824,s1_mix,1,2002,F,Secondary,1,2,6,7,10,12,SD,WY,OR,MD,ME,MI,NV
+s1_mix_00006.sql,3901,s1_mix,1,2002,M,4 yr Degree,1,3,7,9,10,11,NV,MN,MI,OR,MA,VT,WA
+s1_mix_00007.sql,4864,s1_mix,1,2002,F,4 yr Degree,2,5,7,8,10,12,MT,FL,WA,ND,OR,MN,KS
+s1_mix_00008.sql,4090,s1_mix,1,2002,F,Unknown,2,4,5,6,7,9,MT,ND,WY,MN,UT,AZ,MA
+s1_mix_00009.sql,4885,s1_mix,1,2002,M,College,3,4,8,9,10,11,NV,KS,OR,SC,MI,LA,MN
+s1_mix_00010.sql,3761,s1_mix,1,2002,M,Primary,1,3,4,7,11,12,FL,UT,AZ,OR,KS,SD,WY
+s1_mix_00011.sql,4308,s1_mix,1,2002,F,Unknown,2,4,5,7,8,10,MI,CT,MT,DC,FL,NV,MN
+s1_mix_00012.sql,4739,s1_mix,1,2002,F,2 yr Degree,3,4,5,7,11,12,AZ,MI,SD,KS,MT,MN,SC
+s1_mix_00013.sql,5271,s1_mix,1,2002,F,Unknown,1,2,4,6,7,9,MA,MN,SC,FL,ND,KS,WA
+s1_mix_00014.sql,4410,s1_mix,1,2002,M,Primary,1,3,6,7,8,10,MI,LA,MN,OR,MD,KS,NV
+s1_mix_00015.sql,4369,s1_mix,1,2002,F,2 yr Degree,1,3,4,6,9,11,MT,MI,LA,AK,MN,ME,FL
+s1_mix_00016.sql,4856,s1_mix,1,2002,M,Primary,1,2,3,6,8,9,KS,OR,MN,WA,SC,MT,LA
+s1_mix_00017.sql,5204,s1_mix,1,2002,M,Primary,1,2,3,7,11,12,MN,SD,MI,KS,ND,MD,SC
+s1_mix_00018.sql,4943,s1_mix,1,2002,F,Unknown,1,3,5,8,9,11,ND,KS,MA,MN,NV,SC,MI
+s1_mix_00019.sql,3332,s1_mix,1,2002,M,College,5,6,7,8,9,12,SC,MT,MI,AK,ME,SD,DC
+s1_mix_00020.sql,5613,s1_mix,1,2002,F,Secondary,2,5,7,9,10,12,LA,ND,CT,MN,SD,KS,FL
+s1_mix_00021.sql,5185,s1_mix,1,2002,F,Secondary,1,5,8,10,11,12,KS,NH,SD,MT,FL,MN,ME
+s1_mix_00022.sql,4424,s1_mix,1,2002,F,2 yr Degree,2,6,8,10,11,12,MT,MI,WA,ND,SC,MN,AZ
+s1_mix_00023.sql,3931,s1_mix,1,2002,M,Primary,3,4,6,8,9,10,AK,SD,NV,MI,ME,SC,OR
+s1_mix_00024.sql,5210,s1_mix,1,2002,F,Unknown,2,5,6,7,8,11,MN,ND,MT,WA,SD,NH,MI
+s1_mix_00025.sql,4877,s1_mix,1,2002,M,Primary,1,2,8,9,10,11,MI,ND,LA,KS,UT,WA,SD
+s1_mix_00026.sql,3348,s1_mix,1,2002,M,College,2,6,7,8,10,12,ME,SC,MT,UT,MN,SD,AK
+s1_mix_00027.sql,5447,s1_mix,1,2002,M,Primary,2,4,5,7,8,9,MI,LA,SD,VT,FL,ND,MN
+s1_mix_00028.sql,3391,s1_mix,1,2002,M,Primary,1,4,7,9,10,12,UT,KS,MD,WA,AK,MN,AZ
+s1_mix_00029.sql,4112,s1_mix,1,2002,M,Primary,1,2,7,8,10,12,LA,NV,ND,KS,SD,MI,AZ
+s1_mix_00030.sql,4568,s1_mix,1,2002,F,2 yr Degree,2,3,4,6,7,9,FL,LA,ND,NH,SC,MN,MT
+s1_mix_00031.sql,6561,s1_mix,1,2002,F,Secondary,1,3,5,7,9,12,OR,MN,MT,MI,FL,KS,SD
+s1_mix_00032.sql,4861,s1_mix,1,2002,F,Unknown,2,3,4,6,11,12,FL,SD,OR,MI,MT,ND,VT
+s1_mix_00033.sql,3280,s1_mix,1,2002,F,2 yr Degree,1,2,4,6,9,10,MT,CT,MA,KS,UT,OR,ND
+s1_mix_00034.sql,4317,s1_mix,1,2002,M,College,1,4,6,10,11,12,WA,MN,FL,UT,SD,KS,NH
+s1_mix_00035.sql,5084,s1_mix,1,2002,M,4 yr Degree,3,6,7,10,11,12,WY,MN,SD,RI,ND,KS,AZ
+s1_mix_00036.sql,5303,s1_mix,1,2002,F,Unknown,3,6,8,9,10,11,KS,MN,ND,VT,MI,NV,DE
+s1_mix_00037.sql,4083,s1_mix,1,2002,M,Primary,4,6,7,8,10,11,MD,MI,MA,KS,FL,ME,WA
+s1_mix_00038.sql,3884,s1_mix,1,2002,M,4 yr Degree,2,4,5,9,10,12,NV,KS,LA,OR,HI,MD,SD
+s1_mix_00039.sql,4049,s1_mix,1,2002,F,2 yr Degree,2,4,7,8,10,12,MI,OR,UT,SD,KS,MD,WA
+s1_mix_00040.sql,3135,s1_mix,1,2002,F,Unknown,1,3,4,10,11,12,MD,DC,ND,MT,OR,FL,MI
+s1_mix_00041.sql,5360,s1_mix,1,2002,F,Unknown,1,5,6,9,11,12,ME,MN,MT,WY,FL,KS,MI
+s1_mix_00042.sql,4609,s1_mix,1,2002,F,4 yr Degree,3,4,6,9,11,12,SC,MN,KS,ND,NV,SD,WA
+s1_mix_00043.sql,4595,s1_mix,1,2002,F,Secondary,3,4,5,8,9,12,MD,FL,MT,KS,AK,MA,LA
+s1_mix_00044.sql,4563,s1_mix,1,2002,M,Primary,1,4,6,7,8,11,SC,MD,MT,KS,UT,OR,SD
+s1_mix_00045.sql,4285,s1_mix,1,2002,M,College,1,2,4,5,8,11,MN,FL,SC,SD,CT,KS,OR
+s1_mix_00046.sql,3914,s1_mix,1,2002,F,4 yr Degree,5,7,8,9,10,12,SC,WA,MN,AZ,FL,WY,MI
+s1_mix_00047.sql,5741,s1_mix,1,2002,M,4 yr Degree,1,5,6,8,9,12,MT,FL,SC,MI,SD,MN,KS
+s1_mix_00048.sql,4374,s1_mix,1,2002,M,Primary,2,3,4,6,9,10,SD,ND,WA,SC,NH,KS,MN
+s1_mix_00049.sql,3709,s1_mix,1,2002,F,Secondary,1,4,5,6,11,12,ND,KS,MN,ME,MA,UT,OR
+s1_mix_00050.sql,4915,s1_mix,1,2002,F,Secondary,2,4,5,7,8,10,SD,KS,MI,MN,AK,OR,NV
+s1_mix_00051.sql,4831,s1_mix,1,2002,F,Unknown,1,2,4,5,6,7,OR,SC,MT,LA,KS,AK,MD
+s1_mix_00052.sql,4814,s1_mix,1,2002,F,2 yr Degree,1,3,4,5,8,12,KS,UT,FL,OR,WY,MT,MN
+s1_mix_00053.sql,3239,s1_mix,1,2002,M,College,1,2,3,4,8,9,SD,WY,FL,SC,MN,MA,NV
+s1_mix_00054.sql,4413,s1_mix,1,2002,F,Unknown,1,3,6,8,9,10,AK,LA,KS,MT,WA,UT,OR
+s1_mix_00055.sql,4484,s1_mix,1,2002,F,4 yr Degree,1,3,4,8,9,11,MI,FL,RI,LA,ND,SD,SC
+s1_mix_00056.sql,5008,s1_mix,1,2002,M,4 yr Degree,2,6,8,9,10,12,OR,LA,FL,SC,AK,KS,MN
+s1_mix_00057.sql,4544,s1_mix,1,2002,F,Unknown,1,2,5,8,9,12,ME,SD,SC,AK,MI,ND,KS
+s1_mix_00058.sql,3474,s1_mix,1,2002,F,4 yr Degree,2,4,5,10,11,12,AK,FL,MT,LA,AZ,KS,NV
+s1_mix_00059.sql,5031,s1_mix,1,2002,F,Unknown,1,4,7,9,10,12,SC,MT,OR,MD,MN,KS,MI
+s1_mix_00060.sql,5409,s1_mix,1,2002,M,Primary,3,7,8,9,11,12,MI,SD,FL,SC,WA,ND,KS
+s1_mix_00061.sql,3819,s1_mix,1,2002,F,Secondary,1,2,4,8,9,10,MT,MN,OR,FL,ME,UT,ND
+s1_mix_00062.sql,5406,s1_mix,1,2002,M,Primary,1,2,4,8,10,12,MN,KS,MT,FL,SD,LA,MA
+s1_mix_00063.sql,4994,s1_mix,1,2002,M,College,4,5,7,8,9,11,ND,NV,SD,KS,SC,MT,LA
+s1_mix_00064.sql,4468,s1_mix,1,2002,F,Secondary,3,4,6,7,8,10,MN,AK,SD,MD,ND,FL,MI
+s1_mix_00065.sql,4960,s1_mix,1,2002,F,Unknown,4,6,7,8,9,12,NV,LA,ND,MT,KS,FL,ME
+s1_mix_00066.sql,4107,s1_mix,1,2002,F,Secondary,3,4,5,6,7,8,MI,MT,AK,SC,MD,WY,SD
+s1_mix_00067.sql,3508,s1_mix,1,2002,M,Primary,1,2,3,7,8,12,AK,MI,MT,OR,KS,WA,ME
+s1_mix_00068.sql,4951,s1_mix,1,2002,F,2 yr Degree,1,2,4,9,11,12,ND,MI,MN,KS,FL,OR,ME
+s1_mix_00069.sql,4314,s1_mix,1,2002,M,4 yr Degree,6,7,8,9,11,12,WA,DE,MN,LA,SD,WY,FL
+s1_mix_00070.sql,3131,s1_mix,1,2002,F,Secondary,2,4,5,6,11,12,AZ,ND,NH,FL,AK,MN,OR
+s1_mix_00071.sql,4407,s1_mix,1,2002,M,Primary,1,2,3,6,8,10,OR,SC,NV,SD,AZ,KS,FL
+s1_mix_00072.sql,3940,s1_mix,1,2002,F,2 yr Degree,1,3,4,5,7,12,KS,ND,SD,NV,WY,VT,MN
+s1_mix_00073.sql,4337,s1_mix,1,2002,F,2 yr Degree,1,2,3,5,6,8,KS,ND,MA,MI,ME,UT,FL
+s1_mix_00074.sql,4694,s1_mix,1,2002,F,Secondary,1,2,7,8,10,12,KS,OR,FL,AZ,AK,MT,LA
+s1_mix_00075.sql,4406,s1_mix,1,2002,M,College,2,4,7,10,11,12,MN,FL,MT,SD,RI,KS,UT
+s1_mix_00076.sql,3567,s1_mix,1,2002,M,Primary,1,2,3,4,8,10,UT,OR,ND,FL,MT,WA,WY
+s1_mix_00077.sql,4229,s1_mix,1,2002,F,4 yr Degree,2,5,7,8,9,11,AK,FL,SC,SD,MN,OR,HI
+s1_mix_00078.sql,4343,s1_mix,1,2002,F,Unknown,2,3,4,8,10,12,ND,MI,ME,MN,NV,SD,MT
+s1_mix_00079.sql,3211,s1_mix,1,2002,F,4 yr Degree,1,4,5,6,10,11,MT,SD,KS,AK,LA,UT,DE
+s1_mix_00080.sql,3235,s1_mix,1,2002,F,4 yr Degree,3,4,7,10,11,12,LA,CT,KS,OR,MA,NV,MI
+s1_mix_00081.sql,4859,s1_mix,1,2002,M,4 yr Degree,4,7,8,10,11,12,KS,UT,VT,MT,ND,WA,SD
+s1_mix_00082.sql,4439,s1_mix,1,2002,F,2 yr Degree,2,3,5,7,9,11,KS,AK,SC,FL,LA,WY,MN
+s1_mix_00083.sql,4238,s1_mix,1,2002,M,Primary,2,4,5,6,8,10,WA,OR,MT,KS,LA,MI,AZ
+s1_mix_00084.sql,3258,s1_mix,1,2002,M,4 yr Degree,3,5,8,9,10,12,MI,FL,VT,NH,AK,SC,LA
+s1_mix_00085.sql,3692,s1_mix,1,2002,M,College,6,7,8,10,11,12,MI,NH,WY,LA,AK,ME,KS
+s1_mix_00086.sql,4610,s1_mix,1,2002,F,2 yr Degree,5,6,9,10,11,12,NV,MI,MN,SD,SC,MT,ND
+s1_mix_00087.sql,4646,s1_mix,1,2002,M,College,3,6,8,9,11,12,ND,MI,FL,SC,WA,LA,MN
+s1_mix_00088.sql,5719,s1_mix,1,2002,F,Secondary,1,2,4,7,9,10,MI,KS,MT,SD,MN,WA,LA
+s1_mix_00089.sql,4364,s1_mix,1,2002,M,College,1,2,3,6,8,9,FL,MT,WA,MI,LA,WY,SD
+s1_mix_00090.sql,3417,s1_mix,1,2002,F,Secondary,1,3,4,5,7,11,MN,MI,HI,NH,OR,ND,WY
+s1_mix_00091.sql,5126,s1_mix,1,2002,F,Unknown,1,5,6,9,11,12,SD,WY,MI,FL,KS,LA,RI
+s1_mix_00092.sql,3873,s1_mix,1,2002,F,2 yr Degree,1,2,5,6,7,12,NH,FL,LA,VT,ND,ME,KS
+s1_mix_00093.sql,5088,s1_mix,1,2002,F,Unknown,1,3,7,8,11,12,LA,MT,ME,MN,FL,MI,SD
+s1_mix_00094.sql,4333,s1_mix,1,2002,M,Primary,2,3,5,6,8,9,MI,SC,AK,WA,FL,AZ,KS
+s1_mix_00095.sql,4915,s1_mix,1,2002,F,Unknown,1,3,7,9,11,12,MT,ND,MN,KS,FL,WA,SC
+s1_mix_00096.sql,4442,s1_mix,1,2002,M,4 yr Degree,1,2,3,8,10,11,FL,KS,MN,OR,NH,MT,NV
+s1_mix_00097.sql,4593,s1_mix,1,2002,F,Unknown,2,4,6,7,9,11,WA,CT,SD,SC,ND,KS,WY
+s1_mix_00098.sql,3823,s1_mix,1,2002,F,4 yr Degree,1,2,5,6,8,12,MN,ND,HI,SC,AK,KS,MI
+s1_mix_00099.sql,5233,s1_mix,1,2002,M,Primary,1,5,6,7,8,10,SC,KS,MI,MN,AZ,FL,WA
+s1_mix_00100.sql,4343,s1_mix,1,2002,M,4 yr Degree,3,4,7,8,10,11,NH,MT,UT,MD,KS,MN,LA
+s1_mix_00101.sql,3908,s1_mix,1,2002,M,Primary,1,2,5,9,10,11,NV,MT,KS,CT,OR,WY,FL
+s1_mix_00102.sql,4145,s1_mix,1,2002,F,Secondary,1,3,4,5,8,12,CT,UT,FL,SD,MT,MN,WA
+s1_mix_00103.sql,4913,s1_mix,1,2002,F,Unknown,1,3,4,5,9,12,SD,LA,KS,VT,FL,MN,ME
+s1_mix_00104.sql,5096,s1_mix,1,2002,F,2 yr Degree,3,4,6,8,9,11,MI,WA,MN,KS,CT,MD,FL
+s1_mix_00105.sql,5303,s1_mix,1,2002,M,4 yr Degree,1,2,3,4,5,6,MI,WA,MN,UT,KS,HI,SD
+s1_mix_00106.sql,4394,s1_mix,1,2002,F,Unknown,4,6,7,8,11,12,WA,KS,LA,MI,NH,MA,ND
+s1_mix_00107.sql,4134,s1_mix,1,2002,M,College,1,2,6,7,11,12,SC,FL,WA,ME,KS,AZ,SD
+s1_mix_00108.sql,3863,s1_mix,1,2002,M,College,1,4,6,7,10,11,FL,MN,MI,SD,MD,OR,LA
+s1_mix_00109.sql,5210,s1_mix,1,2002,F,Unknown,1,2,3,6,8,9,MI,LA,MD,SD,MN,MA,KS
+s1_mix_00110.sql,5090,s1_mix,1,2002,M,Primary,3,4,7,8,9,10,WA,KS,SC,OR,MN,SD,ND
+s1_mix_00111.sql,3562,s1_mix,1,2002,M,Primary,2,3,4,5,6,12,SD,WY,VT,KS,FL,AZ,MI
+s1_mix_00112.sql,2944,s1_mix,1,2002,M,4 yr Degree,1,4,8,9,10,12,KS,MD,MA,ND,NH,ME,AK
+s1_mix_00113.sql,5081,s1_mix,1,2002,F,2 yr Degree,2,3,5,8,10,12,MN,KS,FL,WA,WY,ND,MT
+s1_mix_00114.sql,3558,s1_mix,1,2002,M,College,1,3,6,8,11,12,WY,MT,ND,SC,MI,MA,FL
+s1_mix_00115.sql,4980,s1_mix,1,2002,F,2 yr Degree,2,3,6,7,9,10,FL,MT,SC,ME,LA,KS,MI
+s1_mix_00116.sql,3880,s1_mix,1,2002,F,4 yr Degree,2,3,6,7,9,10,SD,MN,KS,WA,AK,RI,SC
+s1_mix_00117.sql,4429,s1_mix,1,2002,F,Secondary,1,2,3,4,10,11,KS,MN,AZ,SD,ND,MT,MD
+s1_mix_00118.sql,4677,s1_mix,1,2002,F,4 yr Degree,1,3,5,7,9,12,AK,UT,SD,FL,KS,MN,SC
+s1_mix_00119.sql,3326,s1_mix,1,2002,F,Secondary,3,4,5,6,8,9,FL,MI,MT,WA,UT,ND,AZ
+s1_mix_00120.sql,4647,s1_mix,1,2002,F,4 yr Degree,3,4,5,7,11,12,LA,SD,FL,AK,WA,KS,ND
+s1_mix_00121.sql,5045,s1_mix,1,2002,F,Secondary,1,3,6,10,11,12,MN,FL,SD,MA,OR,LA,MI
+s1_mix_00122.sql,4418,s1_mix,1,2002,M,4 yr Degree,1,2,5,8,9,10,RI,OR,MD,MT,SD,LA,KS
+s1_mix_00123.sql,3911,s1_mix,1,2002,F,2 yr Degree,1,6,8,9,10,12,MT,SD,SC,MN,LA,AK,NV
+s1_mix_00124.sql,4689,s1_mix,1,2002,F,Unknown,1,3,4,5,6,8,NV,MN,KS,WY,LA,AK,OR
+s1_mix_00125.sql,3935,s1_mix,1,2002,F,2 yr Degree,4,6,7,8,10,11,SD,MT,FL,WY,ND,ME,LA
+s1_mix_00126.sql,3752,s1_mix,1,2002,M,College,2,3,6,9,10,11,AK,OR,MT,KS,NV,WY,FL
+s1_mix_00127.sql,4603,s1_mix,1,2002,F,Unknown,1,2,4,6,8,10,MN,SD,ME,KS,OR,MD,WA
+s1_mix_00128.sql,4638,s1_mix,1,2002,M,College,1,4,5,8,10,12,MI,MA,KS,WA,SC,NV,MN
+s1_mix_00129.sql,4553,s1_mix,1,2002,M,Primary,2,4,5,6,8,12,MI,WA,MT,ND,UT,SD,LA
+s1_mix_00130.sql,4855,s1_mix,1,2002,M,4 yr Degree,1,2,3,6,8,12,KS,ME,SD,WA,AK,FL,MI
+s1_mix_00131.sql,4917,s1_mix,1,2002,F,Unknown,1,3,4,7,8,11,KS,OR,MN,WA,NV,MI,FL
+s1_mix_00132.sql,4418,s1_mix,1,2002,F,4 yr Degree,1,3,6,7,8,12,WY,SD,MI,FL,OR,MA,KS
+s1_mix_00133.sql,4593,s1_mix,1,2002,F,4 yr Degree,3,4,5,9,10,11,MN,HI,MI,WY,ND,NV,KS
+s1_mix_00134.sql,4729,s1_mix,1,2002,M,College,1,2,3,6,7,8,OR,SD,KS,NV,LA,MI,FL
+s1_mix_00135.sql,4505,s1_mix,1,2002,F,4 yr Degree,1,4,5,6,9,11,MI,FL,ND,NV,MT,LA,MN
+s1_mix_00136.sql,2871,s1_mix,1,2002,M,Primary,1,4,5,6,9,10,MT,VT,UT,MI,AK,OR,ME
+s1_mix_00137.sql,4043,s1_mix,1,2002,F,Secondary,2,3,4,6,7,12,MN,WA,SD,NV,SC,AK,MI
+s1_mix_00138.sql,4617,s1_mix,1,2002,F,Unknown,1,3,4,6,10,11,ME,SC,MN,FL,MT,ND,OR
+s1_mix_00139.sql,4984,s1_mix,1,2002,M,College,1,2,3,4,5,9,OR,MN,SC,MI,MT,KS,NH
+s1_mix_00140.sql,3503,s1_mix,1,2002,M,Primary,1,2,5,8,11,12,ND,MI,OR,WA,UT,ME,FL
+s1_mix_00141.sql,5106,s1_mix,1,2002,M,Primary,1,2,3,4,6,11,RI,SD,MN,MI,KS,OR,ND
+s1_mix_00142.sql,3652,s1_mix,1,2002,F,Unknown,1,3,5,7,9,10,SD,OR,UT,MN,FL,ND,AK
+s1_mix_00143.sql,4188,s1_mix,1,2002,M,College,1,3,7,8,11,12,MI,SC,FL,MN,CT,SD,ME
+s1_mix_00144.sql,5068,s1_mix,1,2002,M,4 yr Degree,2,5,6,7,9,10,MI,LA,SC,WA,UT,SD,MN
+s1_mix_00145.sql,4787,s1_mix,1,2002,M,Primary,3,4,5,7,9,12,KS,ND,FL,SC,MN,WY,LA
+s1_mix_00146.sql,3661,s1_mix,1,2002,F,2 yr Degree,3,5,8,9,10,11,WA,MN,MD,RI,MT,SC,MA
+s1_mix_00147.sql,4112,s1_mix,1,2002,F,4 yr Degree,1,2,5,6,10,12,FL,WA,MT,SD,OR,MI,LA
+s1_mix_00148.sql,5221,s1_mix,1,2002,F,2 yr Degree,3,4,5,10,11,12,LA,FL,KS,SC,WA,OR,ND
+s1_mix_00149.sql,3811,s1_mix,1,2002,M,College,1,2,6,8,11,12,UT,FL,KS,VT,NV,ME,MI
+s1_mix_00150.sql,4974,s1_mix,1,2002,F,Secondary,1,3,4,8,10,11,OR,KS,AK,SC,MN,MI,SD
+s1_mix_00151.sql,4044,s1_mix,1,2002,F,4 yr Degree,2,3,6,7,8,9,FL,DE,KS,MT,ND,SC,SD
+s1_mix_00152.sql,4195,s1_mix,1,2002,M,College,1,4,5,7,10,12,VT,MD,MN,FL,KS,LA,NV
+s1_mix_00153.sql,2587,s1_mix,1,2002,F,2 yr Degree,1,5,8,9,11,12,MI,AK,RI,LA,WY,OR,ME
+s1_mix_00154.sql,4100,s1_mix,1,2002,F,2 yr Degree,4,5,7,8,10,12,WA,ND,KS,OR,MI,VT,SD
+s1_mix_00155.sql,5648,s1_mix,1,2002,M,College,1,5,6,8,9,12,MI,FL,MN,SD,ME,MT,KS
+s1_mix_00156.sql,4340,s1_mix,1,2002,M,4 yr Degree,2,3,5,8,9,11,MN,FL,ME,NV,SD,ND,SC
+s1_mix_00157.sql,3878,s1_mix,1,2002,F,4 yr Degree,1,3,6,7,8,9,MI,KS,AK,MN,SC,WA,CT
+s1_mix_00158.sql,3263,s1_mix,1,2002,F,Secondary,3,4,6,7,9,10,FL,WA,MI,NV,AK,UT,SC
+s1_mix_00159.sql,4982,s1_mix,1,2002,M,4 yr Degree,2,4,7,10,11,12,MN,SC,SD,ND,UT,RI,MI
+s1_mix_00160.sql,2242,s1_mix,1,2002,F,4 yr Degree,1,3,4,8,10,11,NV,UT,MT,WY,ND,RI,AZ
+s1_mix_00161.sql,4956,s1_mix,1,2002,F,2 yr Degree,2,4,7,8,10,12,MN,FL,KS,UT,SD,MT,LA
+s1_mix_00162.sql,5203,s1_mix,1,2002,M,Primary,1,2,5,8,10,12,NV,MT,MN,FL,KS,WA,SC
+s1_mix_00163.sql,4292,s1_mix,1,2002,F,4 yr Degree,1,3,4,5,8,10,WA,MI,AZ,MT,SD,ND,KS
+s1_mix_00164.sql,5632,s1_mix,1,2002,M,College,1,3,4,8,10,12,MI,MD,KS,FL,MT,WA,MN
+s1_mix_00165.sql,4537,s1_mix,1,2002,F,2 yr Degree,1,2,4,8,11,12,MN,LA,WY,OR,KS,SC,NH
+s1_mix_00166.sql,4811,s1_mix,1,2002,F,Unknown,1,3,4,8,9,12,MT,SC,ND,MI,HI,MN,KS
+s1_mix_00167.sql,6250,s1_mix,1,2002,F,Secondary,1,5,7,9,11,12,MI,WA,WY,KS,MN,MT,FL
+s1_mix_00168.sql,4988,s1_mix,1,2002,M,College,1,6,7,8,9,10,WA,KS,FL,MI,AK,LA,SD
+s1_mix_00169.sql,4623,s1_mix,1,2002,M,College,1,3,5,7,9,11,LA,KS,MT,SC,MN,WA,FL
+s1_mix_00170.sql,4449,s1_mix,1,2002,F,Secondary,1,2,5,7,10,11,MN,NH,SD,MD,AK,FL,KS
+s1_mix_00171.sql,2521,s1_mix,1,2002,M,College,1,4,6,7,8,12,OR,ND,AZ,MT,AK,UT,WA
+s1_mix_00172.sql,4128,s1_mix,1,2002,F,2 yr Degree,1,5,6,7,9,12,NV,MT,OR,SC,SD,FL,MI
+s1_mix_00173.sql,3935,s1_mix,1,2002,F,4 yr Degree,4,6,7,9,10,12,HI,UT,KS,WA,MN,MI,NH
+s1_mix_00174.sql,4819,s1_mix,1,2002,M,4 yr Degree,2,3,6,7,10,12,FL,SD,OR,WY,KS,UT,ND
+s1_mix_00175.sql,5237,s1_mix,1,2002,M,4 yr Degree,1,2,5,6,9,10,SD,SC,MI,ND,LA,MN,WY
+s1_mix_00176.sql,3067,s1_mix,1,2002,F,4 yr Degree,1,2,4,6,7,11,WA,NH,LA,OR,SD,MI,MD
+s1_mix_00177.sql,4968,s1_mix,1,2002,M,Primary,3,7,9,10,11,12,AK,KS,MT,MI,LA,MN,SC
+s1_mix_00178.sql,3731,s1_mix,1,2002,M,4 yr Degree,2,5,7,8,10,12,OR,LA,VT,MT,NH,FL,SD
+s1_mix_00179.sql,4477,s1_mix,1,2002,F,Unknown,1,3,7,9,11,12,MI,KS,AZ,LA,OR,SC,WA
+s1_mix_00180.sql,5681,s1_mix,1,2002,M,College,4,5,8,9,11,12,MN,KS,LA,SC,ND,MI,OR
+s1_mix_00181.sql,4442,s1_mix,1,2002,F,Unknown,2,3,5,7,8,9,NH,MN,KS,MT,SD,ME,MD
+s1_mix_00182.sql,4229,s1_mix,1,2002,M,College,1,2,3,6,8,9,AZ,LA,WY,KS,VT,MN,MI
+s1_mix_00183.sql,5861,s1_mix,1,2002,F,Secondary,1,5,7,8,11,12,AZ,SD,MN,FL,KS,MI,MT
+s1_mix_00184.sql,4327,s1_mix,1,2002,M,College,3,5,6,7,10,11,SC,MT,MI,FL,LA,KS,CT
+s1_mix_00185.sql,4898,s1_mix,1,2002,M,Primary,2,4,5,7,8,12,MT,ND,MI,OR,UT,MN,KS
+s1_mix_00186.sql,3829,s1_mix,1,2002,F,2 yr Degree,1,3,5,8,10,12,WY,MT,AK,KS,SC,OR,WA
+s1_mix_00187.sql,4621,s1_mix,1,2002,F,2 yr Degree,2,4,5,6,8,11,SC,KS,MI,AK,NV,LA,FL
+s1_mix_00188.sql,5454,s1_mix,1,2002,M,College,3,4,7,10,11,12,MD,MN,MI,KS,WA,SC,SD
+s1_mix_00189.sql,4818,s1_mix,1,2002,F,2 yr Degree,2,3,4,5,9,11,MI,LA,OR,KS,FL,SD,ND
+s1_mix_00190.sql,3566,s1_mix,1,2002,M,College,2,3,6,7,8,10,WY,SD,NH,SC,FL,NV,KS
+s1_mix_00191.sql,4784,s1_mix,1,2002,F,4 yr Degree,1,2,3,6,7,11,KS,FL,MN,SD,ND,WY,LA
+s1_mix_00192.sql,4245,s1_mix,1,2002,F,4 yr Degree,1,3,4,6,9,12,LA,MD,MN,CT,FL,SC,MI
+s1_mix_00193.sql,4628,s1_mix,1,2002,F,Secondary,1,2,3,5,9,10,KS,SD,MI,UT,MT,RI,WA
+s1_mix_00194.sql,3475,s1_mix,1,2002,M,College,3,6,7,8,10,11,KS,UT,AK,MT,MD,NV,MN
+s1_mix_00195.sql,4938,s1_mix,1,2002,M,4 yr Degree,2,4,6,7,8,10,KS,NV,MI,WA,MN,LA,ME
+s1_mix_00196.sql,3816,s1_mix,1,2002,M,Primary,2,4,6,7,9,11,ME,KS,WA,SD,AZ,MD,MT
+s1_mix_00197.sql,4717,s1_mix,1,2002,F,Unknown,2,3,4,6,7,12,LA,OR,KS,SC,NH,WA,FL
+s1_mix_00198.sql,4328,s1_mix,1,2002,F,4 yr Degree,1,2,3,4,5,9,CT,LA,MT,MN,SC,FL,OR
+s1_mix_00199.sql,4821,s1_mix,1,2002,F,Unknown,2,4,9,10,11,12,VT,FL,KS,MI,WY,OR,WA
+s1_mix_00200.sql,5972,s1_mix,1,2002,F,Unknown,2,3,5,6,7,12,MT,AK,SD,MI,LA,KS,FL
+s1_mix_00201.sql,4440,s1_mix,1,2002,M,Primary,4,5,6,7,11,12,MD,MI,MN,SC,AK,SD,UT
+s1_mix_00202.sql,4759,s1_mix,1,2002,F,2 yr Degree,2,4,7,8,11,12,SD,FL,LA,MN,MT,KS,NV
+s1_mix_00203.sql,3956,s1_mix,1,2002,M,Primary,1,2,6,9,10,12,WY,KS,MT,MI,WA,SC,ND
+s1_mix_00204.sql,3705,s1_mix,1,2002,M,Primary,2,4,5,8,9,10,WA,AZ,WY,MN,VT,KS,ND
+s1_mix_00205.sql,5875,s1_mix,1,2002,M,4 yr Degree,1,2,4,7,9,10,ND,FL,LA,SD,KS,MN,SC
+s1_mix_00206.sql,4570,s1_mix,1,2002,F,2 yr Degree,2,3,7,10,11,12,ND,UT,AZ,MN,MD,LA,KS
+s1_mix_00207.sql,5223,s1_mix,1,2002,M,Primary,3,4,7,9,10,11,MT,WA,MI,NH,MN,KS,SD
+s1_mix_00208.sql,4682,s1_mix,1,2002,F,Secondary,3,6,7,8,10,11,LA,ND,DE,MT,SD,MA,KS
+s1_mix_00209.sql,3894,s1_mix,1,2002,M,Primary,2,3,4,8,9,11,MI,MN,CT,KS,ND,VT,NH
+s1_mix_00210.sql,4208,s1_mix,1,2002,M,College,1,2,4,5,7,8,SD,MT,MI,OR,UT,MD,MN
+s1_mix_00211.sql,5268,s1_mix,1,2002,F,Unknown,3,4,5,6,8,12,SC,SD,LA,NH,OR,MT,KS
+s1_mix_00212.sql,4935,s1_mix,1,2002,M,4 yr Degree,1,2,5,8,10,11,NH,MT,MI,SD,NV,KS,MN
+s1_mix_00213.sql,2719,s1_mix,1,2002,M,Primary,1,3,4,6,10,12,MI,SC,AK,FL,RI,MD,WA
+s1_mix_00214.sql,5291,s1_mix,1,2002,F,Unknown,1,3,5,9,10,12,LA,NH,KS,MI,AZ,SD,MN
+s1_mix_00215.sql,3973,s1_mix,1,2002,M,College,1,2,3,4,6,9,MN,WA,NH,KS,LA,OR,WY
+s1_mix_00216.sql,4436,s1_mix,1,2002,M,Primary,2,4,5,9,10,11,MI,FL,MN,SD,ND,AK,NV
+s1_mix_00217.sql,5607,s1_mix,1,2002,F,2 yr Degree,2,3,5,6,7,12,LA,UT,MI,SC,FL,MN,KS
+s1_mix_00218.sql,3581,s1_mix,1,2002,F,4 yr Degree,4,7,8,9,11,12,FL,OR,LA,MT,MI,MD,UT
+s1_mix_00219.sql,4355,s1_mix,1,2002,F,Unknown,1,2,4,7,9,11,WY,KS,LA,MT,WA,ND,UT
+s1_mix_00220.sql,5185,s1_mix,1,2002,M,College,2,6,8,9,11,12,MN,ND,ME,MI,KS,OR,FL
+s1_mix_00221.sql,5939,s1_mix,1,2002,M,Primary,4,5,7,8,9,11,MT,KS,MI,SD,LA,MN,OR
+s1_mix_00222.sql,4539,s1_mix,1,2002,F,2 yr Degree,4,6,7,8,9,12,KS,SC,MI,OR,RI,LA,FL
+s1_mix_00223.sql,4610,s1_mix,1,2002,F,Unknown,4,6,7,8,10,12,SD,WY,FL,MN,ND,UT,LA
+s1_mix_00224.sql,3841,s1_mix,1,2002,M,4 yr Degree,4,5,6,10,11,12,MN,MI,ND,MA,SC,MD,ME
+s1_mix_00225.sql,4490,s1_mix,1,2002,F,Secondary,1,3,4,6,11,12,UT,MN,KS,MI,NV,ND,MD
+s1_mix_00226.sql,4317,s1_mix,1,2002,F,4 yr Degree,2,5,6,7,8,9,LA,MI,MN,ND,ME,FL,SD
+s1_mix_00227.sql,4477,s1_mix,1,2002,F,Secondary,1,3,6,7,10,11,OR,MI,FL,MT,WA,MD,ND
+s1_mix_00228.sql,3266,s1_mix,1,2002,M,4 yr Degree,2,6,8,9,11,12,ND,CT,UT,MA,ME,MN,MT
+s1_mix_00229.sql,5367,s1_mix,1,2002,F,Unknown,5,7,9,10,11,12,FL,NV,LA,MN,WY,MT,KS
+s1_mix_00230.sql,3142,s1_mix,1,2002,M,College,1,3,5,7,10,11,ME,WA,LA,OR,SC,AK,VT
+s1_mix_00231.sql,4526,s1_mix,1,2002,M,Primary,1,2,4,7,8,9,SD,MI,OR,KS,LA,MT,WY
+s1_mix_00232.sql,3765,s1_mix,1,2002,M,College,2,5,8,9,10,11,ND,KS,VT,SD,SC,WY,ME
+s1_mix_00233.sql,4070,s1_mix,1,2002,F,4 yr Degree,1,6,7,9,10,11,MT,OR,FL,SD,WA,MD,KS
+s1_mix_00234.sql,4214,s1_mix,1,2002,M,Primary,1,2,4,7,10,11,ME,FL,MN,UT,WA,OR,MT
+s1_mix_00235.sql,5203,s1_mix,1,2002,M,Primary,1,4,7,8,9,11,MI,SC,MN,UT,KS,FL,VT
+s1_mix_00236.sql,3596,s1_mix,1,2002,M,Primary,2,3,4,7,8,9,MT,FL,LA,WA,WY,DC,KS
+s1_mix_00237.sql,4195,s1_mix,1,2002,F,Unknown,2,6,7,8,10,12,MA,MI,MN,LA,SC,MT,CT
+s1_mix_00238.sql,2986,s1_mix,1,2002,M,Primary,1,6,7,8,9,12,VT,ND,NV,KS,NH,SD,MD
+s1_mix_00239.sql,4845,s1_mix,1,2002,F,Unknown,4,6,8,10,11,12,MN,FL,ND,MI,OR,LA,AZ
+s1_mix_00240.sql,4238,s1_mix,1,2002,F,Secondary,4,6,7,8,9,11,KS,MA,NH,ND,AK,MN,MT
+s1_mix_00241.sql,4437,s1_mix,1,2002,F,Secondary,2,3,4,6,10,11,FL,MT,WA,MI,KS,NV,OR
+s1_mix_00242.sql,5343,s1_mix,1,2002,M,4 yr Degree,1,2,3,6,11,12,KS,LA,MT,FL,MN,ND,AZ
+s1_mix_00243.sql,5124,s1_mix,1,2002,M,4 yr Degree,1,3,5,8,10,12,ND,SC,FL,SD,OR,MT,MI
+s1_mix_00244.sql,4302,s1_mix,1,2002,F,Unknown,2,3,6,8,10,12,KS,ME,FL,AK,ND,OR,VT
+s1_mix_00245.sql,3527,s1_mix,1,2002,F,Secondary,2,3,6,9,10,11,OR,MD,MI,FL,AZ,SC,ND
+s1_mix_00246.sql,3759,s1_mix,1,2002,M,College,1,2,6,7,8,11,OR,MN,VT,MD,MT,MI,LA
+s1_mix_00247.sql,4017,s1_mix,1,2002,M,4 yr Degree,2,3,5,9,11,12,ND,AK,ME,MI,SD,MT,SC
+s1_mix_00248.sql,3395,s1_mix,1,2002,M,Primary,1,2,3,4,7,10,MI,OR,SD,KS,HI,AK,MD
+s1_mix_00249.sql,3107,s1_mix,1,2002,F,2 yr Degree,1,4,5,8,9,10,NV,MA,FL,ND,WA,LA,SD
+s1_mix_00250.sql,3879,s1_mix,1,2002,F,Secondary,2,3,5,6,7,9,MI,SD,MT,NV,WY,FL,ND
+s1_mix_00251.sql,3565,s1_mix,1,2002,M,College,2,4,5,6,8,10,LA,MD,UT,SD,WY,ND,MI
+s1_mix_00252.sql,4478,s1_mix,1,2002,F,Secondary,2,3,4,6,7,9,UT,FL,MI,MN,SC,LA,OR
+s1_mix_00253.sql,3096,s1_mix,1,2002,F,4 yr Degree,1,3,4,7,10,12,WY,MN,WA,FL,VT,OR,NV
+s1_mix_00254.sql,6069,s1_mix,1,2002,F,2 yr Degree,2,4,6,8,10,11,WA,MI,KS,ND,FL,LA,MN
+s1_mix_00255.sql,3858,s1_mix,1,2002,M,4 yr Degree,1,5,8,9,11,12,WA,ND,SD,MD,OR,LA,ME
+s1_mix_00256.sql,2896,s1_mix,1,2002,M,College,1,2,3,4,6,10,UT,NV,NH,LA,MI,WY,ND
+s1_mix_00257.sql,4039,s1_mix,1,2002,M,College,1,3,5,6,9,10,MI,KS,VT,WY,SD,AZ,SC
+s1_mix_00258.sql,3893,s1_mix,1,2002,F,Secondary,1,2,8,10,11,12,ME,MD,NV,OR,WY,LA,MN
+s1_mix_00259.sql,5531,s1_mix,1,2002,F,2 yr Degree,2,3,4,5,6,7,MI,FL,MN,SD,KS,AZ,ND
+s1_mix_00260.sql,3441,s1_mix,1,2002,M,Primary,1,2,3,4,9,12,FL,MA,MN,WA,ND,MD,AZ
+s1_mix_00261.sql,4834,s1_mix,1,2002,F,Unknown,2,3,5,6,10,11,MD,SD,ND,AK,MI,LA,MT
+s1_mix_00262.sql,3517,s1_mix,1,2002,F,2 yr Degree,1,2,3,8,10,11,NV,KS,MD,CT,SD,MT,WA
+s1_mix_00263.sql,4623,s1_mix,1,2002,F,2 yr Degree,2,4,5,6,7,8,MN,FL,KS,OR,NV,LA,SC
+s1_mix_00264.sql,4807,s1_mix,1,2002,M,4 yr Degree,1,2,5,8,10,12,LA,MN,MI,FL,MA,SD,SC
+s1_mix_00265.sql,4542,s1_mix,1,2002,F,Secondary,1,4,5,6,9,11,NH,MN,KS,FL,MT,NV,MD
+s1_mix_00266.sql,4739,s1_mix,1,2002,F,Unknown,1,2,3,5,10,12,ND,LA,MN,AK,NV,WY,KS
+s1_mix_00267.sql,4943,s1_mix,1,2002,F,4 yr Degree,2,3,4,8,9,11,MN,CT,SD,FL,MT,KS,WA
+s1_mix_00268.sql,4535,s1_mix,1,2002,F,Secondary,3,7,8,9,10,12,ME,FL,SD,AK,MT,ND,MN
+s1_mix_00269.sql,2597,s1_mix,1,2002,M,College,1,2,3,6,8,11,OR,CT,SC,FL,MA,MI,UT
+s1_mix_00270.sql,3615,s1_mix,1,2002,F,Unknown,4,6,7,9,10,11,MD,AK,UT,NV,MN,ND,SD
+s1_mix_00271.sql,4140,s1_mix,1,2002,M,4 yr Degree,1,5,6,8,9,12,WA,MD,MT,MI,MN,LA,AZ
+s1_mix_00272.sql,6199,s1_mix,1,2002,M,4 yr Degree,2,3,6,9,10,12,KS,ND,FL,MT,WA,MN,SD
+s1_mix_00273.sql,4812,s1_mix,1,2002,F,4 yr Degree,2,4,7,8,11,12,MA,MN,LA,SC,KS,FL,MI
+s1_mix_00274.sql,4010,s1_mix,1,2002,M,College,1,5,6,7,10,11,WA,LA,AZ,KS,MN,SD,NV
+s1_mix_00275.sql,6289,s1_mix,1,2002,F,Secondary,3,8,9,10,11,12,MI,KS,MT,WA,MN,FL,ND
+s1_mix_00276.sql,3942,s1_mix,1,2002,F,2 yr Degree,2,3,5,6,9,10,FL,UT,AK,MI,OR,MA,MN
+s1_mix_00277.sql,3331,s1_mix,1,2002,F,Unknown,1,2,3,5,10,12,CT,FL,KS,SC,VT,ME,OR
+s1_mix_00278.sql,5241,s1_mix,1,2002,M,College,1,3,5,6,7,12,UT,SD,FL,MN,KS,LA,ND
+s1_mix_00279.sql,4175,s1_mix,1,2002,M,College,1,2,3,4,5,6,MT,LA,VT,KS,WY,MN,FL
+s1_mix_00280.sql,5615,s1_mix,1,2002,M,Primary,1,2,5,7,8,9,KS,MN,FL,MD,OR,SC,MI
+s1_mix_00281.sql,4604,s1_mix,1,2002,F,Unknown,1,3,5,6,10,11,FL,MN,NH,MI,MT,SD,RI
+s1_mix_00282.sql,4228,s1_mix,1,2002,F,4 yr Degree,5,6,7,8,9,12,LA,KS,OR,MI,FL,SC,ND
+s1_mix_00283.sql,4634,s1_mix,1,2002,M,College,1,8,9,10,11,12,MI,NV,MT,WA,AZ,KS,LA
+s1_mix_00284.sql,6132,s1_mix,1,2002,F,Secondary,4,5,6,7,11,12,MI,KS,WA,MT,SD,ND,LA
+s1_mix_00285.sql,3868,s1_mix,1,2002,M,Primary,1,6,7,8,10,11,FL,WA,MT,MD,ME,MI,NH
+s1_mix_00286.sql,4633,s1_mix,1,2002,M,College,3,4,5,8,9,11,WA,FL,OR,MA,MI,KS,MN
+s1_mix_00287.sql,5495,s1_mix,1,2002,F,Unknown,3,4,5,8,10,12,KS,SD,MI,MN,MA,WA,FL
+s1_mix_00288.sql,4491,s1_mix,1,2002,F,Secondary,6,7,8,10,11,12,FL,WA,NH,MI,AK,SC,KS
+s1_mix_00289.sql,5054,s1_mix,1,2002,M,4 yr Degree,3,5,6,8,9,10,FL,LA,KS,MI,SC,NV,ND
+s1_mix_00290.sql,4603,s1_mix,1,2002,F,2 yr Degree,2,5,6,7,10,11,FL,SC,OR,MT,SD,NV,MN
+s1_mix_00291.sql,4603,s1_mix,1,2002,F,Unknown,1,3,4,6,9,11,MT,KS,FL,CT,WY,ND,OR
+s1_mix_00292.sql,5323,s1_mix,1,2002,F,Secondary,2,3,4,7,8,12,UT,KS,WA,ND,SD,MN,MI
+s1_mix_00293.sql,4870,s1_mix,1,2002,F,4 yr Degree,1,2,4,9,10,12,SC,KS,MI,LA,MN,NH,MT
+s1_mix_00294.sql,4340,s1_mix,1,2002,F,4 yr Degree,1,2,3,7,10,11,MN,KS,FL,MI,HI,MT,WY
+s1_mix_00295.sql,4242,s1_mix,1,2002,F,4 yr Degree,1,2,3,7,8,11,SD,MN,KS,AK,SC,OR,MT
+s1_mix_00296.sql,4617,s1_mix,1,2002,F,2 yr Degree,2,3,8,9,11,12,ND,FL,KS,MN,HI,LA,SC
+s1_mix_00297.sql,3882,s1_mix,1,2002,M,Primary,1,5,6,9,11,12,KS,SD,WA,LA,OR,NH,FL
+s1_mix_00298.sql,4524,s1_mix,1,2002,F,Secondary,2,5,6,8,10,12,KS,MI,UT,FL,MN,WY,ME
+s1_mix_00299.sql,3794,s1_mix,1,2002,M,Primary,3,5,6,8,9,10,OR,FL,SD,AZ,NH,KS,UT
+s1_mix_00300.sql,5852,s1_mix,1,2002,F,Unknown,1,2,5,6,8,10,NH,NV,MI,KS,ND,MN,FL
+s1_mix_00301.sql,5695,s1_mix,1,2002,F,Secondary,2,5,7,8,9,10,OR,MI,FL,KS,MA,LA,MT
+s1_mix_00302.sql,4473,s1_mix,1,2002,F,Secondary,1,3,5,9,11,12,SD,KS,WA,HI,ND,MT,NH
+s1_mix_00303.sql,3458,s1_mix,1,2002,F,2 yr Degree,1,2,7,8,9,10,CT,LA,AK,FL,MN,MD,ND
+s1_mix_00304.sql,4289,s1_mix,1,2002,F,Unknown,1,2,3,8,10,11,MD,LA,AZ,WA,MN,SC,FL
+s1_mix_00305.sql,4473,s1_mix,1,2002,F,4 yr Degree,1,2,3,4,5,11,VT,KS,UT,SD,FL,ND,MT
+s1_mix_00306.sql,3584,s1_mix,1,2002,M,4 yr Degree,1,2,3,5,10,11,ME,ND,MT,MI,SC,VT,CT
+s1_mix_00307.sql,4064,s1_mix,1,2002,F,Unknown,1,3,6,9,10,12,WY,KS,LA,NV,WA,UT,SD
+s1_mix_00308.sql,4785,s1_mix,1,2002,M,4 yr Degree,1,2,3,4,8,9,MN,AK,SD,AZ,NV,SC,KS
+s1_mix_00309.sql,5109,s1_mix,1,2002,M,Primary,1,2,6,7,9,10,KS,WA,MT,ME,SD,FL,MN
+s1_mix_00310.sql,3841,s1_mix,1,2002,F,2 yr Degree,2,3,5,7,9,12,OR,CT,KS,SD,MT,SC,MI
+s1_mix_00311.sql,5243,s1_mix,1,2002,F,4 yr Degree,3,5,7,8,9,10,OR,MN,KS,SD,MI,VT,ND
+s1_mix_00312.sql,4992,s1_mix,1,2002,M,College,1,3,9,10,11,12,MN,AZ,MI,KS,OR,ND,MT
+s1_mix_00313.sql,4740,s1_mix,1,2002,F,4 yr Degree,4,5,6,8,11,12,KS,MI,MD,MN,ND,FL,VT
+s1_mix_00314.sql,5304,s1_mix,1,2002,M,Primary,1,3,4,5,6,8,MI,MN,KS,SC,LA,AZ,SD
+s1_mix_00315.sql,3827,s1_mix,1,2002,F,2 yr Degree,1,4,5,10,11,12,FL,MI,LA,VT,MD,WA,NH
+s1_mix_00316.sql,3995,s1_mix,1,2002,M,College,3,4,6,8,9,10,SD,KS,MD,SC,LA,DE,OR
+s1_mix_00317.sql,4403,s1_mix,1,2002,M,College,2,7,8,9,10,11,WA,LA,CT,MN,KS,ND,AK
+s1_mix_00318.sql,5303,s1_mix,1,2002,M,4 yr Degree,4,5,7,10,11,12,KS,MN,SC,UT,VT,ND,MI
+s1_mix_00319.sql,4169,s1_mix,1,2002,M,College,4,5,6,8,9,12,KS,WA,MN,WY,MD,LA,MA
+s1_mix_00320.sql,4261,s1_mix,1,2002,F,2 yr Degree,1,3,4,8,11,12,WA,MN,UT,KS,NV,MI,VT
+s1_mix_00321.sql,3117,s1_mix,1,2002,F,2 yr Degree,3,4,6,7,11,12,MA,MI,UT,NV,AK,MT,ND
+s1_mix_00322.sql,5610,s1_mix,1,2002,F,Secondary,1,3,4,5,9,10,SD,SC,MT,MI,KS,FL,VT
+s1_mix_00323.sql,4939,s1_mix,1,2002,M,4 yr Degree,2,3,5,8,9,11,MI,MD,FL,ND,KS,OR,MT
+s1_mix_00324.sql,2535,s1_mix,1,2002,M,4 yr Degree,3,4,5,6,8,12,WA,MA,MD,AZ,FL,OR,VT
+s1_mix_00325.sql,4216,s1_mix,1,2002,F,2 yr Degree,1,5,6,7,9,10,ND,LA,MI,MN,SD,AK,WY
+s1_mix_00326.sql,4613,s1_mix,1,2002,M,4 yr Degree,2,3,4,5,7,12,AK,SC,MT,LA,MN,MI,MD
+s1_mix_00327.sql,4983,s1_mix,1,2002,M,4 yr Degree,1,2,7,8,10,12,ND,MD,KS,MT,NV,MI,WA
+s1_mix_00328.sql,5515,s1_mix,1,2002,F,Unknown,2,4,5,6,7,11,KS,SD,SC,LA,MA,OR,MN
+s1_mix_00329.sql,5410,s1_mix,1,2002,M,College,6,8,9,10,11,12,SD,MN,ND,MI,KS,LA,ME
+s1_mix_00330.sql,5329,s1_mix,1,2002,F,2 yr Degree,1,2,4,6,7,10,MI,KS,SD,MN,ND,VT,LA
+s1_mix_00331.sql,4137,s1_mix,1,2002,M,4 yr Degree,1,3,6,10,11,12,FL,UT,MT,KS,MN,AK,AZ
+s1_mix_00332.sql,5062,s1_mix,1,2002,M,College,1,4,9,10,11,12,MI,LA,MN,FL,OR,MT,WA
+s1_mix_00333.sql,5511,s1_mix,1,2002,M,4 yr Degree,2,5,8,9,11,12,OR,KS,SD,FL,MN,WA,ND
+s1_mix_00334.sql,4013,s1_mix,1,2002,F,4 yr Degree,1,3,6,8,9,12,WA,SC,ND,MN,NV,SD,MI
+s1_mix_00335.sql,4835,s1_mix,1,2002,F,4 yr Degree,1,4,5,6,7,12,MN,KS,MI,SD,AK,FL,ND
+s1_mix_00336.sql,3125,s1_mix,1,2002,M,Primary,3,4,5,7,10,12,AZ,ND,NH,MT,VT,FL,MI
+s1_mix_00337.sql,5068,s1_mix,1,2002,F,Secondary,1,2,4,5,6,10,SD,FL,LA,MN,MD,KS,SC
+s1_mix_00338.sql,4807,s1_mix,1,2002,M,Primary,2,3,5,9,11,12,WY,KS,SC,SD,FL,MN,NV
+s1_mix_00339.sql,3976,s1_mix,1,2002,M,Primary,2,5,7,9,10,11,WY,MD,SC,ND,WA,KS,LA
+s1_mix_00340.sql,4593,s1_mix,1,2002,M,Primary,2,4,8,10,11,12,ND,MN,UT,WA,SD,MT,OR
+s1_mix_00341.sql,4842,s1_mix,1,2002,F,Unknown,1,2,3,5,7,9,KS,WA,MA,SD,FL,MN,LA
+s1_mix_00342.sql,4910,s1_mix,1,2002,M,4 yr Degree,3,4,6,7,9,10,ND,MI,SC,UT,KS,ME,WA
+s1_mix_00343.sql,4330,s1_mix,1,2002,M,College,2,4,5,7,11,12,MT,MN,WA,ND,MI,AK,OR
+s1_mix_00344.sql,3782,s1_mix,1,2002,M,College,1,2,4,7,8,11,WA,ND,OR,MN,SC,MI,MD
+s1_mix_00345.sql,5299,s1_mix,1,2002,M,4 yr Degree,2,3,4,8,9,11,FL,MN,ND,KS,OR,LA,VT
+s1_mix_00346.sql,5349,s1_mix,1,2002,F,4 yr Degree,2,4,5,7,9,12,MI,KS,MN,WA,SD,AZ,MT
+s1_mix_00347.sql,5782,s1_mix,1,2002,F,Secondary,2,3,5,6,7,8,NV,KS,FL,OR,LA,MI,MN
+s1_mix_00348.sql,3924,s1_mix,1,2002,F,Unknown,1,3,4,8,11,12,MD,MT,SD,WA,FL,NV,SC
+s1_mix_00349.sql,4364,s1_mix,1,2002,M,4 yr Degree,1,2,8,10,11,12,SD,WA,LA,RI,MN,MT,WY
