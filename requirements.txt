@@ -1,0 +1,10 @@
+# Runtime dependencies for workload generation, materialisation and evaluation.
+# Not a lock file for the historical experiments; preserve the environment used.
+duckdb
+numpy
+pandas
+pyarrow
+numba
+scipy
+scikit-learn
+threadpoolctl
